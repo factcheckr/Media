@@ -1,3 +1,3 @@
-- https://factcheckr.github.io/media/kbsnews_factcheck.xml
-- https://factcheckr.github.io/media/sbsnews_fact.xml
-- https://factcheckr.github.io/media/mbcnews_turnedout.xml
+- https://factcheckr.github.io/Media/kbsnews_factcheck.xml
+- https://factcheckr.github.io/Media/sbsnews_fact.xml
+- https://factcheckr.github.io/Media/mbcnews_turnedout.xml
