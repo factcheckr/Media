@@ -4,9 +4,18 @@
         <title>SBS뉴스 ─ 사실은</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Sep 2021 00:10:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Sep 2021 05:39:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[사실은] '성(性)인지 예산'은 성(性)을 인지하고 있나요?]]></title>
+            <link>https://news.sbs.co.kr/news/endPage.do?news_id=N1006477425&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</link>
+            <guid>https://news.sbs.co.kr/news/endPage.do?news_id=N1006477425&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</guid>
+            <pubDate>Mon, 27 Sep 2021 05:38:57 GMT</pubDate>
+            <content:encoded><![CDATA[<img alt="이경원 기자 기자 사진" src="//img.sbs.co.kr/newimg/news/2011-08-05_133817.png" class="lazy" style="display: inline;">
+									이경원 기자]]></content:encoded>
+            <enclosure url="https://img.sbs.co.kr/newimg/news/20210831/201587291_300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[사실은] 유튜브는 '보수'로 기울어졌나요? 팩트체크 해봤다]]></title>
             <link>https://news.sbs.co.kr/news/endPage.do?news_id=N1006470066&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</link>
@@ -48,7 +57,7 @@
             <link>https://news.sbs.co.kr/news/endPage.do?news_id=N1006457969&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</link>
             <guid>https://news.sbs.co.kr/news/endPage.do?news_id=N1006457969&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</guid>
             <pubDate>Sun, 26 Sep 2021 23:06:39 GMT</pubDate>
-            <content:encoded><![CDATA[<img alt="이경원 기자 기자 사진" src="//img.sbs.co.kr/newimg/news/2011-08-05_133817.png" class="lazy" style="display: inline;">
+            <content:encoded><![CDATA[<img alt="이경원 기자 기자 사진" src="//img.sbs.co.kr/newimg/news/reporter_thum.jpg" data-src="//img.sbs.co.kr/newimg/news/2011-08-05_133817.png" class="lazy">
 									이경원 기자]]></content:encoded>
             <enclosure url="https://img.sbs.co.kr/newimg/news/20210908/201589843_300.jpg" length="0" type="image/jpg"/>
         </item>
@@ -59,7 +68,7 @@
             <pubDate>Sun, 26 Sep 2021 23:06:39 GMT</pubDate>
             <content:encoded><![CDATA[<img alt="이경원 기자 기자 사진" src="//img.sbs.co.kr/newimg/news/reporter_thum.jpg" data-src="//img.sbs.co.kr/newimg/news/2011-08-05_133817.png" class="lazy">
 									이경원 기자]]></content:encoded>
-            <enclosure url="https://img.sbs.co.kr/newimg/news/20210903/201588393_300.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://static.sbsdlab.co.kr/image/thumb_default.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[사실은] D.P. 보고 씁쓸해서 팩트체크 했습니다]]></title>
@@ -83,15 +92,6 @@
             <title><![CDATA[[사실은] 미국은 더 강하게 벌준다? 사실은?]]></title>
             <link>https://news.sbs.co.kr/news/endPage.do?news_id=N1006444863&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</link>
             <guid>https://news.sbs.co.kr/news/endPage.do?news_id=N1006444863&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</guid>
-            <pubDate>Sun, 26 Sep 2021 23:06:39 GMT</pubDate>
-            <content:encoded><![CDATA[<img alt="이경원 기자 기자 사진" src="//img.sbs.co.kr/newimg/news/reporter_thum.jpg" data-src="//img.sbs.co.kr/newimg/news/2011-08-05_133817.png" class="lazy">
-									이경원 기자]]></content:encoded>
-            <enclosure url="https://static.sbsdlab.co.kr/image/thumb_default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[사실은] "'징벌적 손배' 미국이 더 세다"…따져보니?]]></title>
-            <link>https://news.sbs.co.kr/news/endPage.do?news_id=N1006444008&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</link>
-            <guid>https://news.sbs.co.kr/news/endPage.do?news_id=N1006444008&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</guid>
             <pubDate>Sun, 26 Sep 2021 23:06:39 GMT</pubDate>
             <content:encoded><![CDATA[<img alt="이경원 기자 기자 사진" src="//img.sbs.co.kr/newimg/news/reporter_thum.jpg" data-src="//img.sbs.co.kr/newimg/news/2011-08-05_133817.png" class="lazy">
 									이경원 기자]]></content:encoded>
