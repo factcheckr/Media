@@ -4,9 +4,17 @@
         <title>MBC뉴스 ─ 알고보니</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Sep 2021 11:13:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Sep 2021 12:25:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[산재 신청도 안하고 44억 산재위로금‥한국에서 가능?]]></title>
+            <link>https://imnews.imbc.com/replay/2021/nwdesk/article/6303569_34936.html</link>
+            <guid>https://imnews.imbc.com/replay/2021/nwdesk/article/6303569_34936.html</guid>
+            <pubDate>Tue, 28 Sep 2021 12:25:34 GMT</pubDate>
+            <content:encoded><![CDATA[<span>2021-09-28</span>]]></content:encoded>
+            <enclosure url="https://image.imnews.imbc.com/replay/2021/nwdesk/article/__icsFiles/afieldfile/2021/09/28/desk_20210928_202654_1_18_Large.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[목숨도 앗아가는 보이스피싱‥'감형사유' 봤더니]]></title>
             <link>https://imnews.imbc.com/newszoomin/newsinsight/6302854_29123.html</link>
@@ -113,13 +121,6 @@
             <pubDate>Sun, 26 Sep 2021 23:06:54 GMT</pubDate>
             <content:encoded><![CDATA[<span>2021-08-17</span>]]></content:encoded>
             <enclosure url="https://image.imnews.imbc.com/replay/2021/nwdesk/article/__icsFiles/afieldfile/2021/08/17/desk_20210817_204009_1_24_Large.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여가부 폐지론 '불똥' 맞는 성인지 예산?]]></title>
-            <link>https://imnews.imbc.com/newszoomin/newsinsight/6287141_29123.html</link>
-            <guid>https://imnews.imbc.com/newszoomin/newsinsight/6287141_29123.html</guid>
-            <pubDate>Sun, 26 Sep 2021 23:06:54 GMT</pubDate>
-            <content:encoded><![CDATA[<span>2021-07-18</span>]]></content:encoded>
         </item>
     </channel>
 </rss>
