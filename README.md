@@ -1,6 +1,6 @@
 # 언론사 팩트체크
 
-## KBS 팩트체크K
+## KBS 뉴스 ─ 팩트체크K
 https://news.kbs.co.kr/news/list.do?mcd=1032&ref=pMenu  
 https://news.daum.net/series/1664634
 - RSS: https://factcheckr.github.io/Media/kbsnews_factcheck.xml
