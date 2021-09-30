@@ -21,6 +21,7 @@ https://news.daum.net/series/1453
 https://www.youtube.com/playlist?list=PL3Eb1N33oAXgQrRBThE4TPSOIR8ZgfSug  
 
 ## 채널A ─ 팩트맨
+http://www.ichannela.com/news/template/program_news.do?cateCode=&subCateCode=000500&type=03&menuIndex=3&seqIndex=0&searchDate=&realCateCode=00050021
 
 ## 경향신문 ─ 팩트체크
 https://www.khan.co.kr/series/articles/aj165  
