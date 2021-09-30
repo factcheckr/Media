@@ -27,3 +27,13 @@ linkSelector = "a"
 imageSelector = "span.img.ico_vod img"
 contentSelector = "span.sub2"
 waitUntil = "networkidle"
+
+[yna_factcheck]
+title = "연합뉴스 ─ 팩트체크"
+url = "https://www.yna.co.kr/theme-list/factcheck?site=navi_factcheck"
+entrySelector = "div.list-type038 ul.list li"
+titleSelector = "strong.tit-news"
+linkSelector = "div.news-con a"
+contentSelector = "p.lead"
+imageSelector = "figure.img-con img"
+waitUntil = "networkidle"
