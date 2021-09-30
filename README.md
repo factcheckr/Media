@@ -10,4 +10,4 @@
 - https://factcheckr.github.io/Media/mbcnews_turnedout.xml
 
 ## 연합뉴스
-https://factcheckr.github.io/Media/yna_factcheck.xml
+- https://factcheckr.github.io/Media/yna_factcheck.xml
