@@ -39,6 +39,11 @@ https://www.yna.co.kr/theme-list/factcheck
 모바일: https://m.yna.co.kr/theme-list/factcheck  
 - RSS: https://factcheckr.github.io/Media/yna_factcheck.xml
 
+## 동아사이언스 ─ 팩트체크
+https://www.dongascience.com/special.php?category=001_148
+- RSS: https://FactCheckr.github.io/Media/dongascience_factcheck.xml
+
+
 ---
 
 [▶️ 다음 뉴스 이동하기](https://github.com/FactCheckr/Daum)
