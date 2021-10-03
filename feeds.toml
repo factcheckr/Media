@@ -37,3 +37,12 @@ linkSelector = "div.news-con a"
 contentSelector = "p.lead"
 imageSelector = "figure.img-con img"
 waitUntil = "networkidle"
+
+[dongascience_factcheck]
+title = "동아사이언스 ─ 팩트체크"
+url = "https://www.dongascience.com/special.php?category=001_148"
+entrySelector = "div.article-A2 ul li"
+titleSelector = "span.tit"
+linkSelector = "a"
+contentSelector = "span.cont div.two-lines"
+waitUntil = "networkidle"
