@@ -41,7 +41,7 @@ https://www.yna.co.kr/theme-list/factcheck
 
 ## 동아사이언스 ─ 팩트체크
 https://www.dongascience.com/special.php?category=001_148
-- RSS: https://FactCheckr.github.io/Media/dongascience_factcheck.xml
+- RSS: https://factcheckr.github.io/Media/dongascience_factcheck.xml
 
 
 ---
