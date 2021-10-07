@@ -4,9 +4,19 @@
         <title>연합뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Oct 2021 21:14:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Oct 2021 22:16:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[7일만에 결정된 '노엘 구속영장 청구'는 특혜?]]></title>
+            <link>https://www.yna.co.kr/view/AKR20211007099500502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20211007099500502?section=theme-list/factcheck</guid>
+            <pubDate>Thu, 07 Oct 2021 22:15:58 GMT</pubDate>
+            <content:encoded><![CDATA[통상 2∼3일 안에 결론나지만 노엘 건은 연휴 때문에 늦어져
+7월 '피의자 면담제' 시행으로 구속전 면담 일정 조율도 논란거리 안돼
+...]]></content:encoded>
+            <enclosure url="https://img8.yna.co.kr/photo/yna/YH/2021/09/30/PYH2021093023910001300_P2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[미국·영국 백신 부작용 사망 보고가 코로나 사망자보다 많다?]]></title>
             <link>https://www.yna.co.kr/view/AKR20211007078800502?section=theme-list/factcheck</link>
@@ -244,16 +254,6 @@ EU, '사형 존치국' 분류 싱...]]></content:encoded>
 "홍 장군, 독립군 신속한 통합에 관심"…'참변 가담' 기록 없어
 참변...]]></content:encoded>
             <enclosure url="https://img3.yna.co.kr/photo/yna/YH/2021/08/17/PYH2021081710820006300_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['모더나 항의' 정부 대표단 골프채 가져갔나]]></title>
-            <link>https://www.yna.co.kr/view/AKR20210818045500502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20210818045500502?section=theme-list/factcheck</guid>
-            <pubDate>Thu, 07 Oct 2021 07:16:02 GMT</pubDate>
-            <content:encoded><![CDATA["뉴스 화면 속 골프백처럼 보여" 온라인 커뮤니티서 주장 제기
-다른 승객 짐일 가능성 커…보건복지부 "1박3일 일정 빠듯"
-...]]></content:encoded>
-            <enclosure url="https://img5.yna.co.kr/photo/yna/YH/2021/08/13/PYH2021081301070001300_P2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
