@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Oct 2021 09:14:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Oct 2021 10:18:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -360,6 +360,16 @@
             <enclosure url="https://img7.yna.co.kr/photo/cms/2021/09/03/50/PCM20210903000150990_P2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[임신부가 코로나19 백신 접종하면 더 위험? (연합뉴스 ─ 팩트체크)]]></title>
+            <link>https://www.yna.co.kr/view/AKR20211005141200502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20211005141200502?section=theme-list/factcheck</guid>
+            <pubDate>Thu, 07 Oct 2021 10:18:11 GMT</pubDate>
+            <content:encoded><![CDATA[임신부 8일부터 예약받아 18일부터 접종…일각서 "무서워서 안 맞겠다"
+임신부가 더 위험하다는 연구결과 없어…접종 않고 감염되면 더 위험
+...]]></content:encoded>
+            <enclosure url="https://img7.yna.co.kr/photo/cms/2021/09/03/50/PCM20210903000150990_P2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[윤석열 부친 통장에 찍힌 국고학술원…'친일' 흔적? (연합뉴스 ─ 팩트체크)]]></title>
             <link>https://www.yna.co.kr/view/AKR20210930125700502?section=theme-list/factcheck</link>
             <guid>https://www.yna.co.kr/view/AKR20210930125700502?section=theme-list/factcheck</guid>
@@ -577,15 +587,6 @@ EU, '사형 존치국' 분류 싱...]]></content:encoded>
 다른 승객 짐일 가능성 커…보건복지부 "1박3일 일정 빠듯"
 ...]]></content:encoded>
             <enclosure url="https://img5.yna.co.kr/photo/yna/YH/2021/08/13/PYH2021081301070001300_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서울 도시·금융 경쟁력, 박원순 재임때 급추락했나(종합) (연합뉴스 ─ 팩트체크)]]></title>
-            <link>https://www.yna.co.kr/view/AKR20210817136251502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20210817136251502?section=theme-list/factcheck</guid>
-            <pubDate>Thu, 30 Sep 2021 13:26:23 GMT</pubDate>
-            <content:encoded><![CDATA[오세훈시장 "도시경쟁력 11→17위, 금융경쟁력 10→25위 하락" 주장
-미국 컨설팅기업 글로벌도시지수, 2008년 9위→작년 17위로 하락...]]></content:encoded>
-            <enclosure url="https://img7.yna.co.kr/etc/inner/KR/2021/08/17/AKR20210817136251502_03_i_P2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["소아청소년 백신 접종 이상반응 성인과 비슷한 정도" 전문가 일문일답 (동아사이언스 ─ 팩트체크)]]></title>
