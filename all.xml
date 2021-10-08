@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Oct 2021 11:15:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Oct 2021 12:25:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -226,6 +226,14 @@
             <enclosure url="https://static.sbsdlab.co.kr/image/thumb_default.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[영양실조로 사망 외환위기 후 최다? (MBC뉴스 ─ 알고보니)]]></title>
+            <link>https://imnews.imbc.com/replay/2021/nwdesk/article/6306023_34936.html</link>
+            <guid>https://imnews.imbc.com/replay/2021/nwdesk/article/6306023_34936.html</guid>
+            <pubDate>Fri, 08 Oct 2021 12:24:48 GMT</pubDate>
+            <content:encoded><![CDATA[<span>2021-10-08</span>]]></content:encoded>
+            <enclosure url="https://image.imnews.imbc.com/replay/2021/nwdesk/article/__icsFiles/afieldfile/2021/10/08/desk_20211008_203236_1_22_Large.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['급격한 탈원전' 탓은 아니지만‥앞으론 어떨까 (MBC뉴스 ─ 알고보니)]]></title>
             <link>https://imnews.imbc.com/newszoomin/newsinsight/6304482_29123.html</link>
             <guid>https://imnews.imbc.com/newszoomin/newsinsight/6304482_29123.html</guid>
@@ -330,13 +338,6 @@
             <title><![CDATA["열정 페이는 아직도 존재합니다" (심층인터뷰) (채용형 인턴) (MBC뉴스 ─ 알고보니)]]></title>
             <link>https://imnews.imbc.com/newszoomin/newsinsight/6294575_29123.html</link>
             <guid>https://imnews.imbc.com/newszoomin/newsinsight/6294575_29123.html</guid>
-            <pubDate>Sun, 26 Sep 2021 23:06:54 GMT</pubDate>
-            <content:encoded><![CDATA[<span>2021-08-19</span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[청년엔 '발등의 불', 사회엔 '강건너 불'? (채용형 인턴) (MBC뉴스 ─ 알고보니)]]></title>
-            <link>https://imnews.imbc.com/newszoomin/newsinsight/6294574_29123.html</link>
-            <guid>https://imnews.imbc.com/newszoomin/newsinsight/6294574_29123.html</guid>
             <pubDate>Sun, 26 Sep 2021 23:06:54 GMT</pubDate>
             <content:encoded><![CDATA[<span>2021-08-19</span>]]></content:encoded>
         </item>
