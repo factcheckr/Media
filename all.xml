@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Oct 2021 02:05:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Oct 2021 03:17:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -341,6 +341,16 @@
             <content:encoded><![CDATA[<span>2021-08-19</span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[한글날은 한글이 만들어진 날이다? (연합뉴스 ─ 팩트체크)]]></title>
+            <link>https://www.yna.co.kr/view/AKR20211007130300502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20211007130300502?section=theme-list/factcheck</guid>
+            <pubDate>Fri, 08 Oct 2021 03:16:53 GMT</pubDate>
+            <content:encoded><![CDATA[창제일 아냐…훈민정음 해례본 발견 뒤 추정한 '반포일 중 하루'
+유네스코 세계기록유산 등재된 것도 한글 아닌 '훈민정음 해례본'
+(...]]></content:encoded>
+            <enclosure url="https://img3.yna.co.kr/photo/cms/2021/07/24/50/PCM20210724000050005_P2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[7일만에 결정된 '노엘 구속영장 청구'는 특혜? (연합뉴스 ─ 팩트체크)]]></title>
             <link>https://www.yna.co.kr/view/AKR20211007099500502?section=theme-list/factcheck</link>
             <guid>https://www.yna.co.kr/view/AKR20211007099500502?section=theme-list/factcheck</guid>
@@ -577,16 +587,6 @@ EU, '사형 존치국' 분류 싱...]]></content:encoded>
 제약사서 임상시험 자원자에게 사례비 따로 지급
 (서울=연합뉴스...]]></content:encoded>
             <enclosure url="https://img0.yna.co.kr/etc/inner/KR/2021/08/20/AKR20210820117100502_02_i_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[홍범도 장군이 독립군 몰살된 '자유시 참변'에 가담? (연합뉴스 ─ 팩트체크)]]></title>
-            <link>https://www.yna.co.kr/view/AKR20210819098400502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20210819098400502?section=theme-list/factcheck</guid>
-            <pubDate>Thu, 30 Sep 2021 13:26:23 GMT</pubDate>
-            <content:encoded><![CDATA[유해 봉환 속 "참변 가담해 反공산주의 계열 독립군 학살" 주장 나와
-"홍 장군, 독립군 신속한 통합에 관심"…'참변 가담' 기록 없어
-참변...]]></content:encoded>
-            <enclosure url="https://img3.yna.co.kr/photo/yna/YH/2021/08/17/PYH2021081710820006300_P2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["소아청소년 백신 접종 이상반응 성인과 비슷한 정도" 전문가 일문일답 (동아사이언스 ─ 팩트체크)]]></title>
