@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Oct 2021 03:16:46 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Oct 2021 04:22:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -342,6 +342,15 @@
             <content:encoded><![CDATA[<span>2021-08-19</span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[음주측정거부가 음주운전보다 처벌 약하다? (연합뉴스 ─ 팩트체크)]]></title>
+            <link>https://www.yna.co.kr/view/AKR20211008127100502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20211008127100502?section=theme-list/factcheck</guid>
+            <pubDate>Sun, 10 Oct 2021 04:22:05 GMT</pubDate>
+            <content:encoded><![CDATA[노엘 구속영장 청구에 음주운전 혐의 빠지자 "처벌 약한 음주측정거부만 적용" 지적
+혈중알코올농도 0.2% 이상일 경우에는 음주측정거부 법정형...]]></content:encoded>
+            <enclosure url="https://img1.yna.co.kr/photo/yna/YH/2021/09/30/PYH2021093023850001300_P2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[한글날은 한글이 만들어진 날이다? (연합뉴스 ─ 팩트체크)]]></title>
             <link>https://www.yna.co.kr/view/AKR20211007130300502?section=theme-list/factcheck</link>
             <guid>https://www.yna.co.kr/view/AKR20211007130300502?section=theme-list/factcheck</guid>
@@ -578,16 +587,6 @@ EU, '사형 존치국' 분류 싱...]]></content:encoded>
 최초 출처는 일본 커뮤니티…일본 온라인상에 널리 퍼진 소문
 2014년 미국서 ...]]></content:encoded>
             <enclosure url="https://img0.yna.co.kr/etc/inner/KR/2021/08/23/AKR20210823115600502_01_i_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['K-백신' 임상시험 참여 사례비는 5천원? (연합뉴스 ─ 팩트체크)]]></title>
-            <link>https://www.yna.co.kr/view/AKR20210820117100502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20210820117100502?section=theme-list/factcheck</guid>
-            <pubDate>Thu, 30 Sep 2021 13:26:23 GMT</pubDate>
-            <content:encoded><![CDATA[정부 '공공기관 입장료 할인·면제' 유인책에 "사실상 공짜" 비판
-제약사서 임상시험 자원자에게 사례비 따로 지급
-(서울=연합뉴스...]]></content:encoded>
-            <enclosure url="https://img0.yna.co.kr/etc/inner/KR/2021/08/20/AKR20210820117100502_02_i_P2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["소아청소년 백신 접종 이상반응 성인과 비슷한 정도" 전문가 일문일답 (동아사이언스 ─ 팩트체크)]]></title>
