@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Oct 2021 11:14:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Oct 2021 12:24:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -226,6 +226,14 @@
             <enclosure url="https://static.sbsdlab.co.kr/image/thumb_default.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA["좋아하는 형님들"‥김만배 어떤 기사 썼길래 (MBC뉴스 ─ 알고보니)]]></title>
+            <link>https://imnews.imbc.com/replay/2021/nwdesk/article/6306466_34936.html</link>
+            <guid>https://imnews.imbc.com/replay/2021/nwdesk/article/6306466_34936.html</guid>
+            <pubDate>Mon, 11 Oct 2021 12:24:28 GMT</pubDate>
+            <content:encoded><![CDATA[<span>2021-10-11</span>]]></content:encoded>
+            <enclosure url="https://image.imnews.imbc.com/replay/2021/nwdesk/article/__icsFiles/afieldfile/2021/10/11/desk_20211011_202057_1_16_Large.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[영양실조로 사망 외환위기 후 최다? (MBC뉴스 ─ 알고보니)]]></title>
             <link>https://imnews.imbc.com/replay/2021/nwdesk/article/6306023_34936.html</link>
             <guid>https://imnews.imbc.com/replay/2021/nwdesk/article/6306023_34936.html</guid>
@@ -333,13 +341,6 @@
             <pubDate>Sun, 26 Sep 2021 23:06:54 GMT</pubDate>
             <content:encoded><![CDATA[<span>2021-08-20</span>]]></content:encoded>
             <enclosure url="https://image.imnews.imbc.com/replay/2021/nwdesk/article/__icsFiles/afieldfile/2021/08/20/desk_20210820_203736_1_24_Large.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["열정 페이는 아직도 존재합니다" (심층인터뷰) (채용형 인턴) (MBC뉴스 ─ 알고보니)]]></title>
-            <link>https://imnews.imbc.com/newszoomin/newsinsight/6294575_29123.html</link>
-            <guid>https://imnews.imbc.com/newszoomin/newsinsight/6294575_29123.html</guid>
-            <pubDate>Sun, 26 Sep 2021 23:06:54 GMT</pubDate>
-            <content:encoded><![CDATA[<span>2021-08-19</span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[음주측정거부가 음주운전보다 처벌 약하다? (연합뉴스 ─ 팩트체크)]]></title>
