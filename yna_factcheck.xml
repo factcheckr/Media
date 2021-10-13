@@ -4,9 +4,19 @@
         <title>연합뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Oct 2021 04:20:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Oct 2021 05:15:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[범행에 쓰인 휴대전화 신고 안하면 증거은닉죄?]]></title>
+            <link>https://www.yna.co.kr/view/AKR20211013094700502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20211013094700502?section=theme-list/factcheck</guid>
+            <pubDate>Wed, 13 Oct 2021 05:15:14 GMT</pubDate>
+            <content:encoded><![CDATA[판단 기준은 고의성 유무…"은닉한다는 인식 있어야 죄 성립"
+타인 휴대전화 주워 반환 노력없이 보관하면 점유이탈물횡령죄 소지
+유실물 습득시 ...]]></content:encoded>
+            <enclosure url="https://img7.yna.co.kr/etc/inner/KR/2021/10/13/AKR20211013094700502_01_i_P2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[음주측정거부가 음주운전보다 처벌 약하다?]]></title>
             <link>https://www.yna.co.kr/view/AKR20211008127100502?section=theme-list/factcheck</link>
@@ -243,16 +253,6 @@ EU, '사형 존치국' 분류 싱...]]></content:encoded>
 난민인정률, G20 중 18위…2010년 이후 꾸준히 내림세
 북한이탈...]]></content:encoded>
             <enclosure url="https://img4.yna.co.kr/etc/inner/KR/2021/08/26/AKR20210826025300502_06_i_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[코로나19 백신 맞으면 몸에서 화학약품 냄새난다?]]></title>
-            <link>https://www.yna.co.kr/view/AKR20210823115600502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20210823115600502?section=theme-list/factcheck</guid>
-            <pubDate>Thu, 07 Oct 2021 07:16:02 GMT</pubDate>
-            <content:encoded><![CDATA['냄새 탓 백신 접종자 출입제한' 일본어 안내문 온라인서 화제
-최초 출처는 일본 커뮤니티…일본 온라인상에 널리 퍼진 소문
-2014년 미국서 ...]]></content:encoded>
-            <enclosure url="https://img0.yna.co.kr/etc/inner/KR/2021/08/23/AKR20210823115600502_01_i_P2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
