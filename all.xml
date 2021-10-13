@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Oct 2021 02:05:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Oct 2021 03:18:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -136,6 +136,15 @@
             <enclosure url="https://news.kbs.co.kr/data/fckeditor/new/image/2021/05/17/173501621243657407.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[사실은] '타워팰리스 산 중국인' ③편…다른 나라 어떻게? (SBS뉴스 ─ 사실은)]]></title>
+            <link>https://news.sbs.co.kr/news/endPage.do?news_id=N1006491385&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</link>
+            <guid>https://news.sbs.co.kr/news/endPage.do?news_id=N1006491385&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</guid>
+            <pubDate>Wed, 13 Oct 2021 03:17:23 GMT</pubDate>
+            <content:encoded><![CDATA[<img alt="이경원 기자 기자 사진" src="//img.sbs.co.kr/newimg/news/2011-08-05_133817.png" class="lazy" style="display: inline;">
+									이경원 기자]]></content:encoded>
+            <enclosure url="https://img.sbs.co.kr/newimg/news/20211012/201599403_300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[사실은] '타워팰리스 산 중국인' ②편… 외국인 부동산 규제 가능? (SBS뉴스 ─ 사실은)]]></title>
             <link>https://news.sbs.co.kr/news/endPage.do?news_id=N1006491384&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</link>
             <guid>https://news.sbs.co.kr/news/endPage.do?news_id=N1006491384&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</guid>
@@ -176,7 +185,7 @@
             <link>https://news.sbs.co.kr/news/endPage.do?news_id=N1006481744&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</link>
             <guid>https://news.sbs.co.kr/news/endPage.do?news_id=N1006481744&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</guid>
             <pubDate>Thu, 30 Sep 2021 06:18:53 GMT</pubDate>
-            <content:encoded><![CDATA[<img alt="이경원 기자 기자 사진" src="//img.sbs.co.kr/newimg/news/2011-08-05_133817.png" class="lazy" style="display: inline;">
+            <content:encoded><![CDATA[<img alt="이경원 기자 기자 사진" src="//img.sbs.co.kr/newimg/news/reporter_thum.jpg" data-src="//img.sbs.co.kr/newimg/news/2011-08-05_133817.png" class="lazy">
 									이경원 기자]]></content:encoded>
             <enclosure url="https://img.sbs.co.kr/newimg/news/20210930/201596159_300.jpg" length="0" type="image/jpg"/>
         </item>
@@ -187,7 +196,7 @@
             <pubDate>Wed, 29 Sep 2021 05:14:02 GMT</pubDate>
             <content:encoded><![CDATA[<img alt="이경원 기자 기자 사진" src="//img.sbs.co.kr/newimg/news/reporter_thum.jpg" data-src="//img.sbs.co.kr/newimg/news/2011-08-05_133817.png" class="lazy">
 									이경원 기자]]></content:encoded>
-            <enclosure url="https://img.sbs.co.kr/newimg/news/20210929/201595825_300.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://static.sbsdlab.co.kr/image/thumb_default.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[사실은] '성(性)인지 예산'은 성(性)을 인지하고 있나요? (SBS뉴스 ─ 사실은)]]></title>
@@ -211,15 +220,6 @@
             <title><![CDATA[[사실은] "외국인 재난지원금, 혈세로 퍼준다" 따져보니 (SBS뉴스 ─ 사실은)]]></title>
             <link>https://news.sbs.co.kr/news/endPage.do?news_id=N1006466245&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</link>
             <guid>https://news.sbs.co.kr/news/endPage.do?news_id=N1006466245&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</guid>
-            <pubDate>Sun, 26 Sep 2021 23:06:39 GMT</pubDate>
-            <content:encoded><![CDATA[<img alt="이경원 기자 기자 사진" src="//img.sbs.co.kr/newimg/news/reporter_thum.jpg" data-src="//img.sbs.co.kr/newimg/news/2011-08-05_133817.png" class="lazy">
-									이경원 기자]]></content:encoded>
-            <enclosure url="https://static.sbsdlab.co.kr/image/thumb_default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[사실은] "전자발찌 재범률이 줄고 있다" 따져보니 (SBS뉴스 ─ 사실은)]]></title>
-            <link>https://news.sbs.co.kr/news/endPage.do?news_id=N1006461643&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</link>
-            <guid>https://news.sbs.co.kr/news/endPage.do?news_id=N1006461643&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</guid>
             <pubDate>Sun, 26 Sep 2021 23:06:39 GMT</pubDate>
             <content:encoded><![CDATA[<img alt="이경원 기자 기자 사진" src="//img.sbs.co.kr/newimg/news/reporter_thum.jpg" data-src="//img.sbs.co.kr/newimg/news/2011-08-05_133817.png" class="lazy">
 									이경원 기자]]></content:encoded>
