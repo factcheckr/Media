@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Oct 2021 02:02:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Oct 2021 03:17:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -343,6 +343,16 @@
             <enclosure url="https://image.imnews.imbc.com/replay/2021/nwdesk/article/__icsFiles/afieldfile/2021/08/20/desk_20210820_203736_1_24_Large.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[여수서 잠수 작업하다 숨진 현장실습생도 근로자 (연합뉴스 ─ 팩트체크)]]></title>
+            <link>https://www.yna.co.kr/view/AKR20211014057200502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20211014057200502?section=theme-list/factcheck</guid>
+            <pubDate>Thu, 14 Oct 2021 03:17:13 GMT</pubDate>
+            <content:encoded><![CDATA[산업안전보건법에 명시…위험 작업시 안전보건교육해야
+근로기준법에는 18세 미만 금지 직종 명시…잠수작업도 포함
+(서울=연합뉴스) ...]]></content:encoded>
+            <enclosure url="https://img7.yna.co.kr/photo/yna/YH/2021/10/11/PYH2021101112730005400_P2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[범행에 쓰인 휴대전화 주운 뒤 신고 안하면 증거은닉죄? (연합뉴스 ─ 팩트체크)]]></title>
             <link>https://www.yna.co.kr/view/AKR20211013094700502?section=theme-list/factcheck</link>
             <guid>https://www.yna.co.kr/view/AKR20211013094700502?section=theme-list/factcheck</guid>
@@ -578,16 +588,6 @@ EU, '사형 존치국' 분류 싱...]]></content:encoded>
 최장 5년간 체류하면서 자유롭게 취업활동
 특별공로자→특별기여자로 변경…특...]]></content:encoded>
             <enclosure url="https://img0.yna.co.kr/photo/yna/YH/2021/08/26/PYH2021082617690001300_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한국, 난민 지위 인정 최하위권? (연합뉴스 ─ 팩트체크)]]></title>
-            <link>https://www.yna.co.kr/view/AKR20210826025300502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20210826025300502?section=theme-list/factcheck</guid>
-            <pubDate>Thu, 30 Sep 2021 13:26:23 GMT</pubDate>
-            <content:encoded><![CDATA[아프간 사태 속 "세계적으로 난민 수용 거의 안 하는 나라" 주장 나와
-난민인정률, G20 중 18위…2010년 이후 꾸준히 내림세
-북한이탈...]]></content:encoded>
-            <enclosure url="https://img4.yna.co.kr/etc/inner/KR/2021/08/26/AKR20210826025300502_06_i_P2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["소아청소년 백신 접종 이상반응 성인과 비슷한 정도" 전문가 일문일답 (동아사이언스 ─ 팩트체크)]]></title>
