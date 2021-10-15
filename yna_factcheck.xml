@@ -4,9 +4,19 @@
         <title>연합뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Oct 2021 23:16:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Oct 2021 00:55:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[부동산 중개수수료 개편안 시행되면 복비 줄어들까]]></title>
+            <link>https://www.yna.co.kr/view/AKR20211014172100502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20211014172100502?section=theme-list/factcheck</guid>
+            <pubDate>Fri, 15 Oct 2021 00:55:24 GMT</pubDate>
+            <content:encoded><![CDATA[6억원 이상 주택 매매때 수수료 상한 적용하면 최대 450만원 절감
+개편 전에는 상한 적용하지 않다가 개편 후 상한 매기면?
+...]]></content:encoded>
+            <enclosure url="https://img2.yna.co.kr/photo/yna/YH/2021/10/11/PYH2021101106410001300_P2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[여수서 잠수 작업하다 숨진 현장실습생도 근로자]]></title>
             <link>https://www.yna.co.kr/view/AKR20211014057200502?section=theme-list/factcheck</link>
@@ -243,16 +253,6 @@ EU, '사형 존치국' 분류 싱...]]></content:encoded>
 의원 계좌 대신 기부처 송금은 가능
 (서울=연합뉴스) 김수진 기자 = ...]]></content:encoded>
             <enclosure url="https://img5.yna.co.kr/photo/yna/YH/2021/08/27/PYH2021082711390001300_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['특별기여자' 입국 아프간인, 난민과 다른 점은]]></title>
-            <link>https://www.yna.co.kr/view/AKR20210826151200502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20210826151200502?section=theme-list/factcheck</guid>
-            <pubDate>Thu, 07 Oct 2021 07:16:02 GMT</pubDate>
-            <content:encoded><![CDATA[까다로운 난민 심사 면제하고 F-2 자격부여…난민과 같은 법적 권한
-최장 5년간 체류하면서 자유롭게 취업활동
-특별공로자→특별기여자로 변경…특...]]></content:encoded>
-            <enclosure url="https://img0.yna.co.kr/photo/yna/YH/2021/08/26/PYH2021082617690001300_P2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
