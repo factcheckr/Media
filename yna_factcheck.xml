@@ -4,9 +4,19 @@
         <title>연합뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Oct 2021 02:01:14 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Oct 2021 02:35:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[공영주차장 주차구역에 텐트 쳐도 처벌 규정이 없다?]]></title>
+            <link>https://www.yna.co.kr/view/AKR20211015130000502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20211015130000502?section=theme-list/factcheck</guid>
+            <pubDate>Sun, 17 Oct 2021 02:35:25 GMT</pubDate>
+            <content:encoded><![CDATA[지자체가 조례로 과태료 부과 등의 규정 둘 수 있어
+장애인 전용 주차구역이라면 장애인 편의 보장법에 따라 50만원 과태료
+(서울=...]]></content:encoded>
+            <enclosure url="https://img5.yna.co.kr/etc/inner/KR/2021/10/15/AKR20211015130000502_03_i_P2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[부동산 중개수수료 개편안 시행되면 복비 줄어들까]]></title>
             <link>https://www.yna.co.kr/view/AKR20211014172100502?section=theme-list/factcheck</link>
@@ -243,16 +253,6 @@ OECD 38개 회원국중 18곳 단원제…G7은 모두 양원제
 FTA 협정문에 '사형 금지' 내용 없어
 EU, '사형 존치국' 분류 싱...]]></content:encoded>
             <enclosure url="https://img8.yna.co.kr/etc/inner/KR/2021/09/02/AKR20210902054700502_04_i_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['자진 사퇴' 윤희숙, 세비 반납할 수 있나]]></title>
-            <link>https://www.yna.co.kr/view/AKR20210902051900502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20210902051900502?section=theme-list/factcheck</guid>
-            <pubDate>Thu, 07 Oct 2021 07:16:02 GMT</pubDate>
-            <content:encoded><![CDATA[제도상 현직 의원 '세비 반납·미지급' 불가능
-의원 계좌 대신 기부처 송금은 가능
-(서울=연합뉴스) 김수진 기자 = ...]]></content:encoded>
-            <enclosure url="https://img5.yna.co.kr/photo/yna/YH/2021/08/27/PYH2021082711390001300_P2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
