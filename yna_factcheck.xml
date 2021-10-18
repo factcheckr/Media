@@ -4,9 +4,18 @@
         <title>연합뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Oct 2021 02:09:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Oct 2021 03:17:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[우리나라 상속세 부담이 OECD 국가 중 두 번째로 크다고?]]></title>
+            <link>https://www.yna.co.kr/view/AKR20211018051700502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20211018051700502?section=theme-list/factcheck</guid>
+            <pubDate>Mon, 18 Oct 2021 03:17:30 GMT</pubDate>
+            <content:encoded><![CDATA[최고 명목세율은 50%로 2위 맞아…실효세율은 28.6%로 낮아
+국가별 다른 공제제도로 명목세율만으로는 판단 어려워…"반은 맞고 반은 틀리다...]]></content:encoded>
+            <enclosure url="https://img0.yna.co.kr/photo/yna/YH/2021/04/30/PYH2021043017650001300_P2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[공영주차장 주차구역에 텐트 쳐도 처벌 규정이 없다?]]></title>
             <link>https://www.yna.co.kr/view/AKR20211015130000502?section=theme-list/factcheck</link>
@@ -243,16 +252,6 @@ OECD 38개 회원국중 18곳 단원제…G7은 모두 양원제
 문화·예술 활동 예외적 허용…구형 군복은 민간인이 입어도 돼
 ...]]></content:encoded>
             <enclosure url="https://img0.yna.co.kr/photo/cms/2020/11/20/87/PCM20201120000087365_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사형 집행하면 한·EU FTA 파기되나]]></title>
-            <link>https://www.yna.co.kr/view/AKR20210902054700502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20210902054700502?section=theme-list/factcheck</guid>
-            <pubDate>Thu, 07 Oct 2021 07:16:02 GMT</pubDate>
-            <content:encoded><![CDATA[흉악범 사형 집행 여론 고조 속 "한·EU FTA 취소된다" 주장
-FTA 협정문에 '사형 금지' 내용 없어
-EU, '사형 존치국' 분류 싱...]]></content:encoded>
-            <enclosure url="https://img8.yna.co.kr/etc/inner/KR/2021/09/02/AKR20210902054700502_04_i_P2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
