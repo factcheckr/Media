@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Oct 2021 23:17:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Oct 2021 00:56:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -343,6 +343,15 @@
             <enclosure url="https://image.imnews.imbc.com/replay/2021/nwdesk/article/__icsFiles/afieldfile/2021/08/20/desk_20210820_203736_1_24_Large.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['오징어 게임' 만든 넷플릭스, 지원군인가 먹튀인가 (연합뉴스 ─ 팩트체크)]]></title>
+            <link>https://www.yna.co.kr/view/AKR20211019020900502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20211019020900502?section=theme-list/factcheck</guid>
+            <pubDate>Tue, 19 Oct 2021 00:55:50 GMT</pubDate>
+            <content:encoded><![CDATA[넷플릭스 자체 평가한 '오징어 게임' 가치는 1조원…제작사 마진은 20억~50억원
+콘텐츠 제작 기여에도 지식재산권 독점은 문제 "제도적 개선...]]></content:encoded>
+            <enclosure url="https://img7.yna.co.kr/photo/cms/2021/10/05/33/PCM20211005000033005_P2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[우리나라 상속세 부담이 OECD 국가 중 두 번째로 크다고? (연합뉴스 ─ 팩트체크)]]></title>
             <link>https://www.yna.co.kr/view/AKR20211018051700502?section=theme-list/factcheck</link>
             <guid>https://www.yna.co.kr/view/AKR20211018051700502?section=theme-list/factcheck</guid>
@@ -577,16 +586,6 @@ OECD 38개 회원국중 18곳 단원제…G7은 모두 양원제
 군인권센터 '폭행·성추행' 피해 상담 접수 매해 증가
 ...]]></content:encoded>
             <enclosure url="https://img1.yna.co.kr/photo/cms/2021/08/31/01/PCM20210831000001005_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[드라마 'D.P.' 출연배우 군복 착용은 불법? (연합뉴스 ─ 팩트체크)]]></title>
-            <link>https://www.yna.co.kr/view/AKR20210903115500502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20210903115500502?section=theme-list/factcheck</guid>
-            <pubDate>Thu, 30 Sep 2021 13:26:23 GMT</pubDate>
-            <content:encoded><![CDATA['군 협조·승인 없이 군복 착용' 지적…현행법, 민간인 군복 착용 금지
-문화·예술 활동 예외적 허용…구형 군복은 민간인이 입어도 돼
-...]]></content:encoded>
-            <enclosure url="https://img0.yna.co.kr/photo/cms/2020/11/20/87/PCM20201120000087365_P2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["소아청소년 백신 접종 이상반응 성인과 비슷한 정도" 전문가 일문일답 (동아사이언스 ─ 팩트체크)]]></title>
