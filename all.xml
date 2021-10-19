@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Oct 2021 22:16:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Oct 2021 23:16:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -343,6 +343,16 @@
             <enclosure url="https://image.imnews.imbc.com/replay/2021/nwdesk/article/__icsFiles/afieldfile/2021/08/20/desk_20210820_203736_1_24_Large.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[여자친구에게 낙태 종용했다면 범죄? (연합뉴스 ─ 팩트체크)]]></title>
+            <link>https://www.yna.co.kr/view/AKR20211019134600502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20211019134600502?section=theme-list/factcheck</guid>
+            <pubDate>Tue, 19 Oct 2021 23:16:24 GMT</pubDate>
+            <content:encoded><![CDATA[올해부터 낙태죄 효력 상실하며 낙태교사죄·낙태방조죄 사라져
+혼인빙자 간음죄는 2009년 위헌 판결로 폐지돼
+낙태에 협박 있었다면 강요죄 가능...]]></content:encoded>
+            <enclosure url="https://img2.yna.co.kr/photo/cms/2021/02/15/21/PCM20210215000021990_P2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['오징어 게임' 만든 넷플릭스, 지원군인가 먹튀인가 (연합뉴스 ─ 팩트체크)]]></title>
             <link>https://www.yna.co.kr/view/AKR20211019020900502?section=theme-list/factcheck</link>
             <guid>https://www.yna.co.kr/view/AKR20211019020900502?section=theme-list/factcheck</guid>
@@ -576,16 +586,6 @@
 OECD 38개 회원국중 18곳 단원제…G7은 모두 양원제
 (서울=연합뉴스) 강훈...]]></content:encoded>
             <enclosure url="https://img4.yna.co.kr/photo/yna/YH/2021/09/07/PYH2021090703560006100_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[드라마 'D.P.'는 옛날 군대 다룬 픽션? (연합뉴스 ─ 팩트체크)]]></title>
-            <link>https://www.yna.co.kr/view/AKR20210907064200502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20210907064200502?section=theme-list/factcheck</guid>
-            <pubDate>Thu, 30 Sep 2021 13:26:23 GMT</pubDate>
-            <content:encoded><![CDATA[군내 자살 건수 줄었지만 비중은 커져…"가혹행위 벗어나려 극단 선택"
-군인권센터 '폭행·성추행' 피해 상담 접수 매해 증가
-...]]></content:encoded>
-            <enclosure url="https://img1.yna.co.kr/photo/cms/2021/08/31/01/PCM20210831000001005_P2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["소아청소년 백신 접종 이상반응 성인과 비슷한 정도" 전문가 일문일답 (동아사이언스 ─ 팩트체크)]]></title>
