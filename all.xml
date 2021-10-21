@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Oct 2021 23:17:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Oct 2021 00:57:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -343,6 +343,16 @@
             <enclosure url="https://image.imnews.imbc.com/replay/2021/nwdesk/article/__icsFiles/afieldfile/2021/08/20/desk_20210820_203736_1_24_Large.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[국회의원은 국감장에서 허위 발언해도 면책된다? (연합뉴스 ─ 팩트체크)]]></title>
+            <link>https://www.yna.co.kr/view/AKR20211021026200502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20211021026200502?section=theme-list/factcheck</guid>
+            <pubDate>Thu, 21 Oct 2021 00:57:10 GMT</pubDate>
+            <content:encoded><![CDATA[허위 알고도 명예훼손시 면책특권 인정 안 돼…대법원 판례 확립
+보도자료·기자회견은 목적·장소·양태 따져 면책 여부 판단
+(서울=연합...]]></content:encoded>
+            <enclosure url="https://img0.yna.co.kr/photo/yna/YH/2021/10/18/PYH2021101815990006100_P2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[여자친구에게 낙태 종용했다면 범죄? (연합뉴스 ─ 팩트체크)]]></title>
             <link>https://www.yna.co.kr/view/AKR20211019134600502?section=theme-list/factcheck</link>
             <guid>https://www.yna.co.kr/view/AKR20211019134600502?section=theme-list/factcheck</guid>
@@ -576,16 +586,6 @@
 권익위에 보호조치 요청 직접 신청하고 판단받아야 공익신고자 최종 인정
 ...]]></content:encoded>
             <enclosure url="https://img8.yna.co.kr/photo/yna/YH/2021/09/08/PYH2021090822120001300_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[OECD 중 한국·터키만 상원 없다? (연합뉴스 ─ 팩트체크)]]></title>
-            <link>https://www.yna.co.kr/view/AKR20210909124500502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20210909124500502?section=theme-list/factcheck</guid>
-            <pubDate>Thu, 30 Sep 2021 13:26:23 GMT</pubDate>
-            <content:encoded><![CDATA[홍준표 "OECD중 한국·터키만 단원제" 주장
-OECD 38개 회원국중 18곳 단원제…G7은 모두 양원제
-(서울=연합뉴스) 강훈...]]></content:encoded>
-            <enclosure url="https://img4.yna.co.kr/photo/yna/YH/2021/09/07/PYH2021090703560006100_P2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["소아청소년 백신 접종 이상반응 성인과 비슷한 정도" 전문가 일문일답 (동아사이언스 ─ 팩트체크)]]></title>
