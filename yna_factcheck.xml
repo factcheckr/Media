@@ -4,9 +4,19 @@
         <title>연합뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Oct 2021 00:57:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Oct 2021 02:10:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[백신 안 맞은 자녀도 격리없이 하와이여행 가능?]]></title>
+            <link>https://www.yna.co.kr/view/AKR20211021049900502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20211021049900502?section=theme-list/factcheck</guid>
+            <pubDate>Thu, 21 Oct 2021 02:10:07 GMT</pubDate>
+            <content:encoded><![CDATA[하와이·괌 입국 때는 PCR 음성확인서 있으면 격리 안 해도 돼
+귀국시에는 2주 격리해야…6세 미만이면 면제
+(서울=연합뉴스) 장...]]></content:encoded>
+            <enclosure url="https://img2.yna.co.kr/etc/inner/KR/2021/10/21/AKR20211021049900502_02_i_P2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[국회의원은 국감장에서 허위 발언해도 면책된다?]]></title>
             <link>https://www.yna.co.kr/view/AKR20211021026200502?section=theme-list/factcheck</link>
@@ -241,16 +251,6 @@
 경찰 "운전은 필수 업무로 근무시간에 종종 교육"
 (서울=연합뉴스) ...]]></content:encoded>
             <enclosure url="https://img2.yna.co.kr/etc/inner/KR/2021/09/14/AKR20210914141700502_01_i_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['고발사주 의혹' 언론 제보자는 공익신고자?]]></title>
-            <link>https://www.yna.co.kr/view/AKR20210910035400502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20210910035400502?section=theme-list/factcheck</guid>
-            <pubDate>Thu, 07 Oct 2021 07:16:02 GMT</pubDate>
-            <content:encoded><![CDATA[언론제보만으로는 공익신고 안돼…대검, 신고받고 공익신고자 자체 판단
-권익위에 보호조치 요청 직접 신청하고 판단받아야 공익신고자 최종 인정
-...]]></content:encoded>
-            <enclosure url="https://img8.yna.co.kr/photo/yna/YH/2021/09/08/PYH2021090822120001300_P2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
