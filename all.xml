@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Oct 2021 11:13:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Oct 2021 12:25:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -226,6 +226,14 @@
             <enclosure url="https://static.sbsdlab.co.kr/image/thumb_default.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[이런 곳까지 몰래카메라가?‥왜 제한 못하나 (MBC뉴스 ─ 알고보니)]]></title>
+            <link>https://imnews.imbc.com/replay/2021/nwdesk/article/6309325_34936.html</link>
+            <guid>https://imnews.imbc.com/replay/2021/nwdesk/article/6309325_34936.html</guid>
+            <pubDate>Fri, 22 Oct 2021 12:24:56 GMT</pubDate>
+            <content:encoded><![CDATA[<span>2021-10-22</span>]]></content:encoded>
+            <enclosure url="https://image.imnews.imbc.com/replay/2021/nwdesk/article/__icsFiles/afieldfile/2021/10/22/desk_20211022_202903_1_19_Large.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA["좋아하는 형님들"‥김만배 어떤 기사 썼길래 (MBC뉴스 ─ 알고보니)]]></title>
             <link>https://imnews.imbc.com/replay/2021/nwdesk/article/6306466_34936.html</link>
             <guid>https://imnews.imbc.com/replay/2021/nwdesk/article/6306466_34936.html</guid>
@@ -333,14 +341,6 @@
             <pubDate>Sun, 26 Sep 2021 23:06:54 GMT</pubDate>
             <content:encoded><![CDATA[<span>2021-08-30</span>]]></content:encoded>
             <enclosure url="https://image.imnews.imbc.com/replay/2021/nwdesk/article/__icsFiles/afieldfile/2021/08/30/desk_20210830_195215_1_5_Large.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[MBC뉴스 '알고보니'…제1회 '대한민국 팩트체크상' 수상 (MBC뉴스 ─ 알고보니)]]></title>
-            <link>https://imnews.imbc.com/replay/2021/nwdesk/article/6295020_34936.html</link>
-            <guid>https://imnews.imbc.com/replay/2021/nwdesk/article/6295020_34936.html</guid>
-            <pubDate>Sun, 26 Sep 2021 23:06:54 GMT</pubDate>
-            <content:encoded><![CDATA[<span>2021-08-20</span>]]></content:encoded>
-            <enclosure url="https://image.imnews.imbc.com/replay/2021/nwdesk/article/__icsFiles/afieldfile/2021/08/20/desk_20210820_203736_1_24_Large.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[백신 안 맞은 자녀도 격리없이 하와이여행 가능? (연합뉴스 ─ 팩트체크)]]></title>
