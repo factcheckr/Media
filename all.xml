@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Oct 2021 22:16:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Oct 2021 23:16:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -343,6 +343,15 @@
             <enclosure url="https://image.imnews.imbc.com/replay/2021/nwdesk/article/__icsFiles/afieldfile/2021/08/30/desk_20210830_195215_1_5_Large.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA["코로나 백신 맞으려면 심장서 먼 오른팔에"? (연합뉴스 ─ 팩트체크)]]></title>
+            <link>https://www.yna.co.kr/view/AKR20211022104300017?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20211022104300017?section=theme-list/factcheck</guid>
+            <pubDate>Fri, 22 Oct 2021 23:16:06 GMT</pubDate>
+            <content:encoded><![CDATA["백신 접종 후 심장 질환은 전신 이상반응…팔 통증과 관계없어"
+(서울=연합뉴스) 계승현 기자 = 화이자·모더나 등 메신저 리보핵...]]></content:encoded>
+            <enclosure url="https://img3.yna.co.kr/photo/cms/2021/03/04/69/PCM20210304000169990_P2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[백신 안 맞은 자녀도 격리없이 하와이여행 가능? (연합뉴스 ─ 팩트체크)]]></title>
             <link>https://www.yna.co.kr/view/AKR20211021049900502?section=theme-list/factcheck</link>
             <guid>https://www.yna.co.kr/view/AKR20211021049900502?section=theme-list/factcheck</guid>
@@ -576,16 +585,6 @@
 코로나19 백신에는 달걀성분 없어 알레르기와 무관
 화이자·모더나는 유전자 합성...]]></content:encoded>
             <enclosure url="https://img9.yna.co.kr/etc/inner/KR/2021/09/16/AKR20210916139000502_02_i_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[경찰관 근무시간 중 주차연습도 업무? (연합뉴스 ─ 팩트체크)]]></title>
-            <link>https://www.yna.co.kr/view/AKR20210914141700502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20210914141700502?section=theme-list/factcheck</guid>
-            <pubDate>Thu, 30 Sep 2021 13:26:23 GMT</pubDate>
-            <content:encoded><![CDATA[온라인 커뮤니티 '주차 연습 여경' 조롱 게시물 확산
-경찰 "운전은 필수 업무로 근무시간에 종종 교육"
-(서울=연합뉴스) ...]]></content:encoded>
-            <enclosure url="https://img2.yna.co.kr/etc/inner/KR/2021/09/14/AKR20210914141700502_01_i_P2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["소아청소년 백신 접종 이상반응 성인과 비슷한 정도" 전문가 일문일답 (동아사이언스 ─ 팩트체크)]]></title>
