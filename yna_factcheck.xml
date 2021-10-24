@@ -4,9 +4,19 @@
         <title>연합뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Oct 2021 22:16:01 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Oct 2021 23:16:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[코로나 예방 위해 마스크 내내 쓰는데 독감 접종 해야할까]]></title>
+            <link>https://www.yna.co.kr/view/AKR20211022117000502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20211022117000502?section=theme-list/factcheck</guid>
+            <pubDate>Sun, 24 Oct 2021 23:16:43 GMT</pubDate>
+            <content:encoded><![CDATA[코로나 방역 조치 효과로 독감 등 호흡기 감염병 급감
+전문가들 "위드코로나로 개인방역 느슨해질 경우 대비해 맞아야"
+"코로나-독감 교차접종 ...]]></content:encoded>
+            <enclosure url="https://img0.yna.co.kr/photo/yna/YH/2021/10/14/PYH2021101418020001300_P2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['지인에게 무료 변론'은 청탁금지법 위반?]]></title>
             <link>https://www.yna.co.kr/view/AKR20211022091700502?section=theme-list/factcheck</link>
@@ -240,16 +250,6 @@
 자격 요건 해당하면 외국인 26만여명도 지원 대상
 (서울=연합뉴스) 강훈...]]></content:encoded>
             <enclosure url="https://img2.yna.co.kr/photo/yna/YH/2021/09/13/PYH2021091318510001300_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[상속세는 중산층도 내는 세금이다?]]></title>
-            <link>https://www.yna.co.kr/view/AKR20210917139900502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20210917139900502?section=theme-list/factcheck</guid>
-            <pubDate>Thu, 07 Oct 2021 07:16:02 GMT</pubDate>
-            <content:encoded><![CDATA[최재형 '상속세 폐지' 공약 발표하며 "중산층, 일반 국민 문제"
-지난해 사망자의 3% 상속세 대상…부유할수록 많이 내
-崔경제특보 "앞으로 ...]]></content:encoded>
-            <enclosure url="https://img5.yna.co.kr/photo/yna/YH/2021/09/10/PYH2021091006420006200_P2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
