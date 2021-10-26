@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Oct 2021 07:16:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Oct 2021 08:20:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -343,6 +343,16 @@
             <enclosure url="https://image.imnews.imbc.com/replay/2021/nwdesk/article/__icsFiles/afieldfile/2021/08/30/desk_20210830_195215_1_5_Large.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[뇌물에서 세금 냈다면 뇌물 몰수당할 때는 빼 주나? (연합뉴스 ─ 팩트체크)]]></title>
+            <link>https://www.yna.co.kr/view/AKR20211026137300502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20211026137300502?section=theme-list/factcheck</guid>
+            <pubDate>Tue, 26 Oct 2021 08:19:59 GMT</pubDate>
+            <content:encoded><![CDATA[뇌물도 세법상 과세 대상…추징·몰수는 뇌물액 전부 해당
+납세 후 뇌물 추징시 경정청구로 세금 환급 가능…대법원 판례
+(서울=연합뉴...]]></content:encoded>
+            <enclosure url="https://img4.yna.co.kr/photo/yna/YH/2021/10/08/PYH2021100819990006100_P2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[코로나 예방 위해 마스크 내내 쓰는데 독감 접종 해야할까 (연합뉴스 ─ 팩트체크)]]></title>
             <link>https://www.yna.co.kr/view/AKR20211022117000502?section=theme-list/factcheck</link>
             <guid>https://www.yna.co.kr/view/AKR20211022117000502?section=theme-list/factcheck</guid>
@@ -575,16 +585,6 @@
 청약 가점은 무주택·청약저축기간·부양가족수…직장 관련 항목은 없어
 ...]]></content:encoded>
             <enclosure url="https://img8.yna.co.kr/photo/yna/YH/2021/09/22/PYH2021092209400001300_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['국민' 아닌 외국인도 코로나 국민지원금 받는다? (연합뉴스 ─ 팩트체크)]]></title>
-            <link>https://www.yna.co.kr/view/AKR20210914142500502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20210914142500502?section=theme-list/factcheck</guid>
-            <pubDate>Thu, 30 Sep 2021 13:26:23 GMT</pubDate>
-            <content:encoded><![CDATA[보수 커뮤니티서 "세금으로 중국동포까지 퍼준다" 반감 확산
-자격 요건 해당하면 외국인 26만여명도 지원 대상
-(서울=연합뉴스) 강훈...]]></content:encoded>
-            <enclosure url="https://img2.yna.co.kr/photo/yna/YH/2021/09/13/PYH2021091318510001300_P2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["소아청소년 백신 접종 이상반응 성인과 비슷한 정도" 전문가 일문일답 (동아사이언스 ─ 팩트체크)]]></title>
