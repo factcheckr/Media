@@ -4,9 +4,17 @@
         <title>MBC뉴스 ─ 알고보니</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Oct 2021 11:13:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Oct 2021 12:25:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[국립묘지 안장 안 된다는데…왜 논란되나]]></title>
+            <link>https://imnews.imbc.com/replay/2021/nwdesk/article/6310092_34936.html</link>
+            <guid>https://imnews.imbc.com/replay/2021/nwdesk/article/6310092_34936.html</guid>
+            <pubDate>Tue, 26 Oct 2021 12:25:21 GMT</pubDate>
+            <content:encoded><![CDATA[<span>2021-10-26</span>]]></content:encoded>
+            <enclosure url="https://image.imnews.imbc.com/replay/2021/nwdesk/article/__icsFiles/afieldfile/2021/10/26/desk_20211026_200457_1_10_Large.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이런 곳까지 몰래카메라가?‥왜 제한 못하나]]></title>
             <link>https://imnews.imbc.com/replay/2021/nwdesk/article/6309325_34936.html</link>
@@ -115,14 +123,6 @@
             <pubDate>Sun, 26 Sep 2021 23:06:54 GMT</pubDate>
             <content:encoded><![CDATA[<span>2021-09-01</span>]]></content:encoded>
             <enclosure url="https://image.imnews.imbc.com/replay/2021/nwdesk/article/__icsFiles/afieldfile/2021/09/01/desk_20210901_195818_1_8_Large.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['튼튼한 전자발찌'로 재범 방지될까?]]></title>
-            <link>https://imnews.imbc.com/replay/2021/nwdesk/article/6297178_34936.html</link>
-            <guid>https://imnews.imbc.com/replay/2021/nwdesk/article/6297178_34936.html</guid>
-            <pubDate>Sun, 26 Sep 2021 23:06:54 GMT</pubDate>
-            <content:encoded><![CDATA[<span>2021-08-30</span>]]></content:encoded>
-            <enclosure url="https://image.imnews.imbc.com/replay/2021/nwdesk/article/__icsFiles/afieldfile/2021/08/30/desk_20210830_195215_1_5_Large.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
