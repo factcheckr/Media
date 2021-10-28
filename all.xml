@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Oct 2021 21:14:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Oct 2021 22:16:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -343,6 +343,16 @@
             <enclosure url="https://image.imnews.imbc.com/replay/2021/nwdesk/article/__icsFiles/afieldfile/2021/09/03/desk_20210903_201730_1_15_Large.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[먹는 코로나 치료제 '몰누피라비르'가 기형아 유발? (연합뉴스 ─ 팩트체크)]]></title>
+            <link>https://www.yna.co.kr/view/AKR20211028163200502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20211028163200502?section=theme-list/factcheck</guid>
+            <pubDate>Thu, 28 Oct 2021 22:15:52 GMT</pubDate>
+            <content:encoded><![CDATA[임상 참가자에게 피임 권고한 사실 알려지며 온라인에서 우려 확산
+다수 의료전문가 "피임은 임상시험 관행일 뿐…드러난 문제 없어"
+...]]></content:encoded>
+            <enclosure url="https://img8.yna.co.kr/photo/yna/YH/2021/10/01/PYH2021100118980034000_P2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA["노태우 5·18과 관계없다" 사실?…역사적 평가 진행중 (연합뉴스 ─ 팩트체크)]]></title>
             <link>https://www.yna.co.kr/view/AKR20211028071100054?section=theme-list/factcheck</link>
             <guid>https://www.yna.co.kr/view/AKR20211028071100054?section=theme-list/factcheck</guid>
@@ -575,16 +585,6 @@
             <content:encoded><![CDATA[외신 인용 자극적 보도…CNN기자 "난민시설서 2천명 새로 임신 사실 아냐"
 미 람슈타인 공군기지 "현재 수용된 임신 여성은 200명" 확...]]></content:encoded>
             <enclosure url="https://img7.yna.co.kr/photo/ap/2021/09/08/PAP20210908211501009_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['오징어게임' 전화번호 소동…영화·TV속 번호 주인은 (연합뉴스 ─ 팩트체크)]]></title>
-            <link>https://www.yna.co.kr/view/AKR20210924096400502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20210924096400502?section=theme-list/factcheck</guid>
-            <pubDate>Thu, 30 Sep 2021 13:26:23 GMT</pubDate>
-            <content:encoded><![CDATA[영진위, 2011년부터 '극장 개봉용' 영화에 전화번호 무료 제공
-드라마 제작사 "제작진이 따로 마련해 CG로 노출 방지"
-(서...]]></content:encoded>
-            <enclosure url="https://img3.yna.co.kr/photo/cms/2021/09/18/02/PCM20210918000002005_P2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["소아청소년 백신 접종 이상반응 성인과 비슷한 정도" 전문가 일문일답 (동아사이언스 ─ 팩트체크)]]></title>
