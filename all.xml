@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Oct 2021 22:16:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Oct 2021 23:17:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -343,6 +343,16 @@
             <enclosure url="https://image.imnews.imbc.com/replay/2021/nwdesk/article/__icsFiles/afieldfile/2021/09/03/desk_20210903_201730_1_15_Large.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[대통령후보 지지율 조사하는 온라인 커뮤니티 글은 선거법 위반? (연합뉴스 ─ 팩트체크)]]></title>
+            <link>https://www.yna.co.kr/view/AKR20211028132300502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20211028132300502?section=theme-list/factcheck</guid>
+            <pubDate>Thu, 28 Oct 2021 23:17:12 GMT</pubDate>
+            <content:encoded><![CDATA[재미삼아 하는 조사라도 신고없이 진행하면 제재 대상
+'○○○ 당선되면 치킨 쏜다'는 게시글도 위반 소지 있어
+(서울=연합뉴스) 박성...]]></content:encoded>
+            <enclosure url="https://img5.yna.co.kr/etc/inner/KR/2021/10/28/AKR20211028132300502_02_i_P2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[먹는 코로나 치료제 '몰누피라비르'가 기형아 유발? (연합뉴스 ─ 팩트체크)]]></title>
             <link>https://www.yna.co.kr/view/AKR20211028163200502?section=theme-list/factcheck</link>
             <guid>https://www.yna.co.kr/view/AKR20211028163200502?section=theme-list/factcheck</guid>
@@ -576,15 +586,6 @@
 민사집행법 '즉시항고' 가능 규정…"법적 절차로 시간끌기" 비판
 ...]]></content:encoded>
             <enclosure url="https://img2.yna.co.kr/etc/inner/KR/2021/09/29/AKR20210929071000502_02_i_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아프간 난민 보호시설서 한 달간 2천명 임신? (연합뉴스 ─ 팩트체크)]]></title>
-            <link>https://www.yna.co.kr/view/AKR20210928067500502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20210928067500502?section=theme-list/factcheck</guid>
-            <pubDate>Thu, 30 Sep 2021 13:26:23 GMT</pubDate>
-            <content:encoded><![CDATA[외신 인용 자극적 보도…CNN기자 "난민시설서 2천명 새로 임신 사실 아냐"
-미 람슈타인 공군기지 "현재 수용된 임신 여성은 200명" 확...]]></content:encoded>
-            <enclosure url="https://img7.yna.co.kr/photo/ap/2021/09/08/PAP20210908211501009_P2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["소아청소년 백신 접종 이상반응 성인과 비슷한 정도" 전문가 일문일답 (동아사이언스 ─ 팩트체크)]]></title>
