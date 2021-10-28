@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Oct 2021 07:16:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Oct 2021 08:19:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -343,6 +343,16 @@
             <enclosure url="https://image.imnews.imbc.com/replay/2021/nwdesk/article/__icsFiles/afieldfile/2021/09/01/desk_20210901_195818_1_8_Large.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA["노태우 5·18과 관계없다" 사실?…역사적 평가 진행중 (연합뉴스 ─ 팩트체크)]]></title>
+            <link>https://www.yna.co.kr/view/AKR20211028071100054?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20211028071100054?section=theme-list/factcheck</guid>
+            <pubDate>Thu, 28 Oct 2021 08:19:01 GMT</pubDate>
+            <content:encoded><![CDATA[5·18 관련 형사처벌 받지 않아…수사 단계서 무혐의
+연구자들 "광주 상황 보고받고 자위권 주장 등 간접 책임 충분"
+(광...]]></content:encoded>
+            <enclosure url="https://img8.yna.co.kr/photo/yna/YH/2021/10/26/PYH2021102614240001300_P2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[유류세 인하하면 부자들이 더 혜택받는다? (연합뉴스 ─ 팩트체크)]]></title>
             <link>https://www.yna.co.kr/view/AKR20211027177700502?section=theme-list/factcheck</link>
             <guid>https://www.yna.co.kr/view/AKR20211027177700502?section=theme-list/factcheck</guid>
@@ -575,16 +585,6 @@
 드라마 제작사 "제작진이 따로 마련해 CG로 노출 방지"
 (서...]]></content:encoded>
             <enclosure url="https://img3.yna.co.kr/photo/cms/2021/09/18/02/PCM20210918000002005_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['집행유예 중 범행' 노엘, 유예된 징역형 집행되나 (연합뉴스 ─ 팩트체크)]]></title>
-            <link>https://www.yna.co.kr/view/AKR20210924040600502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20210924040600502?section=theme-list/factcheck</guid>
-            <pubDate>Thu, 30 Sep 2021 13:26:23 GMT</pubDate>
-            <content:encoded><![CDATA[작년 '운전자 바꿔치기' 징역형 집행유예…집행유예 중 또 범행
-"집행유예 기한 내 추가 범죄 형확정 안되면 유예된 징역형 면해"
-새로 저지...]]></content:encoded>
-            <enclosure url="https://img2.yna.co.kr/etc/inner/KR/2021/09/24/AKR20210924040600502_02_i_P2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["소아청소년 백신 접종 이상반응 성인과 비슷한 정도" 전문가 일문일답 (동아사이언스 ─ 팩트체크)]]></title>
