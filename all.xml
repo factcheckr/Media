@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Oct 2021 11:14:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Oct 2021 12:25:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -226,6 +226,14 @@
             <enclosure url="https://static.sbsdlab.co.kr/image/thumb_default.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[전국 최고 출산율 세종시‥'육아휴직 3년'이 비결? (MBC뉴스 ─ 알고보니)]]></title>
+            <link>https://imnews.imbc.com/replay/2021/nwdesk/article/6310713_34936.html</link>
+            <guid>https://imnews.imbc.com/replay/2021/nwdesk/article/6310713_34936.html</guid>
+            <pubDate>Thu, 28 Oct 2021 12:24:55 GMT</pubDate>
+            <content:encoded><![CDATA[<span>2021-10-28</span>]]></content:encoded>
+            <enclosure url="https://image.imnews.imbc.com/replay/2021/nwdesk/article/__icsFiles/afieldfile/2021/10/28/desk_20211028_202203_1_15_Large.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[국립묘지 안장 안 된다는데…왜 논란되나 (MBC뉴스 ─ 알고보니)]]></title>
             <link>https://imnews.imbc.com/replay/2021/nwdesk/article/6310092_34936.html</link>
             <guid>https://imnews.imbc.com/replay/2021/nwdesk/article/6310092_34936.html</guid>
@@ -333,14 +341,6 @@
             <pubDate>Sun, 26 Sep 2021 23:06:54 GMT</pubDate>
             <content:encoded><![CDATA[<span>2021-09-03</span>]]></content:encoded>
             <enclosure url="https://image.imnews.imbc.com/replay/2021/nwdesk/article/__icsFiles/afieldfile/2021/09/03/desk_20210903_201730_1_15_Large.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['성충동 약물치료' 재범률 0% 믿을 만한가 (MBC뉴스 ─ 알고보니)]]></title>
-            <link>https://imnews.imbc.com/replay/2021/nwdesk/article/6297762_34936.html</link>
-            <guid>https://imnews.imbc.com/replay/2021/nwdesk/article/6297762_34936.html</guid>
-            <pubDate>Sun, 26 Sep 2021 23:06:54 GMT</pubDate>
-            <content:encoded><![CDATA[<span>2021-09-01</span>]]></content:encoded>
-            <enclosure url="https://image.imnews.imbc.com/replay/2021/nwdesk/article/__icsFiles/afieldfile/2021/09/01/desk_20210901_195818_1_8_Large.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["노태우 5·18과 관계없다" 사실?…역사적 평가 진행중 (연합뉴스 ─ 팩트체크)]]></title>
