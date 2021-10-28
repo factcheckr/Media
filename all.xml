@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Oct 2021 00:51:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Oct 2021 01:58:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -343,6 +343,16 @@
             <enclosure url="https://image.imnews.imbc.com/replay/2021/nwdesk/article/__icsFiles/afieldfile/2021/09/01/desk_20210901_195818_1_8_Large.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[유류세 인하하면 부자들이 더 혜택받는다? (연합뉴스 ─ 팩트체크)]]></title>
+            <link>https://www.yna.co.kr/view/AKR20211027177700502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20211027177700502?section=theme-list/factcheck</guid>
+            <pubDate>Thu, 28 Oct 2021 01:58:17 GMT</pubDate>
+            <content:encoded><![CDATA[기름 많이 사용하는 고소득층이 유류비 절감 총액은 많아
+지출에서 유류비 비중이 큰 저소득·중산층에서는 '체감 효과'
+(서울=연...]]></content:encoded>
+            <enclosure url="https://img6.yna.co.kr/photo/yna/YH/2021/10/26/PYH2021102617090001300_P2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[뇌물에서 세금 냈다면 뇌물 몰수당할 때는 빼 주나? (연합뉴스 ─ 팩트체크)]]></title>
             <link>https://www.yna.co.kr/view/AKR20211026137300502?section=theme-list/factcheck</link>
             <guid>https://www.yna.co.kr/view/AKR20211026137300502?section=theme-list/factcheck</guid>
@@ -575,16 +585,6 @@
 "집행유예 기한 내 추가 범죄 형확정 안되면 유예된 징역형 면해"
 새로 저지...]]></content:encoded>
             <enclosure url="https://img2.yna.co.kr/etc/inner/KR/2021/09/24/AKR20210924040600502_02_i_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[주택청약 가점에 직장도 반영된다? (연합뉴스 ─ 팩트체크)]]></title>
-            <link>https://www.yna.co.kr/view/AKR20210923124700502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20210923124700502?section=theme-list/factcheck</guid>
-            <pubDate>Thu, 30 Sep 2021 13:26:23 GMT</pubDate>
-            <content:encoded><![CDATA[윤석열 "청약에 가족, 직장 고려"…유승민 "직장 가점 처음 들어"
-청약 가점은 무주택·청약저축기간·부양가족수…직장 관련 항목은 없어
-...]]></content:encoded>
-            <enclosure url="https://img8.yna.co.kr/photo/yna/YH/2021/09/22/PYH2021092209400001300_P2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["소아청소년 백신 접종 이상반응 성인과 비슷한 정도" 전문가 일문일답 (동아사이언스 ─ 팩트체크)]]></title>
