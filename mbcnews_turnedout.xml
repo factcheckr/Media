@@ -4,9 +4,16 @@
         <title>MBC뉴스 ─ 알고보니</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 30 Oct 2021 00:49:18 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Oct 2021 01:57:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[전두환 국립묘지 논란, 이제 잦아들까]]></title>
+            <link>https://imnews.imbc.com/newszoomin/newsinsight/6311088_29123.html</link>
+            <guid>https://imnews.imbc.com/newszoomin/newsinsight/6311088_29123.html</guid>
+            <pubDate>Sat, 30 Oct 2021 01:56:57 GMT</pubDate>
+            <content:encoded><![CDATA[<span>2021-10-30</span>]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[전국 최고 출산율 세종시‥'육아휴직 3년'이 비결?]]></title>
             <link>https://imnews.imbc.com/replay/2021/nwdesk/article/6310713_34936.html</link>
@@ -115,14 +122,6 @@
             <pubDate>Sun, 26 Sep 2021 23:06:54 GMT</pubDate>
             <content:encoded><![CDATA[<span>2021-09-07</span>]]></content:encoded>
             <enclosure url="https://image.imnews.imbc.com/replay/2021/nwdesk/article/__icsFiles/afieldfile/2021/09/07/desk_20210907_200647_1_11_Large.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[전자발찌 찬 강력 성범죄자가 화장품 방문 판매?]]></title>
-            <link>https://imnews.imbc.com/replay/2021/nwdesk/article/6298321_34936.html</link>
-            <guid>https://imnews.imbc.com/replay/2021/nwdesk/article/6298321_34936.html</guid>
-            <pubDate>Sun, 26 Sep 2021 23:06:54 GMT</pubDate>
-            <content:encoded><![CDATA[<span>2021-09-03</span>]]></content:encoded>
-            <enclosure url="https://image.imnews.imbc.com/replay/2021/nwdesk/article/__icsFiles/afieldfile/2021/09/03/desk_20210903_201730_1_15_Large.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
