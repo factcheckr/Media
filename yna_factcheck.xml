@@ -4,9 +4,19 @@
         <title>연합뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 31 Oct 2021 21:14:56 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 Oct 2021 22:16:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[밤중 샤워나 목욕 소리도 층간소음이라고?]]></title>
+            <link>https://www.yna.co.kr/view/AKR20211029142600502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20211029142600502?section=theme-list/factcheck</guid>
+            <pubDate>Sun, 31 Oct 2021 22:16:03 GMT</pubDate>
+            <content:encoded><![CDATA[공동주택 층간소음 규칙상 급·배수로 인한 욕실 소음은 제외
+지자체별 아파트 관리규약에 '밤중 샤워' 금지해도 법적 강제성 없어
+(서...]]></content:encoded>
+            <enclosure url="https://img3.yna.co.kr/photo/cms/2020/03/30/46/PCM20200330000146990_P2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[항체진단키트 '음성'이면 물백신 맞은 것?]]></title>
             <link>https://www.yna.co.kr/view/AKR20211029098200017?section=theme-list/factcheck</link>
@@ -241,16 +251,6 @@
 임신부가 더 위험하다는 연구결과 없어…접종 않고 감염되면 더 위험
 ...]]></content:encoded>
             <enclosure url="https://img7.yna.co.kr/photo/cms/2021/09/03/50/PCM20210903000150990_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윤석열 부친 통장에 찍힌 국고학술원…'친일' 흔적?]]></title>
-            <link>https://www.yna.co.kr/view/AKR20210930125700502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20210930125700502?section=theme-list/factcheck</guid>
-            <pubDate>Thu, 07 Oct 2021 07:16:02 GMT</pubDate>
-            <content:encoded><![CDATA[윤석열 부친 통장에 '국고학술원사무국' 187만원 입금 내역
-윤 부친, 대한민국학술원 회원수당으로 매달 180여만원 받아
-대한민국학술원은 교...]]></content:encoded>
-            <enclosure url="https://img0.yna.co.kr/photo/yna/YH/2021/09/29/PYH2021092920740001300_P2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
