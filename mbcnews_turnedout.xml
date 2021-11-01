@@ -4,9 +4,16 @@
         <title>MBC뉴스 ─ 알고보니</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Nov 2021 00:53:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Nov 2021 02:02:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['몰카'범죄는 왜 일상이 되었을까]]></title>
+            <link>https://imnews.imbc.com/newszoomin/newsinsight/6311393_29123.html</link>
+            <guid>https://imnews.imbc.com/newszoomin/newsinsight/6311393_29123.html</guid>
+            <pubDate>Mon, 01 Nov 2021 02:01:49 GMT</pubDate>
+            <content:encoded><![CDATA[<span>2021-11-01</span>]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[전두환 국립묘지 논란, 이제 잦아들까]]></title>
             <link>https://imnews.imbc.com/newszoomin/newsinsight/6311088_29123.html</link>
@@ -114,14 +121,6 @@
             <pubDate>Sun, 26 Sep 2021 23:06:54 GMT</pubDate>
             <content:encoded><![CDATA[<span>2021-09-09</span>]]></content:encoded>
             <enclosure url="https://image.imnews.imbc.com/replay/2021/nwdesk/article/__icsFiles/afieldfile/2021/09/09/desk_20210909_202345_1_16_Large.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[재난지원금 문자사기 기승…처벌 솜방망이?]]></title>
-            <link>https://imnews.imbc.com/replay/2021/nwdesk/article/6299113_34936.html</link>
-            <guid>https://imnews.imbc.com/replay/2021/nwdesk/article/6299113_34936.html</guid>
-            <pubDate>Sun, 26 Sep 2021 23:06:54 GMT</pubDate>
-            <content:encoded><![CDATA[<span>2021-09-07</span>]]></content:encoded>
-            <enclosure url="https://image.imnews.imbc.com/replay/2021/nwdesk/article/__icsFiles/afieldfile/2021/09/07/desk_20210907_200647_1_11_Large.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
