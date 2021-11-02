@@ -4,9 +4,19 @@
         <title>연합뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Nov 2021 21:14:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Nov 2021 22:16:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[요소수 품귀 해결하려 저감장치 중지?…"비현실적·비효율적"]]></title>
+            <link>https://www.yna.co.kr/view/AKR20211102167200530?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20211102167200530?section=theme-list/factcheck</guid>
+            <pubDate>Tue, 02 Nov 2021 22:16:19 GMT</pubDate>
+            <content:encoded><![CDATA[SCR 설정 변경 후 적용에 장기간 소요 예상…대기오염 심화 우려도
+중국과 협상하면서 대체 수입선 발굴이 현실적…요소 직접 생산도 고민해야
+...]]></content:encoded>
+            <enclosure url="https://img8.yna.co.kr/etc/inner/KR/2021/11/02/AKR20211102167200530_01_i_P2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[18년 전 성폭행도 처벌할 수 있다?]]></title>
             <link>https://www.yna.co.kr/view/AKR20211101152600502?section=theme-list/factcheck</link>
@@ -241,16 +251,6 @@
             <content:encoded><![CDATA[양국 보건당국 시스템에 '보고'된 부작용 사망은 코로나 사망자의 80분의 1 수준
 '보고' 건수는 확인된 통계도 아냐…정부가 집계한 부작용 ...]]></content:encoded>
             <enclosure url="https://img4.yna.co.kr/photo/yna/YH/2021/03/04/PYH2021030409120034000_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[임신부가 코로나19 백신 접종하면 더 위험?(종합)]]></title>
-            <link>https://www.yna.co.kr/view/AKR20211005141251502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20211005141251502?section=theme-list/factcheck</guid>
-            <pubDate>Thu, 07 Oct 2021 07:16:02 GMT</pubDate>
-            <content:encoded><![CDATA[임신부 8일부터 예약받아 18일부터 접종…일각서 "무서워서 안 맞겠다"
-임신부가 더 위험하다는 연구결과 없어
-접종 않고 감염되면 더 위험…...]]></content:encoded>
-            <enclosure url="https://img7.yna.co.kr/photo/cms/2021/09/03/50/PCM20210903000150990_P2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
