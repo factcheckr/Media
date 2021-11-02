@@ -4,9 +4,19 @@
         <title>연합뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Nov 2021 00:54:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Nov 2021 02:02:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[18년 전 성폭행도 처벌할 수 있다?]]></title>
+            <link>https://www.yna.co.kr/view/AKR20211101152600502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20211101152600502?section=theme-list/factcheck</guid>
+            <pubDate>Tue, 02 Nov 2021 02:02:41 GMT</pubDate>
+            <content:encoded><![CDATA[2010년 제정 성폭력처벌법에서 과학적 증거 있으면 공소시효 10년 연장
+2003년 강간치상 공소시효 2023년까지 늘어날 수 있어
+법조계 ...]]></content:encoded>
+            <enclosure url="https://img2.yna.co.kr/photo/cms/2018/03/09/01/C0A8CA3C000001627F0E0BB0005FC7D_P2.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[밤중 샤워나 목욕 소리도 층간소음이라고?]]></title>
             <link>https://www.yna.co.kr/view/AKR20211029142600502?section=theme-list/factcheck</link>
@@ -240,16 +250,6 @@
             <content:encoded><![CDATA[임신부 8일부터 예약받아 18일부터 접종…일각서 "무서워서 안 맞겠다"
 임신부가 더 위험하다는 연구결과 없어
 접종 않고 감염되면 더 위험…...]]></content:encoded>
-            <enclosure url="https://img7.yna.co.kr/photo/cms/2021/09/03/50/PCM20210903000150990_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[임신부가 코로나19 백신 접종하면 더 위험?]]></title>
-            <link>https://www.yna.co.kr/view/AKR20211005141200502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20211005141200502?section=theme-list/factcheck</guid>
-            <pubDate>Thu, 07 Oct 2021 10:18:11 GMT</pubDate>
-            <content:encoded><![CDATA[임신부 8일부터 예약받아 18일부터 접종…일각서 "무서워서 안 맞겠다"
-임신부가 더 위험하다는 연구결과 없어…접종 않고 감염되면 더 위험
-...]]></content:encoded>
             <enclosure url="https://img7.yna.co.kr/photo/cms/2021/09/03/50/PCM20210903000150990_P2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
