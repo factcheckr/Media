@@ -4,9 +4,19 @@
         <title>연합뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Nov 2021 02:31:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Nov 2021 03:17:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[우리 정부의 2030년 온실가스 감축 목표는 과도하다?]]></title>
+            <link>https://www.yna.co.kr/view/AKR20211102160800502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20211102160800502?section=theme-list/factcheck</guid>
+            <pubDate>Wed, 03 Nov 2021 03:17:32 GMT</pubDate>
+            <content:encoded><![CDATA[2018년 대비 40% 감축 목표…143개국 평균과 비교하면 높아
+G7과 비교하면 오히려 낮거나 비슷해
+(서울=연합뉴스) 박성...]]></content:encoded>
+            <enclosure url="https://img8.yna.co.kr/etc/inner/KR/2021/11/02/AKR20211102160800502_01_i_P2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[핼러윈 기간에 외국인의 방역 수칙 위반 많았다?]]></title>
             <link>https://www.yna.co.kr/view/AKR20211103031600502?section=theme-list/factcheck</link>
@@ -242,16 +252,6 @@
 유네스코 세계기록유산 등재된 것도 한글 아닌 '훈민정음 해례본'
 (...]]></content:encoded>
             <enclosure url="https://img3.yna.co.kr/photo/cms/2021/07/24/50/PCM20210724000050005_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[7일만에 결정된 '노엘 구속영장 청구'는 특혜?]]></title>
-            <link>https://www.yna.co.kr/view/AKR20211007099500502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20211007099500502?section=theme-list/factcheck</guid>
-            <pubDate>Thu, 07 Oct 2021 22:15:58 GMT</pubDate>
-            <content:encoded><![CDATA[통상 2∼3일 안에 결론나지만 노엘 건은 연휴 때문에 늦어져
-7월 '피의자 면담제' 시행으로 구속전 면담 일정 조율도 논란거리 안돼
-...]]></content:encoded>
-            <enclosure url="https://img8.yna.co.kr/photo/yna/YH/2021/09/30/PYH2021093023910001300_P2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
