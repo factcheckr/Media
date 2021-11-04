@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Nov 2021 02:37:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Nov 2021 03:17:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -341,6 +341,15 @@
             <enclosure url="https://image.imnews.imbc.com/replay/2021/nwdesk/article/__icsFiles/afieldfile/2021/09/09/desk_20210909_202345_1_16_Large.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[백신 미접종도 해고·입사 취소 사유가 된다? (연합뉴스 ─ 팩트체크)]]></title>
+            <link>https://www.yna.co.kr/view/AKR20211104054600502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20211104054600502?section=theme-list/factcheck</guid>
+            <pubDate>Thu, 04 Nov 2021 03:17:23 GMT</pubDate>
+            <content:encoded><![CDATA[채용 공고에 '백신 접종자'로 제한했으면 입사 취소해도 문제 안 돼
+해고에는 해석 갈려…"사유 안 된다" vs "상황 따라 정당화될 수도"...]]></content:encoded>
+            <enclosure url="https://img0.yna.co.kr/photo/yna/YH/2021/11/02/PYH2021110214570005100_P2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[우리 정부의 2030년 온실가스 감축 목표는 과도하다? (연합뉴스 ─ 팩트체크)]]></title>
             <link>https://www.yna.co.kr/view/AKR20211102160800502?section=theme-list/factcheck</link>
             <guid>https://www.yna.co.kr/view/AKR20211102160800502?section=theme-list/factcheck</guid>
@@ -575,16 +584,6 @@ G7과 비교하면 오히려 낮거나 비슷해
             <content:encoded><![CDATA[노엘 구속영장 청구에 음주운전 혐의 빠지자 "처벌 약한 음주측정거부만 적용" 지적
 혈중알코올농도 0.2% 이상일 경우에는 음주측정거부 법정형...]]></content:encoded>
             <enclosure url="https://img1.yna.co.kr/photo/yna/YH/2021/09/30/PYH2021093023850001300_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한글날은 한글이 만들어진 날이다? (연합뉴스 ─ 팩트체크)]]></title>
-            <link>https://www.yna.co.kr/view/AKR20211007130300502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20211007130300502?section=theme-list/factcheck</guid>
-            <pubDate>Fri, 08 Oct 2021 03:16:53 GMT</pubDate>
-            <content:encoded><![CDATA[창제일 아냐…훈민정음 해례본 발견 뒤 추정한 '반포일 중 하루'
-유네스코 세계기록유산 등재된 것도 한글 아닌 '훈민정음 해례본'
-(...]]></content:encoded>
-            <enclosure url="https://img3.yna.co.kr/photo/cms/2021/07/24/50/PCM20210724000050005_P2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["소아청소년 백신 접종 이상반응 성인과 비슷한 정도" 전문가 일문일답 (동아사이언스 ─ 팩트체크)]]></title>
