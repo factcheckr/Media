@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Nov 2021 11:14:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Nov 2021 12:25:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -226,6 +226,14 @@
             <enclosure url="https://static.sbsdlab.co.kr/image/thumb_default.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[백신 맞고 숨져도 7,200원 보상이 전부? (MBC뉴스 ─ 알고보니)]]></title>
+            <link>https://imnews.imbc.com/replay/2021/nwdesk/article/6312364_34936.html</link>
+            <guid>https://imnews.imbc.com/replay/2021/nwdesk/article/6312364_34936.html</guid>
+            <pubDate>Thu, 04 Nov 2021 12:25:13 GMT</pubDate>
+            <content:encoded><![CDATA[<span>2021-11-04</span>]]></content:encoded>
+            <enclosure url="https://image.imnews.imbc.com/replay/2021/nwdesk/article/__icsFiles/afieldfile/2021/11/04/desk_20211104_202530_1_17_Large.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['몰카'범죄는 왜 일상이 되었을까 (MBC뉴스 ─ 알고보니)]]></title>
             <link>https://imnews.imbc.com/newszoomin/newsinsight/6311393_29123.html</link>
             <guid>https://imnews.imbc.com/newszoomin/newsinsight/6311393_29123.html</guid>
@@ -331,14 +339,6 @@
             <guid>https://imnews.imbc.com/newszoomin/newsinsight/6300149_29123.html</guid>
             <pubDate>Sun, 26 Sep 2021 23:06:54 GMT</pubDate>
             <content:encoded><![CDATA[<span>2021-09-12</span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[공익신고자 인정받는데 통상 60일? (MBC뉴스 ─ 알고보니)]]></title>
-            <link>https://imnews.imbc.com/replay/2021/nwdesk/article/6299685_34936.html</link>
-            <guid>https://imnews.imbc.com/replay/2021/nwdesk/article/6299685_34936.html</guid>
-            <pubDate>Sun, 26 Sep 2021 23:06:54 GMT</pubDate>
-            <content:encoded><![CDATA[<span>2021-09-09</span>]]></content:encoded>
-            <enclosure url="https://image.imnews.imbc.com/replay/2021/nwdesk/article/__icsFiles/afieldfile/2021/09/09/desk_20210909_202345_1_16_Large.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[백신 미접종도 해고·입사 취소 사유가 된다? (연합뉴스 ─ 팩트체크)]]></title>
