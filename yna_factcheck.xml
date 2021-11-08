@@ -4,9 +4,19 @@
         <title>연합뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Nov 2021 05:15:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Nov 2021 06:20:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['무궁화꽃이 피었습니다' 놀이 원조가 일본이라고?]]></title>
+            <link>https://www.yna.co.kr/view/AKR20211108071400502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20211108071400502?section=theme-list/factcheck</guid>
+            <pubDate>Mon, 08 Nov 2021 06:20:21 GMT</pubDate>
+            <content:encoded><![CDATA[日 언론인 "일본 놀이 '다루마상가코론다'와 규칙·선율 같아" 주장
+명확한 유래는 없어…"서양에도 비슷한 놀이 있어 보편적 놀이로 봐야"
+"...]]></content:encoded>
+            <enclosure url="https://img2.yna.co.kr/photo/yna/YH/2021/10/26/PYH2021102616240001300_P2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[백신 미접종도 해고·입사 취소 사유가 된다?]]></title>
             <link>https://www.yna.co.kr/view/AKR20211104054600502?section=theme-list/factcheck</link>
@@ -242,15 +252,6 @@ G7과 비교하면 오히려 낮거나 비슷해
 타인 휴대전화 주워 반환 노력없이 보관하면 점유이탈물횡령죄 소지
 유실물 습득시 ...]]></content:encoded>
             <enclosure url="https://img7.yna.co.kr/etc/inner/KR/2021/10/13/AKR20211013094700502_01_i_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[음주측정거부가 음주운전보다 처벌 약하다?]]></title>
-            <link>https://www.yna.co.kr/view/AKR20211008127100502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20211008127100502?section=theme-list/factcheck</guid>
-            <pubDate>Sun, 10 Oct 2021 04:22:05 GMT</pubDate>
-            <content:encoded><![CDATA[노엘 구속영장 청구에 음주운전 혐의 빠지자 "처벌 약한 음주측정거부만 적용" 지적
-혈중알코올농도 0.2% 이상일 경우에는 음주측정거부 법정형...]]></content:encoded>
-            <enclosure url="https://img1.yna.co.kr/photo/yna/YH/2021/09/30/PYH2021093023850001300_P2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
