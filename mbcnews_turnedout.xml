@@ -4,9 +4,17 @@
         <title>MBC뉴스 ─ 알고보니</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Nov 2021 11:14:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Nov 2021 12:25:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["아이 심장 잘 뛰나 궁금해"‥소율아빠 소원 이뤄질까]]></title>
+            <link>https://imnews.imbc.com/replay/2021/nwdesk/article/6313146_34936.html</link>
+            <guid>https://imnews.imbc.com/replay/2021/nwdesk/article/6313146_34936.html</guid>
+            <pubDate>Mon, 08 Nov 2021 12:25:31 GMT</pubDate>
+            <content:encoded><![CDATA[<span>2021-11-08</span>]]></content:encoded>
+            <enclosure url="https://image.imnews.imbc.com/replay/2021/nwdesk/article/__icsFiles/afieldfile/2021/11/08/desk_20211108_202538_1_18_Large.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[백신 맞고 숨져도 7,200원 보상이 전부?]]></title>
             <link>https://imnews.imbc.com/replay/2021/nwdesk/article/6312364_34936.html</link>
@@ -114,13 +122,6 @@
             <pubDate>Sun, 26 Sep 2021 23:06:54 GMT</pubDate>
             <content:encoded><![CDATA[<span>2021-09-15</span>]]></content:encoded>
             <enclosure url="https://image.imnews.imbc.com/replay/2021/nwdesk/article/__icsFiles/afieldfile/2021/09/15/desk_20210915_201454_1_15_Large.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[공익신고, 언론제보 안하고 60일동안 기다려야?]]></title>
-            <link>https://imnews.imbc.com/newszoomin/newsinsight/6300149_29123.html</link>
-            <guid>https://imnews.imbc.com/newszoomin/newsinsight/6300149_29123.html</guid>
-            <pubDate>Sun, 26 Sep 2021 23:06:54 GMT</pubDate>
-            <content:encoded><![CDATA[<span>2021-09-12</span>]]></content:encoded>
         </item>
     </channel>
 </rss>
