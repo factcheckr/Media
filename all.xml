@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Nov 2021 07:16:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Nov 2021 08:20:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -342,6 +342,16 @@
             <enclosure url="https://image.imnews.imbc.com/replay/2021/nwdesk/article/__icsFiles/afieldfile/2021/09/15/desk_20210915_201454_1_15_Large.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[공모주 균등배정제도가 증권사 배만 불린다? (연합뉴스 ─ 팩트체크)]]></title>
+            <link>https://www.yna.co.kr/view/AKR20211109137700502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20211109137700502?section=theme-list/factcheck</guid>
+            <pubDate>Tue, 09 Nov 2021 08:19:46 GMT</pubDate>
+            <content:encoded><![CDATA[일각에서 '청약자 늘어 증권사 수수료 대박' 지적
+수수료는 건당 2천원…인건비 등 고려하면 "최소한의 실비"
+(서울=연합뉴스) 이웅...]]></content:encoded>
+            <enclosure url="https://img4.yna.co.kr/photo/yna/YH/2021/11/03/PYH2021110305060001300_P2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['무궁화꽃이 피었습니다' 놀이 원조가 일본이라고? (연합뉴스 ─ 팩트체크)]]></title>
             <link>https://www.yna.co.kr/view/AKR20211108071400502?section=theme-list/factcheck</link>
             <guid>https://www.yna.co.kr/view/AKR20211108071400502?section=theme-list/factcheck</guid>
@@ -576,16 +586,6 @@ G7과 비교하면 오히려 낮거나 비슷해
 근로기준법에는 18세 미만 금지 직종 명시…잠수작업도 포함
 (서울=연합뉴스) ...]]></content:encoded>
             <enclosure url="https://img7.yna.co.kr/photo/yna/YH/2021/10/11/PYH2021101112730005400_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[범행에 쓰인 휴대전화 주운 뒤 신고 안하면 증거은닉죄? (연합뉴스 ─ 팩트체크)]]></title>
-            <link>https://www.yna.co.kr/view/AKR20211013094700502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20211013094700502?section=theme-list/factcheck</guid>
-            <pubDate>Wed, 13 Oct 2021 05:15:14 GMT</pubDate>
-            <content:encoded><![CDATA[판단 기준은 고의성 유무…"은닉한다는 인식 있어야 죄 성립"
-타인 휴대전화 주워 반환 노력없이 보관하면 점유이탈물횡령죄 소지
-유실물 습득시 ...]]></content:encoded>
-            <enclosure url="https://img7.yna.co.kr/etc/inner/KR/2021/10/13/AKR20211013094700502_01_i_P2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["소아청소년 백신 접종 이상반응 성인과 비슷한 정도" 전문가 일문일답 (동아사이언스 ─ 팩트체크)]]></title>
