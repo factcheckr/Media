@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Nov 2021 01:59:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Nov 2021 02:34:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -342,6 +342,16 @@
             <enclosure url="https://image.imnews.imbc.com/replay/2021/nwdesk/article/__icsFiles/afieldfile/2021/09/15/desk_20210915_201454_1_15_Large.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[암모니아가 차량용 요소수 대체할 수 있다? (연합뉴스 ─ 팩트체크)]]></title>
+            <link>https://www.yna.co.kr/view/AKR20211109130500502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20211109130500502?section=theme-list/factcheck</guid>
+            <pubDate>Wed, 10 Nov 2021 02:34:20 GMT</pubDate>
+            <content:encoded><![CDATA[요소수 대란에 아이디어 난무…대부분 현실성 부족
+암모니아를 사용하려면 안전성 검증·법률 개정 등 이뤄져야
+요소비료·소변으로 만든 요소수 사용...]]></content:encoded>
+            <enclosure url="https://img4.yna.co.kr/photo/yna/YH/2021/11/09/PYH2021110911450001300_P2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[공모주 균등배정제도가 증권사 배만 불린다? (연합뉴스 ─ 팩트체크)]]></title>
             <link>https://www.yna.co.kr/view/AKR20211109137700502?section=theme-list/factcheck</link>
             <guid>https://www.yna.co.kr/view/AKR20211109137700502?section=theme-list/factcheck</guid>
@@ -576,16 +586,6 @@ G7과 비교하면 오히려 낮거나 비슷해
 개편 전에는 상한 적용하지 않다가 개편 후 상한 매기면?
 ...]]></content:encoded>
             <enclosure url="https://img2.yna.co.kr/photo/yna/YH/2021/10/11/PYH2021101106410001300_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여수서 잠수 작업하다 숨진 현장실습생도 근로자 (연합뉴스 ─ 팩트체크)]]></title>
-            <link>https://www.yna.co.kr/view/AKR20211014057200502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20211014057200502?section=theme-list/factcheck</guid>
-            <pubDate>Thu, 14 Oct 2021 03:17:13 GMT</pubDate>
-            <content:encoded><![CDATA[산업안전보건법에 명시…위험 작업시 안전보건교육해야
-근로기준법에는 18세 미만 금지 직종 명시…잠수작업도 포함
-(서울=연합뉴스) ...]]></content:encoded>
-            <enclosure url="https://img7.yna.co.kr/photo/yna/YH/2021/10/11/PYH2021101112730005400_P2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["소아청소년 백신 접종 이상반응 성인과 비슷한 정도" 전문가 일문일답 (동아사이언스 ─ 팩트체크)]]></title>
