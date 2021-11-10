@@ -4,9 +4,19 @@
         <title>연합뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Nov 2021 22:17:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Nov 2021 23:17:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['남의 아파트 놀이터'에서 놀면 주거침입?]]></title>
+            <link>https://www.yna.co.kr/view/AKR20211110167000502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20211110167000502?section=theme-list/factcheck</guid>
+            <pubDate>Wed, 10 Nov 2021 23:17:10 GMT</pubDate>
+            <content:encoded><![CDATA[아파트 단지 내 놀이터는 입주민들 사유재산 맞아
+법조계 "주거침입죄 성립하려면 평온 해치려는 고의성 있어야"
+(서울=연합뉴스) ...]]></content:encoded>
+            <enclosure url="https://img8.yna.co.kr/photo/cms/2018/11/27/97/PCM20181127000297990_P2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[암모니아가 차량용 요소수 대체할 수 있다?]]></title>
             <link>https://www.yna.co.kr/view/AKR20211109130500502?section=theme-list/factcheck</link>
@@ -242,16 +252,6 @@ G7과 비교하면 오히려 낮거나 비슷해
 장애인 전용 주차구역이라면 장애인 편의 보장법에 따라 50만원 과태료
 (서울=...]]></content:encoded>
             <enclosure url="https://img5.yna.co.kr/etc/inner/KR/2021/10/15/AKR20211015130000502_03_i_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[부동산 중개수수료 개편안 시행되면 복비 줄어들까]]></title>
-            <link>https://www.yna.co.kr/view/AKR20211014172100502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20211014172100502?section=theme-list/factcheck</guid>
-            <pubDate>Fri, 15 Oct 2021 00:55:24 GMT</pubDate>
-            <content:encoded><![CDATA[6억원 이상 주택 매매때 수수료 상한 적용하면 최대 450만원 절감
-개편 전에는 상한 적용하지 않다가 개편 후 상한 매기면?
-...]]></content:encoded>
-            <enclosure url="https://img2.yna.co.kr/photo/yna/YH/2021/10/11/PYH2021101106410001300_P2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
