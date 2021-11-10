@@ -4,9 +4,18 @@
         <title>SBS뉴스 ─ 사실은</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Nov 2021 05:14:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Nov 2021 06:19:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[사실은] 중국에 '요소수' 올인했던 한국…다른 나라는?]]></title>
+            <link>https://news.sbs.co.kr/news/endPage.do?news_id=N1006529384&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</link>
+            <guid>https://news.sbs.co.kr/news/endPage.do?news_id=N1006529384&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</guid>
+            <pubDate>Wed, 10 Nov 2021 06:19:04 GMT</pubDate>
+            <content:encoded><![CDATA[<img alt="이경원 기자 기자 사진" src="//img.sbs.co.kr/newimg/news/2011-08-05_133817.png" class="lazy" style="display: inline;">
+									이경원 기자]]></content:encoded>
+            <enclosure url="https://img.sbs.co.kr/newimg/news/20211110/201608256_300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[사실은] 윤석열 · 홍준표 "여론조사를 보면…", 사실은?]]></title>
             <link>https://news.sbs.co.kr/news/endPage.do?news_id=N1006520899&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</link>
@@ -48,7 +57,7 @@
             <link>https://news.sbs.co.kr/news/endPage.do?news_id=N1006512214&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</link>
             <guid>https://news.sbs.co.kr/news/endPage.do?news_id=N1006512214&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</guid>
             <pubDate>Wed, 27 Oct 2021 02:29:08 GMT</pubDate>
-            <content:encoded><![CDATA[<img alt="이경원 기자 기자 사진" src="//img.sbs.co.kr/newimg/news/2011-08-05_133817.png" class="lazy" style="display: inline;">
+            <content:encoded><![CDATA[<img alt="이경원 기자 기자 사진" src="//img.sbs.co.kr/newimg/news/reporter_thum.jpg" data-src="//img.sbs.co.kr/newimg/news/2011-08-05_133817.png" class="lazy">
 									이경원 기자]]></content:encoded>
             <enclosure url="https://img.sbs.co.kr/newimg/news/20170705/201066960_300.jpg" length="0" type="image/jpg"/>
         </item>
@@ -59,7 +68,7 @@
             <pubDate>Sat, 23 Oct 2021 00:54:09 GMT</pubDate>
             <content:encoded><![CDATA[<img alt="이경원 기자 기자 사진" src="//img.sbs.co.kr/newimg/news/reporter_thum.jpg" data-src="//img.sbs.co.kr/newimg/news/2011-08-05_133817.png" class="lazy">
 									이경원 기자]]></content:encoded>
-            <enclosure url="https://img.sbs.co.kr/newimg/news/20211018/201601341_300.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://static.sbsdlab.co.kr/image/thumb_default.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[사실은] 재산 상속하면, 절반을 세금으로 떼 간다?]]></title>
@@ -84,15 +93,6 @@
             <link>https://news.sbs.co.kr/news/endPage.do?news_id=N1006499272&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</link>
             <guid>https://news.sbs.co.kr/news/endPage.do?news_id=N1006499272&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</guid>
             <pubDate>Sat, 16 Oct 2021 00:55:44 GMT</pubDate>
-            <content:encoded><![CDATA[<img alt="이경원 기자 기자 사진" src="//img.sbs.co.kr/newimg/news/reporter_thum.jpg" data-src="//img.sbs.co.kr/newimg/news/2011-08-05_133817.png" class="lazy">
-									이경원 기자]]></content:encoded>
-            <enclosure url="https://static.sbsdlab.co.kr/image/thumb_default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[사실은] "청년들 목숨이 낙엽처럼"…김용균 전과 후, 얼마나 달라졌나?]]></title>
-            <link>https://news.sbs.co.kr/news/endPage.do?news_id=N1006496953&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</link>
-            <guid>https://news.sbs.co.kr/news/endPage.do?news_id=N1006496953&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</guid>
-            <pubDate>Thu, 14 Oct 2021 02:01:39 GMT</pubDate>
             <content:encoded><![CDATA[<img alt="이경원 기자 기자 사진" src="//img.sbs.co.kr/newimg/news/reporter_thum.jpg" data-src="//img.sbs.co.kr/newimg/news/2011-08-05_133817.png" class="lazy">
 									이경원 기자]]></content:encoded>
             <enclosure url="https://static.sbsdlab.co.kr/image/thumb_default.png" length="0" type="image/png"/>
