@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Nov 2021 06:20:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Nov 2021 07:16:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -342,6 +342,16 @@
             <enclosure url="https://image.imnews.imbc.com/replay/2021/nwdesk/article/__icsFiles/afieldfile/2021/09/23/desk_20210923_201111_1_10_Large.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[전국민 지원금 25조·소상공인 손실보상 50조 정말 쉽지 않나 (연합뉴스 ─ 팩트체크)]]></title>
+            <link>https://www.yna.co.kr/view/AKR20211111087600002?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20211111087600002?section=theme-list/factcheck</guid>
+            <pubDate>Thu, 11 Nov 2021 07:16:26 GMT</pubDate>
+            <content:encoded><![CDATA[정부, 재정건전성 우려…나라살림 100조원 적자·내년 나라빚 1천조원
+내년 본예산 증액·국채 발행 추경 편성·납세유예도 쉽지 않아
+...]]></content:encoded>
+            <enclosure url="https://img5.yna.co.kr/photo/yna/YH/2021/11/11/PYH2021111100930001300_P2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['남의 아파트 놀이터'에서 놀면 주거침입? (연합뉴스 ─ 팩트체크)]]></title>
             <link>https://www.yna.co.kr/view/AKR20211110167000502?section=theme-list/factcheck</link>
             <guid>https://www.yna.co.kr/view/AKR20211110167000502?section=theme-list/factcheck</guid>
@@ -576,16 +586,6 @@ G7과 비교하면 오히려 낮거나 비슷해
             <content:encoded><![CDATA[최고 명목세율은 50%로 2위 맞아…실효세율은 28.6%로 낮아
 국가별 다른 공제제도로 명목세율만으로는 판단 어려워…"반은 맞고 반은 틀리다...]]></content:encoded>
             <enclosure url="https://img0.yna.co.kr/photo/yna/YH/2021/04/30/PYH2021043017650001300_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[공영주차장 주차구역에 텐트 쳐도 처벌 규정이 없다? (연합뉴스 ─ 팩트체크)]]></title>
-            <link>https://www.yna.co.kr/view/AKR20211015130000502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20211015130000502?section=theme-list/factcheck</guid>
-            <pubDate>Sun, 17 Oct 2021 02:35:25 GMT</pubDate>
-            <content:encoded><![CDATA[지자체가 조례로 과태료 부과 등의 규정 둘 수 있어
-장애인 전용 주차구역이라면 장애인 편의 보장법에 따라 50만원 과태료
-(서울=...]]></content:encoded>
-            <enclosure url="https://img5.yna.co.kr/etc/inner/KR/2021/10/15/AKR20211015130000502_03_i_P2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["소아청소년 백신 접종 이상반응 성인과 비슷한 정도" 전문가 일문일답 (동아사이언스 ─ 팩트체크)]]></title>
