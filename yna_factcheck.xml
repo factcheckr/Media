@@ -4,9 +4,19 @@
         <title>연합뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Nov 2021 22:16:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Nov 2021 23:17:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[회사 소유 PC·휴대전화는 사용 직원 동의 없이 열람?]]></title>
+            <link>https://www.yna.co.kr/view/AKR20211112011100502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20211112011100502?section=theme-list/factcheck</guid>
+            <pubDate>Thu, 11 Nov 2021 23:16:56 GMT</pubDate>
+            <content:encoded><![CDATA[대검 감찰부 대변인 공용폰 압수 논란에 일반 직장인도 관심
+"압수 정당해도 포렌식에 전임자 참여권 보장해야" 의견 많아
+직원 PC 무단 열람...]]></content:encoded>
+            <enclosure url="https://img3.yna.co.kr/photo/cms/2018/08/08/01/C0A8CA3D00000165170062ED00069536_P2.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[전국민 지원금 25조·소상공인 손실보상 50조 정말 쉽지 않나]]></title>
             <link>https://www.yna.co.kr/view/AKR20211111087600002?section=theme-list/factcheck</link>
@@ -243,15 +253,6 @@ G7과 비교하면 오히려 낮거나 비슷해
             <content:encoded><![CDATA[넷플릭스 자체 평가한 '오징어 게임' 가치는 1조원…제작사 마진은 20억~50억원
 콘텐츠 제작 기여에도 지식재산권 독점은 문제 "제도적 개선...]]></content:encoded>
             <enclosure url="https://img7.yna.co.kr/photo/cms/2021/10/05/33/PCM20211005000033005_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우리나라 상속세 부담이 OECD 국가 중 두 번째로 크다고?]]></title>
-            <link>https://www.yna.co.kr/view/AKR20211018051700502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20211018051700502?section=theme-list/factcheck</guid>
-            <pubDate>Mon, 18 Oct 2021 03:17:30 GMT</pubDate>
-            <content:encoded><![CDATA[최고 명목세율은 50%로 2위 맞아…실효세율은 28.6%로 낮아
-국가별 다른 공제제도로 명목세율만으로는 판단 어려워…"반은 맞고 반은 틀리다...]]></content:encoded>
-            <enclosure url="https://img0.yna.co.kr/photo/yna/YH/2021/04/30/PYH2021043017650001300_P2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
