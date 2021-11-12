@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Nov 2021 04:21:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Nov 2021 05:15:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -136,7 +136,7 @@
             <enclosure url="https://news.kbs.co.kr/data/fckeditor/new/image/2021/05/21/173501621566744897.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[사실은] 故 홍정운의 꿈…목숨이 낙엽처럼 (SBS뉴스 ─ 사실은)]]></title>
+            <title><![CDATA["어른들이 애 하나 죽였어요"…영정사진이 된 원서 사진 (SBS뉴스 ─ 사실은)]]></title>
             <link>https://news.sbs.co.kr/news/endPage.do?news_id=N1006531174&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</link>
             <guid>https://news.sbs.co.kr/news/endPage.do?news_id=N1006531174&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</guid>
             <pubDate>Fri, 12 Nov 2021 03:17:03 GMT</pubDate>
@@ -339,6 +339,15 @@
             <guid>https://imnews.imbc.com/newszoomin/newsinsight/6302854_29123.html</guid>
             <pubDate>Sun, 26 Sep 2021 23:06:54 GMT</pubDate>
             <content:encoded><![CDATA[<span>2021-09-25</span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[갑론을박 대장동특검…당장 수사할 수 있을까 (연합뉴스 ─ 팩트체크)]]></title>
+            <link>https://www.yna.co.kr/view/AKR20211112060000004?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20211112060000004?section=theme-list/factcheck</guid>
+            <pubDate>Fri, 12 Nov 2021 05:15:09 GMT</pubDate>
+            <content:encoded><![CDATA[내곡동 특검은 준비에만 53일 걸려 …오늘 출범해도 수사 착수 내년에나 가능
+(서울=연합뉴스) 정성조 기자 = 대장동 의혹 특별...]]></content:encoded>
+            <enclosure url="https://img3.yna.co.kr/photo/cms/2021/09/30/37/PCM20210930000137990_P2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[회사 소유 PC·휴대전화는 사용 직원 동의 없이 열람? (연합뉴스 ─ 팩트체크)]]></title>
@@ -577,15 +586,6 @@ G7과 비교하면 오히려 낮거나 비슷해
 혼인빙자 간음죄는 2009년 위헌 판결로 폐지돼
 낙태에 협박 있었다면 강요죄 가능...]]></content:encoded>
             <enclosure url="https://img5.yna.co.kr/etc/inner/KR/2021/10/19/AKR20211019134600502_01_i_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['오징어 게임' 만든 넷플릭스, 지원군인가 먹튀인가 (연합뉴스 ─ 팩트체크)]]></title>
-            <link>https://www.yna.co.kr/view/AKR20211019020900502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20211019020900502?section=theme-list/factcheck</guid>
-            <pubDate>Tue, 19 Oct 2021 00:55:50 GMT</pubDate>
-            <content:encoded><![CDATA[넷플릭스 자체 평가한 '오징어 게임' 가치는 1조원…제작사 마진은 20억~50억원
-콘텐츠 제작 기여에도 지식재산권 독점은 문제 "제도적 개선...]]></content:encoded>
-            <enclosure url="https://img7.yna.co.kr/photo/cms/2021/10/05/33/PCM20211005000033005_P2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["소아청소년 백신 접종 이상반응 성인과 비슷한 정도" 전문가 일문일답 (동아사이언스 ─ 팩트체크)]]></title>
