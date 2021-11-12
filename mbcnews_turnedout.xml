@@ -4,9 +4,17 @@
         <title>MBC뉴스 ─ 알고보니</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Nov 2021 11:14:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Nov 2021 12:25:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[스토킹 처벌법, 층간소음 분쟁에까지 적용?]]></title>
+            <link>https://imnews.imbc.com/replay/2021/nwdesk/article/6314299_34936.html</link>
+            <guid>https://imnews.imbc.com/replay/2021/nwdesk/article/6314299_34936.html</guid>
+            <pubDate>Fri, 12 Nov 2021 12:25:11 GMT</pubDate>
+            <content:encoded><![CDATA[<span>2021-11-12</span>]]></content:encoded>
+            <enclosure url="https://image.imnews.imbc.com/replay/2021/nwdesk/article/__icsFiles/afieldfile/2021/11/12/desk_20211112_202143_1_18_Large.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['새 생명 주셔서 고맙다'는 편지 받으면‥어떨까]]></title>
             <link>https://imnews.imbc.com/newszoomin/newsinsight/6314154_29123.html</link>
@@ -114,13 +122,6 @@
             <pubDate>Tue, 28 Sep 2021 12:25:34 GMT</pubDate>
             <content:encoded><![CDATA[<span>2021-09-28</span>]]></content:encoded>
             <enclosure url="https://image.imnews.imbc.com/replay/2021/nwdesk/article/__icsFiles/afieldfile/2021/09/28/desk_20210928_202654_1_18_Large.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[목숨도 앗아가는 보이스피싱‥'감형사유' 봤더니]]></title>
-            <link>https://imnews.imbc.com/newszoomin/newsinsight/6302854_29123.html</link>
-            <guid>https://imnews.imbc.com/newszoomin/newsinsight/6302854_29123.html</guid>
-            <pubDate>Sun, 26 Sep 2021 23:06:54 GMT</pubDate>
-            <content:encoded><![CDATA[<span>2021-09-25</span>]]></content:encoded>
         </item>
     </channel>
 </rss>
