@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Nov 2021 23:16:59 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Nov 2021 00:50:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -342,6 +342,15 @@
             <enclosure url="https://image.imnews.imbc.com/replay/2021/nwdesk/article/__icsFiles/afieldfile/2021/09/28/desk_20210928_202654_1_18_Large.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[첫눈 일찍 오면 그해 겨울은 더 춥다? (연합뉴스 ─ 팩트체크)]]></title>
+            <link>https://www.yna.co.kr/view/AKR20211112145100502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20211112145100502?section=theme-list/factcheck</guid>
+            <pubDate>Sat, 13 Nov 2021 00:50:30 GMT</pubDate>
+            <content:encoded><![CDATA[최근 10년간 기상청 데이터 분석 결과 모두 부합하진 않아
+(서울=연합뉴스) 장하나 기자 = 올해 서울 지역의 첫눈이 작년보다 한 ...]]></content:encoded>
+            <enclosure url="https://img6.yna.co.kr/photo/cms/2020/12/11/77/PCM20201211000077990_P2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[갑론을박 대장동특검…당장 수사할 수 있을까 (연합뉴스 ─ 팩트체크)]]></title>
             <link>https://www.yna.co.kr/view/AKR20211112060000004?section=theme-list/factcheck</link>
             <guid>https://www.yna.co.kr/view/AKR20211112060000004?section=theme-list/factcheck</guid>
@@ -577,16 +586,6 @@ G7과 비교하면 오히려 낮거나 비슷해
 보도자료·기자회견은 목적·장소·양태 따져 면책 여부 판단
 (서울=연합...]]></content:encoded>
             <enclosure url="https://img0.yna.co.kr/photo/yna/YH/2021/10/18/PYH2021101815990006100_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여자친구에게 낙태 종용했다면 범죄? (연합뉴스 ─ 팩트체크)]]></title>
-            <link>https://www.yna.co.kr/view/AKR20211019134600502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20211019134600502?section=theme-list/factcheck</guid>
-            <pubDate>Tue, 19 Oct 2021 23:16:24 GMT</pubDate>
-            <content:encoded><![CDATA[올해부터 낙태죄 효력 상실하며 낙태교사죄·낙태방조죄 사라져
-혼인빙자 간음죄는 2009년 위헌 판결로 폐지돼
-낙태에 협박 있었다면 강요죄 가능...]]></content:encoded>
-            <enclosure url="https://img5.yna.co.kr/etc/inner/KR/2021/10/19/AKR20211019134600502_01_i_P2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["소아청소년 백신 접종 이상반응 성인과 비슷한 정도" 전문가 일문일답 (동아사이언스 ─ 팩트체크)]]></title>
