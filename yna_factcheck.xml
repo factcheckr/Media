@@ -4,9 +4,19 @@
         <title>연합뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 14 Nov 2021 21:14:31 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Nov 2021 22:16:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[1910년 한일합병 책임은 누구에게 있나]]></title>
+            <link>https://www.yna.co.kr/view/AKR20211115001100072?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20211115001100072?section=theme-list/factcheck</guid>
+            <pubDate>Sun, 14 Nov 2021 22:16:42 GMT</pubDate>
+            <content:encoded><![CDATA[고종이 신임했던 미국공사 알렌, 구한말 인식 담은 서한 남겨
+알렌 "美, 日의 조선지배 용인 안타깝다…합병, 스스로 불러들인 결과"
+...]]></content:encoded>
+            <enclosure url="https://img1.yna.co.kr/photo/yna/YH/2021/11/12/PYH2021111202950001300_P2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[첫눈 일찍 오면 그해 겨울은 더 춥다?]]></title>
             <link>https://www.yna.co.kr/view/AKR20211112145100502?section=theme-list/factcheck</link>
@@ -242,16 +252,6 @@ G7과 비교하면 오히려 낮거나 비슷해
 귀국시에는 2주 격리해야…6세 미만이면 면제
 (서울=연합뉴스) 장...]]></content:encoded>
             <enclosure url="https://img2.yna.co.kr/etc/inner/KR/2021/10/21/AKR20211021049900502_02_i_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[국회의원은 국감장에서 허위 발언해도 면책된다?]]></title>
-            <link>https://www.yna.co.kr/view/AKR20211021026200502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20211021026200502?section=theme-list/factcheck</guid>
-            <pubDate>Thu, 21 Oct 2021 00:57:10 GMT</pubDate>
-            <content:encoded><![CDATA[허위 알고도 명예훼손시 면책특권 인정 안 돼…대법원 판례 확립
-보도자료·기자회견은 목적·장소·양태 따져 면책 여부 판단
-(서울=연합...]]></content:encoded>
-            <enclosure url="https://img0.yna.co.kr/photo/yna/YH/2021/10/18/PYH2021101815990006100_P2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
