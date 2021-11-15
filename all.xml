@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 Nov 2021 02:34:06 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Nov 2021 03:18:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -342,6 +342,15 @@
             <enclosure url="https://image.imnews.imbc.com/replay/2021/nwdesk/article/__icsFiles/afieldfile/2021/09/28/desk_20210928_202654_1_18_Large.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[사고 책임이 더 큰 킥보드 운전자 치료비도 차량 운전자가 문다? (연합뉴스 ─ 팩트체크)]]></title>
+            <link>https://www.yna.co.kr/view/AKR20211115069400502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20211115069400502?section=theme-list/factcheck</guid>
+            <pubDate>Mon, 15 Nov 2021 03:17:57 GMT</pubDate>
+            <content:encoded><![CDATA[자동차보험 약관에 명시…피해자 과실 커도 치료비 전액 자동차 보험사가 보상
+(서울=연합뉴스) 이웅 기자 = 전동킥보드 이용자가 늘면...]]></content:encoded>
+            <enclosure url="https://img2.yna.co.kr/photo/yna/YH/2021/07/04/PYH2021070402500001300_P2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[1910년 한일합병 책임은 누구에게 있나 (연합뉴스 ─ 팩트체크)]]></title>
             <link>https://www.yna.co.kr/view/AKR20211115001100072?section=theme-list/factcheck</link>
             <guid>https://www.yna.co.kr/view/AKR20211115001100072?section=theme-list/factcheck</guid>
@@ -576,16 +585,6 @@ G7과 비교하면 오히려 낮거나 비슷해
             <content:encoded><![CDATA["백신 접종 후 심장 질환은 전신 이상반응…팔 통증과 관계없어"
 (서울=연합뉴스) 계승현 기자 = 화이자·모더나 등 메신저 리보핵...]]></content:encoded>
             <enclosure url="https://img3.yna.co.kr/photo/cms/2021/03/04/69/PCM20210304000169990_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[백신 안 맞은 자녀도 격리없이 하와이여행 가능? (연합뉴스 ─ 팩트체크)]]></title>
-            <link>https://www.yna.co.kr/view/AKR20211021049900502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20211021049900502?section=theme-list/factcheck</guid>
-            <pubDate>Thu, 21 Oct 2021 02:10:07 GMT</pubDate>
-            <content:encoded><![CDATA[하와이·괌 입국 때는 PCR 음성확인서 있으면 격리 안 해도 돼
-귀국시에는 2주 격리해야…6세 미만이면 면제
-(서울=연합뉴스) 장...]]></content:encoded>
-            <enclosure url="https://img2.yna.co.kr/etc/inner/KR/2021/10/21/AKR20211021049900502_02_i_P2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["소아청소년 백신 접종 이상반응 성인과 비슷한 정도" 전문가 일문일답 (동아사이언스 ─ 팩트체크)]]></title>
