@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Nov 2021 07:16:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Nov 2021 08:19:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -342,6 +342,16 @@
             <enclosure url="https://image.imnews.imbc.com/replay/2021/nwdesk/article/__icsFiles/afieldfile/2021/09/28/desk_20210928_202654_1_18_Large.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[올해 초과 세수는 50조원? 19조원? (연합뉴스 ─ 팩트체크)]]></title>
+            <link>https://www.yna.co.kr/view/AKR20211117141400502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20211117141400502?section=theme-list/factcheck</guid>
+            <pubDate>Wed, 17 Nov 2021 08:19:23 GMT</pubDate>
+            <content:encoded><![CDATA[산정 기준시점 차이에서 비롯…본예산과 비교하면 50조원
+기재부는 "초과세수는 추경예산과 비교해야…19조원 전망"
+학계 "회계적으로 본예산 기...]]></content:encoded>
+            <enclosure url="https://img8.yna.co.kr/photo/cms/2021/07/12/01/PCM20210712000001990_P2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[집앞에서 기다리고 따라가고…취재여도 스토킹 행위일까(종합) (연합뉴스 ─ 팩트체크)]]></title>
             <link>https://www.yna.co.kr/view/AKR20211116153351502?section=theme-list/factcheck</link>
             <guid>https://www.yna.co.kr/view/AKR20211116153351502?section=theme-list/factcheck</guid>
@@ -575,16 +585,6 @@ G7과 비교하면 오히려 낮거나 비슷해
 연구자들 "광주 상황 보고받고 자위권 주장 등 간접 책임 충분"
 (광...]]></content:encoded>
             <enclosure url="https://img8.yna.co.kr/photo/yna/YH/2021/10/26/PYH2021102614240001300_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[유류세 인하하면 부자들이 더 혜택받는다? (연합뉴스 ─ 팩트체크)]]></title>
-            <link>https://www.yna.co.kr/view/AKR20211027177700502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20211027177700502?section=theme-list/factcheck</guid>
-            <pubDate>Thu, 28 Oct 2021 01:58:17 GMT</pubDate>
-            <content:encoded><![CDATA[기름 많이 사용하는 고소득층이 유류비 절감 총액은 많아
-지출에서 유류비 비중이 큰 저소득·중산층에서는 '체감 효과'
-(서울=연...]]></content:encoded>
-            <enclosure url="https://img6.yna.co.kr/photo/yna/YH/2021/10/26/PYH2021102617090001300_P2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["소아청소년 백신 접종 이상반응 성인과 비슷한 정도" 전문가 일문일답 (동아사이언스 ─ 팩트체크)]]></title>
