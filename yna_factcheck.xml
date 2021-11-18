@@ -4,9 +4,19 @@
         <title>연합뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Nov 2021 06:20:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Nov 2021 07:15:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[모듈러 공법으로 짓는 교실, 안전성에 문제있나?]]></title>
+            <link>https://www.yna.co.kr/view/AKR20211118120600502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20211118120600502?section=theme-list/factcheck</guid>
+            <pubDate>Thu, 18 Nov 2021 07:15:35 GMT</pubDate>
+            <content:encoded><![CDATA[청주 내곡초 사태로 모듈러교실 주목…"컨테이너 교실과 전혀 달라"
+"조립식이지만 건물 성능·안전성은 철근콘크리트·철골과 다를 바 없어"
+...]]></content:encoded>
+            <enclosure url="https://img4.yna.co.kr/etc/inner/KR/2021/11/18/AKR20211118120600502_01_i_P2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[올해 초과 세수는 50조원? 19조원?]]></title>
             <link>https://www.yna.co.kr/view/AKR20211117141400502?section=theme-list/factcheck</link>
@@ -241,16 +251,6 @@ G7과 비교하면 오히려 낮거나 비슷해
 다수 의료전문가 "피임은 임상시험 관행일 뿐…드러난 문제 없어"
 ...]]></content:encoded>
             <enclosure url="https://img1.yna.co.kr/photo/yna/YH/2021/10/25/PYH2021102513970001300_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["노태우 5·18과 관계없다" 사실?…역사적 평가 진행중]]></title>
-            <link>https://www.yna.co.kr/view/AKR20211028071100054?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20211028071100054?section=theme-list/factcheck</guid>
-            <pubDate>Thu, 28 Oct 2021 08:19:01 GMT</pubDate>
-            <content:encoded><![CDATA[5·18 관련 형사처벌 받지 않아…수사 단계서 무혐의
-연구자들 "광주 상황 보고받고 자위권 주장 등 간접 책임 충분"
-(광...]]></content:encoded>
-            <enclosure url="https://img8.yna.co.kr/photo/yna/YH/2021/10/26/PYH2021102614240001300_P2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
