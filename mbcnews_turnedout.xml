@@ -4,9 +4,17 @@
         <title>MBC뉴스 ─ 알고보니</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Nov 2021 11:14:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Nov 2021 12:26:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[놀이터 늘어났지만‥부익부 빈익빈?]]></title>
+            <link>https://imnews.imbc.com/replay/2021/nwdesk/article/6315951_34936.html</link>
+            <guid>https://imnews.imbc.com/replay/2021/nwdesk/article/6315951_34936.html</guid>
+            <pubDate>Fri, 19 Nov 2021 12:25:34 GMT</pubDate>
+            <content:encoded><![CDATA[<span>2021-11-19</span>]]></content:encoded>
+            <enclosure url="https://image.imnews.imbc.com/replay/2021/nwdesk/article/__icsFiles/afieldfile/2021/11/19/desk_20211119_200446_1_12_Large.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[스토킹 처벌법, 층간소음 분쟁에까지 적용?]]></title>
             <link>https://imnews.imbc.com/replay/2021/nwdesk/article/6314299_34936.html</link>
@@ -114,14 +122,6 @@
             <pubDate>Thu, 30 Sep 2021 12:25:40 GMT</pubDate>
             <content:encoded><![CDATA[<span>2021-09-30</span>]]></content:encoded>
             <enclosure url="https://image.imnews.imbc.com/replay/2021/nwdesk/article/__icsFiles/afieldfile/2021/09/30/desk_20210930_201149_1_11_Large.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[산재 신청도 안하고 44억 산재위로금‥한국에서 가능?]]></title>
-            <link>https://imnews.imbc.com/replay/2021/nwdesk/article/6303569_34936.html</link>
-            <guid>https://imnews.imbc.com/replay/2021/nwdesk/article/6303569_34936.html</guid>
-            <pubDate>Tue, 28 Sep 2021 12:25:34 GMT</pubDate>
-            <content:encoded><![CDATA[<span>2021-09-28</span>]]></content:encoded>
-            <enclosure url="https://image.imnews.imbc.com/replay/2021/nwdesk/article/__icsFiles/afieldfile/2021/09/28/desk_20210928_202654_1_18_Large.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
