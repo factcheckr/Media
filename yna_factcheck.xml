@@ -4,9 +4,18 @@
         <title>연합뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 20 Nov 2021 22:16:01 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Nov 2021 23:16:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[택시에 두고내린 휴대폰 돌려받을 때 적정 보상금은?]]></title>
+            <link>https://www.yna.co.kr/view/AKR20211119103600502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20211119103600502?section=theme-list/factcheck</guid>
+            <pubDate>Sat, 20 Nov 2021 23:16:27 GMT</pubDate>
+            <content:encoded><![CDATA["하차 직후 연락했다면 유실로 보기 어려워…사례금은 소요된 운임이 타당"
+유실물 반환 가능성 클수록 보상금 줄어…"휴대전화도 보상가액 낮춰...]]></content:encoded>
+            <enclosure url="https://img7.yna.co.kr/photo/cms/2018/04/12/01/C0A8CA3C00000162B720B63F00020D32_P2.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[모듈러 공법으로 짓는 교실, 안전성에 문제있나?]]></title>
             <link>https://www.yna.co.kr/view/AKR20211118120600502?section=theme-list/factcheck</link>
@@ -241,16 +250,6 @@ G7과 비교하면 오히려 낮거나 비슷해
 '○○○ 당선되면 치킨 쏜다'는 게시글도 위반 소지 있어
 (서울=연합뉴스) 박성...]]></content:encoded>
             <enclosure url="https://img5.yna.co.kr/etc/inner/KR/2021/10/28/AKR20211028132300502_02_i_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[먹는 코로나 치료제 '몰누피라비르'가 기형아 유발?]]></title>
-            <link>https://www.yna.co.kr/view/AKR20211028163200502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20211028163200502?section=theme-list/factcheck</guid>
-            <pubDate>Thu, 28 Oct 2021 22:15:52 GMT</pubDate>
-            <content:encoded><![CDATA[임상 참가자에게 피임 권고한 사실 알려지며 온라인에서 우려 확산
-다수 의료전문가 "피임은 임상시험 관행일 뿐…드러난 문제 없어"
-...]]></content:encoded>
-            <enclosure url="https://img1.yna.co.kr/photo/yna/YH/2021/10/25/PYH2021102513970001300_P2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
