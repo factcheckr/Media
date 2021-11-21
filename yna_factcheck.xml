@@ -4,9 +4,19 @@
         <title>연합뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 21 Nov 2021 22:16:30 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Nov 2021 23:16:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['블프'에 해외 직구해 남에게 되팔아도 될까?]]></title>
+            <link>https://www.yna.co.kr/view/AKR20211119158800502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20211119158800502?section=theme-list/factcheck</guid>
+            <pubDate>Sun, 21 Nov 2021 23:16:39 GMT</pubDate>
+            <content:encoded><![CDATA[개인 사용 목적으로 면세받은 제품 팔면 관세법 위반
+해외직구 1년 지난 전자제품은 중고거래 가능…관세법 저촉 등은 주의해야
+(서울...]]></content:encoded>
+            <enclosure url="https://img4.yna.co.kr/photo/cms/2019/09/18/59/PCM20190918000059990_P2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[택시에 두고내린 휴대폰 돌려받을 때 적정 보상금은?]]></title>
             <link>https://www.yna.co.kr/view/AKR20211119103600502?section=theme-list/factcheck</link>
@@ -240,16 +250,6 @@ G7과 비교하면 오히려 낮거나 비슷해
 "항체진단키트는 애당초 백신 효력 확인에 적용 안 돼"
 (서울=연합...]]></content:encoded>
             <enclosure url="https://img6.yna.co.kr/photo/cms/2021/10/27/76/PCM20211027000076990_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[대통령후보 지지율 조사하는 온라인 커뮤니티 글은 선거법 위반?]]></title>
-            <link>https://www.yna.co.kr/view/AKR20211028132300502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20211028132300502?section=theme-list/factcheck</guid>
-            <pubDate>Thu, 28 Oct 2021 23:17:12 GMT</pubDate>
-            <content:encoded><![CDATA[재미삼아 하는 조사라도 신고없이 진행하면 제재 대상
-'○○○ 당선되면 치킨 쏜다'는 게시글도 위반 소지 있어
-(서울=연합뉴스) 박성...]]></content:encoded>
-            <enclosure url="https://img5.yna.co.kr/etc/inner/KR/2021/10/28/AKR20211028132300502_02_i_P2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
