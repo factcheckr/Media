@@ -4,9 +4,18 @@
         <title>연합뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Nov 2021 22:17:25 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Nov 2021 23:16:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[투·개표에 동원되는 공무원들 시급 6천 원 받는다?]]></title>
+            <link>https://www.yna.co.kr/view/AKR20211122141400502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20211122141400502?section=theme-list/factcheck</guid>
+            <pubDate>Mon, 22 Nov 2021 23:16:47 GMT</pubDate>
+            <content:encoded><![CDATA[근무 시간과 관계없이 일정 금액 지급…실제 근무 시간에 따라 시급 달라
+15시간 근무때 시급 6천원…개표 종사자는 시급 1만원 넘는 경우 많...]]></content:encoded>
+            <enclosure url="https://img5.yna.co.kr/photo/yna/YH/2021/04/07/PYH2021040705490001300_P2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['블프'에 해외 직구해 남에게 되팔아도 될까?]]></title>
             <link>https://www.yna.co.kr/view/AKR20211119158800502?section=theme-list/factcheck</link>
@@ -240,16 +249,6 @@ G7과 비교하면 오히려 낮거나 비슷해
 지자체별 아파트 관리규약에 '밤중 샤워' 금지해도 법적 강제성 없어
 (서...]]></content:encoded>
             <enclosure url="https://img3.yna.co.kr/photo/cms/2020/03/30/46/PCM20200330000146990_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[항체진단키트 '음성'이면 물백신 맞은 것?]]></title>
-            <link>https://www.yna.co.kr/view/AKR20211029098200017?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20211029098200017?section=theme-list/factcheck</guid>
-            <pubDate>Fri, 29 Oct 2021 23:16:50 GMT</pubDate>
-            <content:encoded><![CDATA[진단키트 한계로 백신 접종 후 항체 놓칠 수도…세포면역도 중요
-"항체진단키트는 애당초 백신 효력 확인에 적용 안 돼"
-(서울=연합...]]></content:encoded>
-            <enclosure url="https://img6.yna.co.kr/photo/cms/2021/10/27/76/PCM20211027000076990_P2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
