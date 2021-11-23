@@ -4,9 +4,19 @@
         <title>연합뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Nov 2021 08:20:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Nov 2021 09:17:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[전두환 33년전 백담사 갈 때 5·18 사과했다고?]]></title>
+            <link>https://www.yna.co.kr/view/AKR20211123145300502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20211123145300502?section=theme-list/factcheck</guid>
+            <pubDate>Tue, 23 Nov 2021 09:17:34 GMT</pubDate>
+            <content:encoded><![CDATA[전두환 측 "백담사 가기 전 성명서에서 미안하다는 뜻 밝혔다" 주장
+성명서에서 삼청교육대·인권침해 등에 대해 "사과드린다"
+5·18 언급하면...]]></content:encoded>
+            <enclosure url="https://img0.yna.co.kr/photo/yna/YH/2021/11/23/PYH2021112313870001300_P2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[투·개표에 동원되는 공무원들 시급 6천 원 받는다?]]></title>
             <link>https://www.yna.co.kr/view/AKR20211122141400502?section=theme-list/factcheck</link>
@@ -239,16 +249,6 @@ G7과 비교하면 오히려 낮거나 비슷해
 2003년 강간치상 공소시효 2023년까지 늘어날 수 있어
 법조계 ...]]></content:encoded>
             <enclosure url="https://img2.yna.co.kr/photo/cms/2018/03/09/01/C0A8CA3C000001627F0E0BB0005FC7D_P2.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[밤중 샤워나 목욕 소리도 층간소음이라고?]]></title>
-            <link>https://www.yna.co.kr/view/AKR20211029142600502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20211029142600502?section=theme-list/factcheck</guid>
-            <pubDate>Sun, 31 Oct 2021 22:16:03 GMT</pubDate>
-            <content:encoded><![CDATA[공동주택 층간소음 규칙상 급·배수로 인한 욕실 소음은 제외
-지자체별 아파트 관리규약에 '밤중 샤워' 금지해도 법적 강제성 없어
-(서...]]></content:encoded>
-            <enclosure url="https://img3.yna.co.kr/photo/cms/2020/03/30/46/PCM20200330000146990_P2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
