@@ -4,9 +4,19 @@
         <title>연합뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Nov 2021 00:51:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Nov 2021 01:59:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[배달 음식에서 이물질 나왔을 때 보상금은 얼마?]]></title>
+            <link>https://www.yna.co.kr/view/AKR20211124055000502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20211124055000502?section=theme-list/factcheck</guid>
+            <pubDate>Wed, 24 Nov 2021 01:59:24 GMT</pubDate>
+            <content:encoded><![CDATA[공정위 고시는 '제품교환 또는 환불' 원칙…위자료 지급 근거 없어
+대규모 업체는 이미지 추락 등 우려해 위로금 주기도
+위로금 갈등 때는 PL...]]></content:encoded>
+            <enclosure url="https://img0.yna.co.kr/photo/cms/2021/05/17/32/PCM20210517000032990_P2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[전두환 33년전 백담사 갈 때 5·18 사과했다?]]></title>
             <link>https://www.yna.co.kr/view/AKR20211123145300502?section=theme-list/factcheck</link>
@@ -239,16 +249,6 @@ G7과 비교하면 오히려 낮거나 비슷해
 중국과 협상하면서 대체 수입선 발굴이 현실적…요소 직접 생산도 고민해야
 ...]]></content:encoded>
             <enclosure url="https://img8.yna.co.kr/etc/inner/KR/2021/11/02/AKR20211102167200530_01_i_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[18년 전 성폭행도 처벌할 수 있다?]]></title>
-            <link>https://www.yna.co.kr/view/AKR20211101152600502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20211101152600502?section=theme-list/factcheck</guid>
-            <pubDate>Tue, 02 Nov 2021 02:02:41 GMT</pubDate>
-            <content:encoded><![CDATA[2010년 제정 성폭력처벌법에서 과학적 증거 있으면 공소시효 10년 연장
-2003년 강간치상 공소시효 2023년까지 늘어날 수 있어
-법조계 ...]]></content:encoded>
-            <enclosure url="https://img2.yna.co.kr/photo/cms/2018/03/09/01/C0A8CA3C000001627F0E0BB0005FC7D_P2.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
