@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Nov 2021 00:51:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Nov 2021 01:58:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -136,6 +136,15 @@
             <enclosure url="https://news.kbs.co.kr/data/fckeditor/new/image/2021/06/04/173501622769637400.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[사실은] '발포 명령' 팩트체크, 내년 5월에도 해야 할까요? (SBS뉴스 ─ 사실은)]]></title>
+            <link>https://news.sbs.co.kr/news/endPage.do?news_id=N1006547906&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</link>
+            <guid>https://news.sbs.co.kr/news/endPage.do?news_id=N1006547906&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</guid>
+            <pubDate>Fri, 26 Nov 2021 01:57:33 GMT</pubDate>
+            <content:encoded><![CDATA[<img alt="이경원 기자 기자 사진" src="//img.sbs.co.kr/newimg/news/2011-08-05_133817.png" class="lazy" style="display: inline;">
+									이경원 기자]]></content:encoded>
+            <enclosure url="https://img.sbs.co.kr/newimg/news/20211125/201612673_300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[사실은] 이재명과 윤석열, 너무 태연해서 팩트체크했습니다 (SBS뉴스 ─ 사실은)]]></title>
             <link>https://news.sbs.co.kr/news/endPage.do?news_id=N1006544110&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</link>
             <guid>https://news.sbs.co.kr/news/endPage.do?news_id=N1006544110&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</guid>
@@ -176,7 +185,7 @@
             <link>https://news.sbs.co.kr/news/endPage.do?news_id=N1006531174&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</link>
             <guid>https://news.sbs.co.kr/news/endPage.do?news_id=N1006531174&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</guid>
             <pubDate>Fri, 12 Nov 2021 03:17:03 GMT</pubDate>
-            <content:encoded><![CDATA[<img alt="이경원 기자 기자 사진" src="//img.sbs.co.kr/newimg/news/2011-08-05_133817.png" class="lazy" style="display: inline;">
+            <content:encoded><![CDATA[<img alt="이경원 기자 기자 사진" src="//img.sbs.co.kr/newimg/news/reporter_thum.jpg" data-src="//img.sbs.co.kr/newimg/news/2011-08-05_133817.png" class="lazy">
 									이경원 기자]]></content:encoded>
             <enclosure url="https://img.sbs.co.kr/newimg/news/20211111/201608763_300.jpg" length="0" type="image/jpg"/>
         </item>
@@ -187,7 +196,7 @@
             <pubDate>Wed, 10 Nov 2021 06:19:04 GMT</pubDate>
             <content:encoded><![CDATA[<img alt="이경원 기자 기자 사진" src="//img.sbs.co.kr/newimg/news/reporter_thum.jpg" data-src="//img.sbs.co.kr/newimg/news/2011-08-05_133817.png" class="lazy">
 									이경원 기자]]></content:encoded>
-            <enclosure url="https://img.sbs.co.kr/newimg/news/20211110/201608256_300.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://static.sbsdlab.co.kr/image/thumb_default.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[사실은] 윤석열 · 홍준표 "여론조사를 보면…", 사실은? (SBS뉴스 ─ 사실은)]]></title>
@@ -212,15 +221,6 @@
             <link>https://news.sbs.co.kr/news/endPage.do?news_id=N1006516526&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</link>
             <guid>https://news.sbs.co.kr/news/endPage.do?news_id=N1006516526&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</guid>
             <pubDate>Sun, 31 Oct 2021 00:52:09 GMT</pubDate>
-            <content:encoded><![CDATA[<img alt="이경원 기자 기자 사진" src="//img.sbs.co.kr/newimg/news/reporter_thum.jpg" data-src="//img.sbs.co.kr/newimg/news/2011-08-05_133817.png" class="lazy">
-									이경원 기자]]></content:encoded>
-            <enclosure url="https://static.sbsdlab.co.kr/image/thumb_default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[사실은] '유선' 여론조사는 보수, '무선'은 진보에 유리? (SBS뉴스 ─ 사실은)]]></title>
-            <link>https://news.sbs.co.kr/news/endPage.do?news_id=N1006515460&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</link>
-            <guid>https://news.sbs.co.kr/news/endPage.do?news_id=N1006515460&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</guid>
-            <pubDate>Fri, 29 Oct 2021 03:17:08 GMT</pubDate>
             <content:encoded><![CDATA[<img alt="이경원 기자 기자 사진" src="//img.sbs.co.kr/newimg/news/reporter_thum.jpg" data-src="//img.sbs.co.kr/newimg/news/2011-08-05_133817.png" class="lazy">
 									이경원 기자]]></content:encoded>
             <enclosure url="https://static.sbsdlab.co.kr/image/thumb_default.png" length="0" type="image/png"/>
@@ -340,6 +340,16 @@
             <guid>https://imnews.imbc.com/newszoomin/newsinsight/6304482_29123.html</guid>
             <pubDate>Sat, 02 Oct 2021 01:58:22 GMT</pubDate>
             <content:encoded><![CDATA[<span>2021-10-02</span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[배달 전성시대 몸값 오른 라이더들 월수익은? (연합뉴스 ─ 팩트체크)]]></title>
+            <link>https://www.yna.co.kr/view/AKR20211126032200502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20211126032200502?section=theme-list/factcheck</guid>
+            <pubDate>Fri, 26 Nov 2021 01:58:06 GMT</pubDate>
+            <content:encoded><![CDATA[1주일에 200만원 넘었다는 수익인증 게시글 심심찮게 올라와
+"업계 평균으론 볼 수 없어"…보험료·유지비 등도 라이더가 부담
+코로나 확산과 ...]]></content:encoded>
+            <enclosure url="https://img5.yna.co.kr/photo/yna/YH/2021/03/02/PYH2021030217200001300_P2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[배달 음식에서 이물질 나왔을 때 보상금은 얼마? (연합뉴스 ─ 팩트체크)]]></title>
@@ -573,16 +583,6 @@ G7과 비교하면 오히려 낮거나 비슷해
 이태원 관할 용산경찰서 적발 23명 중 외국인은 2명
 (서울=연...]]></content:encoded>
             <enclosure url="https://img8.yna.co.kr/photo/yna/YH/2021/10/31/PYH2021103112170001300_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[요소수 품귀 해결하려 저감장치 중지?…"비현실적·비효율적" (연합뉴스 ─ 팩트체크)]]></title>
-            <link>https://www.yna.co.kr/view/AKR20211102167200530?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20211102167200530?section=theme-list/factcheck</guid>
-            <pubDate>Tue, 02 Nov 2021 22:16:19 GMT</pubDate>
-            <content:encoded><![CDATA[SCR 설정 변경 후 적용에 장기간 소요 예상…대기오염 심화 우려도
-중국과 협상하면서 대체 수입선 발굴이 현실적…요소 직접 생산도 고민해야
-...]]></content:encoded>
-            <enclosure url="https://img8.yna.co.kr/etc/inner/KR/2021/11/02/AKR20211102167200530_01_i_P2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["소아청소년 백신 접종 이상반응 성인과 비슷한 정도" 전문가 일문일답 (동아사이언스 ─ 팩트체크)]]></title>

@@ -4,9 +4,18 @@
         <title>SBS뉴스 ─ 사실은</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Nov 2021 00:51:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Nov 2021 01:58:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[사실은] '발포 명령' 팩트체크, 내년 5월에도 해야 할까요?]]></title>
+            <link>https://news.sbs.co.kr/news/endPage.do?news_id=N1006547906&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</link>
+            <guid>https://news.sbs.co.kr/news/endPage.do?news_id=N1006547906&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</guid>
+            <pubDate>Fri, 26 Nov 2021 01:57:33 GMT</pubDate>
+            <content:encoded><![CDATA[<img alt="이경원 기자 기자 사진" src="//img.sbs.co.kr/newimg/news/2011-08-05_133817.png" class="lazy" style="display: inline;">
+									이경원 기자]]></content:encoded>
+            <enclosure url="https://img.sbs.co.kr/newimg/news/20211125/201612673_300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[사실은] 이재명과 윤석열, 너무 태연해서 팩트체크했습니다]]></title>
             <link>https://news.sbs.co.kr/news/endPage.do?news_id=N1006544110&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</link>
@@ -48,7 +57,7 @@
             <link>https://news.sbs.co.kr/news/endPage.do?news_id=N1006531174&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</link>
             <guid>https://news.sbs.co.kr/news/endPage.do?news_id=N1006531174&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</guid>
             <pubDate>Fri, 12 Nov 2021 03:17:03 GMT</pubDate>
-            <content:encoded><![CDATA[<img alt="이경원 기자 기자 사진" src="//img.sbs.co.kr/newimg/news/2011-08-05_133817.png" class="lazy" style="display: inline;">
+            <content:encoded><![CDATA[<img alt="이경원 기자 기자 사진" src="//img.sbs.co.kr/newimg/news/reporter_thum.jpg" data-src="//img.sbs.co.kr/newimg/news/2011-08-05_133817.png" class="lazy">
 									이경원 기자]]></content:encoded>
             <enclosure url="https://img.sbs.co.kr/newimg/news/20211111/201608763_300.jpg" length="0" type="image/jpg"/>
         </item>
@@ -59,7 +68,7 @@
             <pubDate>Wed, 10 Nov 2021 06:19:04 GMT</pubDate>
             <content:encoded><![CDATA[<img alt="이경원 기자 기자 사진" src="//img.sbs.co.kr/newimg/news/reporter_thum.jpg" data-src="//img.sbs.co.kr/newimg/news/2011-08-05_133817.png" class="lazy">
 									이경원 기자]]></content:encoded>
-            <enclosure url="https://img.sbs.co.kr/newimg/news/20211110/201608256_300.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://static.sbsdlab.co.kr/image/thumb_default.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[사실은] 윤석열 · 홍준표 "여론조사를 보면…", 사실은?]]></title>
@@ -84,15 +93,6 @@
             <link>https://news.sbs.co.kr/news/endPage.do?news_id=N1006516526&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</link>
             <guid>https://news.sbs.co.kr/news/endPage.do?news_id=N1006516526&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</guid>
             <pubDate>Sun, 31 Oct 2021 00:52:09 GMT</pubDate>
-            <content:encoded><![CDATA[<img alt="이경원 기자 기자 사진" src="//img.sbs.co.kr/newimg/news/reporter_thum.jpg" data-src="//img.sbs.co.kr/newimg/news/2011-08-05_133817.png" class="lazy">
-									이경원 기자]]></content:encoded>
-            <enclosure url="https://static.sbsdlab.co.kr/image/thumb_default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[사실은] '유선' 여론조사는 보수, '무선'은 진보에 유리?]]></title>
-            <link>https://news.sbs.co.kr/news/endPage.do?news_id=N1006515460&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</link>
-            <guid>https://news.sbs.co.kr/news/endPage.do?news_id=N1006515460&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</guid>
-            <pubDate>Fri, 29 Oct 2021 03:17:08 GMT</pubDate>
             <content:encoded><![CDATA[<img alt="이경원 기자 기자 사진" src="//img.sbs.co.kr/newimg/news/reporter_thum.jpg" data-src="//img.sbs.co.kr/newimg/news/2011-08-05_133817.png" class="lazy">
 									이경원 기자]]></content:encoded>
             <enclosure url="https://static.sbsdlab.co.kr/image/thumb_default.png" length="0" type="image/png"/>
