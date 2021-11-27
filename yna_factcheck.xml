@@ -4,9 +4,19 @@
         <title>연합뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 27 Nov 2021 00:50:28 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Nov 2021 01:57:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오토바이 탄 채 횡단보도 건너면 위법?]]></title>
+            <link>https://www.yna.co.kr/view/AKR20211124118400502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20211124118400502?section=theme-list/factcheck</guid>
+            <pubDate>Sat, 27 Nov 2021 01:56:50 GMT</pubDate>
+            <content:encoded><![CDATA[도로교통법상 중앙선 침범·보행자 안전 위협 행위에 해당
+내려서 시동 끈 채 끌고 가야…자전거도 동일 규정 적용
+(서울=연합뉴스)...]]></content:encoded>
+            <enclosure url="https://img9.yna.co.kr/etc/inner/KR/2021/11/24/AKR20211124118400502_01_i_P2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[배달 전성시대 몸값 오른 라이더들 월수익은?]]></title>
             <link>https://www.yna.co.kr/view/AKR20211126032200502?section=theme-list/factcheck</link>
@@ -239,16 +249,6 @@
 G7과 비교하면 오히려 낮거나 비슷해
 (서울=연합뉴스) 박성...]]></content:encoded>
             <enclosure url="https://img8.yna.co.kr/etc/inner/KR/2021/11/02/AKR20211102160800502_01_i_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[핼러윈 기간에 외국인의 방역 수칙 위반 많았다?]]></title>
-            <link>https://www.yna.co.kr/view/AKR20211103031600502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20211103031600502?section=theme-list/factcheck</guid>
-            <pubDate>Wed, 03 Nov 2021 01:58:04 GMT</pubDate>
-            <content:encoded><![CDATA[서울경찰청·서울시 합동단속에서 적발된 500여명 중 외국인은 '0'
-이태원 관할 용산경찰서 적발 23명 중 외국인은 2명
-(서울=연...]]></content:encoded>
-            <enclosure url="https://img8.yna.co.kr/photo/yna/YH/2021/10/31/PYH2021103112170001300_P2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
