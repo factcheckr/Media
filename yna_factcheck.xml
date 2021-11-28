@@ -4,9 +4,18 @@
         <title>연합뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 27 Nov 2021 23:22:54 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Nov 2021 00:52:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[현장 CCTV 보려면 화면에 나온 사람들 동의 필요?]]></title>
+            <link>https://www.yna.co.kr/view/AKR20211125167000502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20211125167000502?section=theme-list/factcheck</guid>
+            <pubDate>Sun, 28 Nov 2021 00:52:45 GMT</pubDate>
+            <content:encoded><![CDATA[CCTV 영상도 '개인정보'…수사·재판 목적 외에 제공 어려워
+(서울=연합뉴스) 장하나 기자 = 인천 '층간소음 흉기난동' 사건 당...]]></content:encoded>
+            <enclosure url="https://img3.yna.co.kr/etc/inner/KR/2021/11/25/AKR20211125167000502_01_i_P2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[오토바이 탄 채 횡단보도 건너면 위법?]]></title>
             <link>https://www.yna.co.kr/view/AKR20211124118400502?section=theme-list/factcheck</link>
@@ -239,16 +248,6 @@
             <content:encoded><![CDATA[채용 공고에 '백신 접종자'로 제한했으면 입사 취소해도 문제 안 돼
 해고에는 해석 갈려…"사유 안 된다" vs "상황 따라 정당화될 수도"...]]></content:encoded>
             <enclosure url="https://img0.yna.co.kr/photo/yna/YH/2021/11/02/PYH2021110214570005100_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우리 정부의 2030년 온실가스 감축 목표는 과도하다?]]></title>
-            <link>https://www.yna.co.kr/view/AKR20211102160800502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20211102160800502?section=theme-list/factcheck</guid>
-            <pubDate>Wed, 03 Nov 2021 03:17:32 GMT</pubDate>
-            <content:encoded><![CDATA[2018년 대비 40% 감축 목표…143개국 평균과 비교하면 높아
-G7과 비교하면 오히려 낮거나 비슷해
-(서울=연합뉴스) 박성...]]></content:encoded>
-            <enclosure url="https://img8.yna.co.kr/etc/inner/KR/2021/11/02/AKR20211102160800502_01_i_P2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
