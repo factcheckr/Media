@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Nov 2021 05:13:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Nov 2021 06:16:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -342,6 +342,16 @@
             <enclosure url="https://image.imnews.imbc.com/replay/2021/nwdesk/article/__icsFiles/afieldfile/2021/10/08/desk_20211008_203236_1_22_Large.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[여성 초혼 연령 24.6세…만혼 현실과 동떨어졌다고? (연합뉴스 ─ 팩트체크)]]></title>
+            <link>https://www.yna.co.kr/view/AKR20211130083700502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20211130083700502?section=theme-list/factcheck</guid>
+            <pubDate>Tue, 30 Nov 2021 06:16:37 GMT</pubDate>
+            <content:encoded><![CDATA[통계청 발표에 인터넷 커뮤니티에서 "다들 늦게 결혼하는데…"
+통계 잘못 해석한 결과…수십 년 전 결혼한 사람까지 포함해 평균
+(서울...]]></content:encoded>
+            <enclosure url="https://img7.yna.co.kr/photo/cms/2019/12/13/48/PCM20191213000148990_P2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[PCR 검사 영문확인서 발급 수수료가 20만원? (연합뉴스 ─ 팩트체크)]]></title>
             <link>https://www.yna.co.kr/view/AKR20211129155500502?section=theme-list/factcheck</link>
             <guid>https://www.yna.co.kr/view/AKR20211129155500502?section=theme-list/factcheck</guid>
@@ -572,16 +582,6 @@
 수수료는 건당 2천원…인건비 등 고려하면 "최소한의 실비"
 (서울=연합뉴스) 이웅...]]></content:encoded>
             <enclosure url="https://img4.yna.co.kr/photo/yna/YH/2021/11/03/PYH2021110305060001300_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['무궁화꽃이 피었습니다' 놀이 원조가 일본이라고? (연합뉴스 ─ 팩트체크)]]></title>
-            <link>https://www.yna.co.kr/view/AKR20211108071400502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20211108071400502?section=theme-list/factcheck</guid>
-            <pubDate>Mon, 08 Nov 2021 06:20:21 GMT</pubDate>
-            <content:encoded><![CDATA[日 언론인 "일본 놀이 '다루마상가코론다'와 규칙·선율 같아" 주장
-명확한 유래는 없어…"서양에도 비슷한 놀이 있어 보편적 놀이로 봐야"
-"...]]></content:encoded>
-            <enclosure url="https://img2.yna.co.kr/photo/yna/YH/2021/10/26/PYH2021102616240001300_P2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["소아청소년 백신 접종 이상반응 성인과 비슷한 정도" 전문가 일문일답 (동아사이언스 ─ 팩트체크)]]></title>
