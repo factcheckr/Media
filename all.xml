@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Dec 2021 00:53:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Dec 2021 02:00:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -342,6 +342,16 @@
             <enclosure url="https://image.imnews.imbc.com/replay/2021/nwdesk/article/__icsFiles/afieldfile/2021/10/11/desk_20211011_202057_1_16_Large.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[반려동물 치료받다 죽어도 진료기록 안 보여주는 이유는? (연합뉴스 ─ 팩트체크)]]></title>
+            <link>https://www.yna.co.kr/view/AKR20211202049200502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20211202049200502?section=theme-list/factcheck</guid>
+            <pubDate>Thu, 02 Dec 2021 02:00:30 GMT</pubDate>
+            <content:encoded><![CDATA[진료기록부 발급 놓고 보호자-수의사 분쟁 잦아
+수의사회 "진료부 발급시 자가 진료로 인한 약물 오남용·사회 혼란 우려"
+동물 보호자들 "알권...]]></content:encoded>
+            <enclosure url="https://img7.yna.co.kr/photo/cms/2019/08/10/61/PCM20190810000061063_P2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[여성 초혼 연령 24.6세…만혼 현실과 동떨어졌다고? (연합뉴스 ─ 팩트체크)]]></title>
             <link>https://www.yna.co.kr/view/AKR20211130083700502?section=theme-list/factcheck</link>
             <guid>https://www.yna.co.kr/view/AKR20211130083700502?section=theme-list/factcheck</guid>
@@ -572,16 +582,6 @@
 암모니아를 사용하려면 안전성 검증·법률 개정 등 이뤄져야
 요소비료·소변으로 만든 요소수 사용...]]></content:encoded>
             <enclosure url="https://img4.yna.co.kr/photo/yna/YH/2021/11/09/PYH2021110911450001300_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[공모주 균등배정제도가 증권사 배만 불린다? (연합뉴스 ─ 팩트체크)]]></title>
-            <link>https://www.yna.co.kr/view/AKR20211109137700502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20211109137700502?section=theme-list/factcheck</guid>
-            <pubDate>Tue, 09 Nov 2021 08:19:46 GMT</pubDate>
-            <content:encoded><![CDATA[일각에서 '청약자 늘어 증권사 수수료 대박' 지적
-수수료는 건당 2천원…인건비 등 고려하면 "최소한의 실비"
-(서울=연합뉴스) 이웅...]]></content:encoded>
-            <enclosure url="https://img4.yna.co.kr/photo/yna/YH/2021/11/03/PYH2021110305060001300_P2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["소아청소년 백신 접종 이상반응 성인과 비슷한 정도" 전문가 일문일답 (동아사이언스 ─ 팩트체크)]]></title>
