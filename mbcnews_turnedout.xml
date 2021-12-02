@@ -4,9 +4,17 @@
         <title>MBC뉴스 ─ 알고보니</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Dec 2021 11:14:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Dec 2021 12:25:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[양성평등 미디어상 수상]]></title>
+            <link>https://imnews.imbc.com/replay/2021/nwdesk/article/6320427_34936.html</link>
+            <guid>https://imnews.imbc.com/replay/2021/nwdesk/article/6320427_34936.html</guid>
+            <pubDate>Thu, 02 Dec 2021 12:25:29 GMT</pubDate>
+            <content:encoded><![CDATA[<span>2021-12-02</span>]]></content:encoded>
+            <enclosure url="https://image.imnews.imbc.com/replay/2021/nwdesk/article/__icsFiles/afieldfile/2021/12/02/desk_20211202_204539_1_26_Large.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["위헌" 윤창호법‥상습음주운전 처벌 약해지나]]></title>
             <link>https://imnews.imbc.com/replay/2021/nwdesk/article/6320004_34936.html</link>
@@ -114,14 +122,6 @@
             <pubDate>Fri, 22 Oct 2021 12:24:56 GMT</pubDate>
             <content:encoded><![CDATA[<span>2021-10-22</span>]]></content:encoded>
             <enclosure url="https://image.imnews.imbc.com/replay/2021/nwdesk/article/__icsFiles/afieldfile/2021/10/22/desk_20211022_202903_1_19_Large.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["좋아하는 형님들"‥김만배 어떤 기사 썼길래]]></title>
-            <link>https://imnews.imbc.com/replay/2021/nwdesk/article/6306466_34936.html</link>
-            <guid>https://imnews.imbc.com/replay/2021/nwdesk/article/6306466_34936.html</guid>
-            <pubDate>Mon, 11 Oct 2021 12:24:28 GMT</pubDate>
-            <content:encoded><![CDATA[<span>2021-10-11</span>]]></content:encoded>
-            <enclosure url="https://image.imnews.imbc.com/replay/2021/nwdesk/article/__icsFiles/afieldfile/2021/10/11/desk_20211011_202057_1_16_Large.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
