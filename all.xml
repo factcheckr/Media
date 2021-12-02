@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Dec 2021 05:15:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Dec 2021 06:20:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -342,6 +342,16 @@
             <enclosure url="https://image.imnews.imbc.com/replay/2021/nwdesk/article/__icsFiles/afieldfile/2021/10/11/desk_20211011_202057_1_16_Large.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[오미크론 확산세…바이러스 전파력 높으면 치명률 낮다? (연합뉴스 ─ 팩트체크)]]></title>
+            <link>https://www.yna.co.kr/view/AKR20211202095200502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20211202095200502?section=theme-list/factcheck</guid>
+            <pubDate>Thu, 02 Dec 2021 06:20:02 GMT</pubDate>
+            <content:encoded><![CDATA[개연성 높지만 예외도 있어…스페인 독감이 대표적
+코로나19 델타 변이도 전파력·치명률 모두 높아
+(서울=연합뉴스) 장하나 기자 = ...]]></content:encoded>
+            <enclosure url="https://img3.yna.co.kr/photo/cms/2021/12/02/01/PCM20211202000101990_P2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[반려동물 치료받다 죽어도 진료기록 안 보여주는 이유는? (연합뉴스 ─ 팩트체크)]]></title>
             <link>https://www.yna.co.kr/view/AKR20211202049200502?section=theme-list/factcheck</link>
             <guid>https://www.yna.co.kr/view/AKR20211202049200502?section=theme-list/factcheck</guid>
@@ -572,16 +582,6 @@
 법조계 "주거침입죄 성립하려면 평온 해치려는 고의성 있어야"
 (서울=연합뉴스) ...]]></content:encoded>
             <enclosure url="https://img8.yna.co.kr/photo/cms/2018/11/27/97/PCM20181127000297990_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[암모니아가 차량용 요소수 대체할 수 있다? (연합뉴스 ─ 팩트체크)]]></title>
-            <link>https://www.yna.co.kr/view/AKR20211109130500502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20211109130500502?section=theme-list/factcheck</guid>
-            <pubDate>Wed, 10 Nov 2021 02:34:20 GMT</pubDate>
-            <content:encoded><![CDATA[요소수 대란에 아이디어 난무…대부분 현실성 부족
-암모니아를 사용하려면 안전성 검증·법률 개정 등 이뤄져야
-요소비료·소변으로 만든 요소수 사용...]]></content:encoded>
-            <enclosure url="https://img4.yna.co.kr/photo/yna/YH/2021/11/09/PYH2021110911450001300_P2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["소아청소년 백신 접종 이상반응 성인과 비슷한 정도" 전문가 일문일답 (동아사이언스 ─ 팩트체크)]]></title>
