@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.dongascience.com/special.php?category=001_148</id>
     <title>동아사이언스 ─ 팩트체크</title>
-    <updated>2021-12-02T15:16:05.253Z</updated>
+    <updated>2021-12-31T17:38:49.283Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.dongascience.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크]"코로나 백신은 예방 효과 불가능, 백신 안에 미생물 살아"....전문가들 "엉터리 주장"]]></title>
+        <id>https://www.dongascience.com/news.php?idx=51290</id>
+        <link href="https://www.dongascience.com/news.php?idx=51290"/>
+        <updated>2021-12-31T17:38:48.608Z</updated>
+        <content type="html"><![CDATA[<span class="ellip">최근 일각에서 신종 코로나바이러스 감염증(COVID-19·코로나19)은 호흡기 바이러스이기 <span class="ellip-line">때문에 백신을 맞아 혈중 항체가 생기더라도 감염 자체를 막을 수 없다거나, 코로나19 백신 안에 미생물이 들어 있다는 주장이 나와 논란이 됐다. 유명 학교 명예교수나 전문의가 이같은 주장을 한 탓에 사실로 받아들여지기도 했다. 하지만 국내 전문가들에게 확인한 결과 주장을 내놓은 이들은 '감염병 전문가'가 아닌 데다, 주장에 대한 근거도 과학적이지 않은 것... </span></span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크]오미크론 변이는 감기 바이러스의 혼종?]]></title>
+        <id>https://www.dongascience.com/news.php?idx=50982</id>
+        <link href="https://www.dongascience.com/news.php?idx=50982"/>
+        <updated>2021-12-31T17:38:48.611Z</updated>
+        <content type="html"><![CDATA[<span class="ellip">최근 전세계적으로 확산하고 있는 신종 코로나바이러스 감염증(COVID-19·코로나19) 오미크론 <span class="ellip-line">변이의 유전정보를 분석한 결과 감기 바이러스와 공통적인 부분이 있다며 코로나19가 계절 감기처럼 토착화하고 있다는 연구 결과가 나왔다. 국내외에서 이와 관련한 기사가 여럿 나왔는데 전문가들에게 확인한 결과, 전혀 과학적인 분석 결과가 아니며 오히려 논리적으로 비약한 엉터리라는 지적이 나왔다. 미국 생체정보분석업체인 엔퍼런스 연구팀은 오미크론 변이... </span></span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["소아청소년 백신 접종 이상반응 성인과 비슷한 정도" 전문가 일문일답]]></title>
         <id>https://www.dongascience.com/news.php?idx=49497</id>
@@ -60,19 +74,5 @@
         <link href="https://www.dongascience.com/news.php?idx=45382"/>
         <updated>2021-10-03T14:23:10.172Z</updated>
         <content type="html"><![CDATA[<span class="ellip">"알레르기가 있는 사람은 백신을 접종하기 전 알레르기 약을 먼저 복용한 후 주사를 맞으면 덜 <span class="ellip-line">아프고 부작용도 없다." 신종 코로나바이러스 감염증(COVID-19·코로나19) 백신 접종과 관련해 최근 인터넷에 번지고 있는 내용의 일부다. 백신을 맞고 발열, 두통 등 각종 이상반응이 나타난다고 신고한 사람들이 늘고 있는 가운데 백신 접종을 앞둔 이들 사이에 확산하고 있다. 백신 접종 대상이 병원 종사자나 요양병원 입소자 외에도 일반 국민으로 확대... </span></span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크]백신 맞으면 유전자가 바뀐다?]]></title>
-        <id>https://www.dongascience.com/news.php?idx=44366</id>
-        <link href="https://www.dongascience.com/news.php?idx=44366"/>
-        <updated>2021-10-03T14:23:10.173Z</updated>
-        <content type="html"><![CDATA[<span class="ellip">1일 0시 기준 국내 신종 코로나바이러스 감염증(COVID-19·코로나19) 백신 접종자가 <span class="ellip-line">2만1177명을 기록한 가운데 백신을 두고 각종 괴담이 온·오프라인에서 번지고 있다. 가장 대표적 괴담이 ‘미국 제약사 화이자와 모더나의 백신을 맞으면 유전자가 변한다’는 내용이다. 화이자와 모더나 백신이 실제 시판된 적이 없는 메신저RNA(mRNA)라는 종류의 백신이라는 사실이 알려지며 괴담이 더욱 증폭되고 있다. mRNA 백신은 스파이크단백질 만... </span></span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크]코백스 백신에 중국산 포함되나]]></title>
-        <id>https://www.dongascience.com/news.php?idx=43467</id>
-        <link href="https://www.dongascience.com/news.php?idx=43467"/>
-        <updated>2021-10-03T14:23:10.174Z</updated>
-        <content type="html"><![CDATA[<span class="ellip">‘코백스 퍼실리티에는 중국산 백신이 포함돼 있다.’ 최근 소셜미디어와 인터넷 게시판에 떠도는 <span class="ellip-line">글이다. 백신 공동구매 및 배분을 위한 국제 프로젝트인 ‘코백스 퍼실리티’를 통해 공급되는 백신에 중국이 개발한 백신 제품이 포함돼 있다는 주장이다. 그러면서 중국산 백신은 신뢰도가 떨어져 코백스 백신을 맞아서는 안된다고 주장한다. 일부 글들은 여기서 더 나아가 곧 국내에서 백신 접종이 시작되면 백신 종류에 대한 선택권이 없기 때문에... </span></span>]]></content>
     </entry>
 </feed>

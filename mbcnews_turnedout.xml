@@ -4,9 +4,41 @@
         <title>MBC뉴스 ─ 알고보니</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Dec 2021 15:16:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Dec 2021 17:38:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[백신에 미생물이?‥가짜뉴스 다시 기승]]></title>
+            <link>https://imnews.imbc.com/replay/2021/nwdesk/article/6325620_34936.html</link>
+            <guid>https://imnews.imbc.com/replay/2021/nwdesk/article/6325620_34936.html</guid>
+            <pubDate>Fri, 31 Dec 2021 17:38:29 GMT</pubDate>
+            <content:encoded><![CDATA[<span>2021-12-20</span>]]></content:encoded>
+            <enclosure url="https://image.imnews.imbc.com/replay/2021/nwdesk/article/__icsFiles/afieldfile/2021/12/20/desk_20211220_203015_1_20_Large.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[대선주자 토론 역대 최저? 과거엔 어땠나]]></title>
+            <link>https://imnews.imbc.com/replay/2021/nwdesk/article/6323591_34936.html</link>
+            <guid>https://imnews.imbc.com/replay/2021/nwdesk/article/6323591_34936.html</guid>
+            <pubDate>Fri, 31 Dec 2021 17:38:29 GMT</pubDate>
+            <content:encoded><![CDATA[<span>2021-12-13</span>]]></content:encoded>
+            <enclosure url="https://image.imnews.imbc.com/replay/2021/nwdesk/article/__icsFiles/afieldfile/2021/12/13/desk_20211213_203852_1_23_Large.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[중대재해법 때문에 몸 아프면 안 뽑는다?]]></title>
+            <link>https://imnews.imbc.com/replay/2021/nwdesk/article/6322200_34936.html</link>
+            <guid>https://imnews.imbc.com/replay/2021/nwdesk/article/6322200_34936.html</guid>
+            <pubDate>Fri, 31 Dec 2021 17:38:29 GMT</pubDate>
+            <content:encoded><![CDATA[<span>2021-12-08</span>]]></content:encoded>
+            <enclosure url="https://image.imnews.imbc.com/replay/2021/nwdesk/article/__icsFiles/afieldfile/2021/12/08/desk_20211208_201249_1_13_Large_u.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[술김에 전동킥보드 탔다가‥차 면허도 취소?]]></title>
+            <link>https://imnews.imbc.com/replay/2021/nwdesk/article/6321541_34936.html</link>
+            <guid>https://imnews.imbc.com/replay/2021/nwdesk/article/6321541_34936.html</guid>
+            <pubDate>Fri, 31 Dec 2021 17:38:29 GMT</pubDate>
+            <content:encoded><![CDATA[<span>2021-12-06</span>]]></content:encoded>
+            <enclosure url="https://image.imnews.imbc.com/replay/2021/nwdesk/article/__icsFiles/afieldfile/2021/12/06/desk_20211206_200934_1_11_Large.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[양성평등 미디어상 수상]]></title>
             <link>https://imnews.imbc.com/replay/2021/nwdesk/article/6320427_34936.html</link>
@@ -91,37 +123,6 @@
             <guid>https://imnews.imbc.com/newszoomin/newsinsight/6311393_29123.html</guid>
             <pubDate>Mon, 01 Nov 2021 02:01:49 GMT</pubDate>
             <content:encoded><![CDATA[<span>2021-11-01</span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[전두환 국립묘지 논란, 이제 잦아들까]]></title>
-            <link>https://imnews.imbc.com/newszoomin/newsinsight/6311088_29123.html</link>
-            <guid>https://imnews.imbc.com/newszoomin/newsinsight/6311088_29123.html</guid>
-            <pubDate>Sat, 30 Oct 2021 01:56:57 GMT</pubDate>
-            <content:encoded><![CDATA[<span>2021-10-30</span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[전국 최고 출산율 세종시‥'육아휴직 3년'이 비결?]]></title>
-            <link>https://imnews.imbc.com/replay/2021/nwdesk/article/6310713_34936.html</link>
-            <guid>https://imnews.imbc.com/replay/2021/nwdesk/article/6310713_34936.html</guid>
-            <pubDate>Thu, 28 Oct 2021 12:24:55 GMT</pubDate>
-            <content:encoded><![CDATA[<span>2021-10-28</span>]]></content:encoded>
-            <enclosure url="https://image.imnews.imbc.com/replay/2021/nwdesk/article/__icsFiles/afieldfile/2021/10/28/desk_20211028_202203_1_15_Large.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[국립묘지 안장 안 된다는데…왜 논란되나]]></title>
-            <link>https://imnews.imbc.com/replay/2021/nwdesk/article/6310092_34936.html</link>
-            <guid>https://imnews.imbc.com/replay/2021/nwdesk/article/6310092_34936.html</guid>
-            <pubDate>Tue, 26 Oct 2021 12:25:21 GMT</pubDate>
-            <content:encoded><![CDATA[<span>2021-10-26</span>]]></content:encoded>
-            <enclosure url="https://image.imnews.imbc.com/replay/2021/nwdesk/article/__icsFiles/afieldfile/2021/10/26/desk_20211026_200457_1_10_Large.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이런 곳까지 몰래카메라가?‥왜 제한 못하나]]></title>
-            <link>https://imnews.imbc.com/replay/2021/nwdesk/article/6309325_34936.html</link>
-            <guid>https://imnews.imbc.com/replay/2021/nwdesk/article/6309325_34936.html</guid>
-            <pubDate>Fri, 22 Oct 2021 12:24:56 GMT</pubDate>
-            <content:encoded><![CDATA[<span>2021-10-22</span>]]></content:encoded>
-            <enclosure url="https://image.imnews.imbc.com/replay/2021/nwdesk/article/__icsFiles/afieldfile/2021/10/22/desk_20211022_202903_1_19_Large.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
