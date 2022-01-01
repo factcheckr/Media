@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 01 Jan 2022 00:25:11 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Jan 2022 01:59:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -343,6 +343,16 @@
             <content:encoded><![CDATA[<span>2021-11-01</span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA['임인년' 새해가 밝았다고요?…아직 '신축년'입니다 (연합뉴스 ─ 팩트체크)]]></title>
+            <link>https://www.yna.co.kr/view/AKR20211230127400502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20211230127400502?section=theme-list/factcheck</guid>
+            <pubDate>Sat, 01 Jan 2022 01:59:02 GMT</pubDate>
+            <content:encoded><![CDATA[60갑자 연도 표기는 음력이 기준…음력 설부터 임인년
+사주명리학에서는 입춘부터 새해로…"2월4일 오전 5시51분 이후 태어나야 호랑이띠"
+...]]></content:encoded>
+            <enclosure url="https://img9.yna.co.kr/photo/yna/YH/2021/12/28/PYH2021122818860005400_P2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[국회의원 출마 연령 만 18세로 내린다는데…다른 나라는? (연합뉴스 ─ 팩트체크)]]></title>
             <link>https://www.yna.co.kr/view/AKR20211229120800502?section=theme-list/factcheck</link>
             <guid>https://www.yna.co.kr/view/AKR20211229120800502?section=theme-list/factcheck</guid>
@@ -576,16 +586,6 @@
 대규모 업체는 이미지 추락 등 우려해 위로금 주기도
 위로금 갈등 때는 PL...]]></content:encoded>
             <enclosure url="https://img0.yna.co.kr/photo/cms/2021/05/17/32/PCM20210517000032990_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[전두환 33년전 백담사 갈 때 5·18 사과했다? (연합뉴스 ─ 팩트체크)]]></title>
-            <link>https://www.yna.co.kr/view/AKR20211123145300502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20211123145300502?section=theme-list/factcheck</guid>
-            <pubDate>Tue, 23 Nov 2021 09:17:34 GMT</pubDate>
-            <content:encoded><![CDATA[전두환 측 "백담사 가기 전 성명서에서 미안하다는 뜻 밝혔다" 주장
-성명서에서 삼청교육대·인권침해 등에 대해 "사과드린다"
-5·18 언급하면...]]></content:encoded>
-            <enclosure url="https://img0.yna.co.kr/photo/yna/YH/2021/11/23/PYH2021112313870001300_P2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[팩트체크]"코로나 백신은 예방 효과 불가능, 백신 안에 미생물 살아"....전문가들 "엉터리 주장" (동아사이언스 ─ 팩트체크)]]></title>
