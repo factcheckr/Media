@@ -4,9 +4,19 @@
         <title>연합뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 02 Jan 2022 00:25:38 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 Jan 2022 02:01:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[임인년 새해의 상징 '검은 호랑이'는 상상 속 동물?]]></title>
+            <link>https://www.yna.co.kr/view/AKR20211231125200502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20211231125200502?section=theme-list/factcheck</guid>
+            <pubDate>Sun, 02 Jan 2022 02:01:09 GMT</pubDate>
+            <content:encoded><![CDATA[전신이 검은색인 호랑이는 발견된 사례 없어
+검은 줄무늬가 넓은 벵갈호랑이를 흑호로 부르기도
+(서울=연합뉴스) 이웅 기자 = 2022...]]></content:encoded>
+            <enclosure url="https://img5.yna.co.kr/etc/inner/KR/2021/12/31/AKR20211231125200502_01_i_P2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['임인년' 새해가 밝았다고요?…아직 '신축년'입니다]]></title>
             <link>https://www.yna.co.kr/view/AKR20211230127400502?section=theme-list/factcheck</link>
@@ -241,16 +251,6 @@
 "업계 평균으론 볼 수 없어"…보험료·유지비 등도 라이더가 부담
 코로나 확산과 ...]]></content:encoded>
             <enclosure url="https://img5.yna.co.kr/photo/yna/YH/2021/03/02/PYH2021030217200001300_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[배달 음식에서 이물질 나왔을 때 보상금은 얼마?]]></title>
-            <link>https://www.yna.co.kr/view/AKR20211124055000502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20211124055000502?section=theme-list/factcheck</guid>
-            <pubDate>Wed, 24 Nov 2021 01:59:24 GMT</pubDate>
-            <content:encoded><![CDATA[공정위 고시는 '제품교환 또는 환불' 원칙…위자료 지급 근거 없어
-대규모 업체는 이미지 추락 등 우려해 위로금 주기도
-위로금 갈등 때는 PL...]]></content:encoded>
-            <enclosure url="https://img0.yna.co.kr/photo/cms/2021/05/17/32/PCM20210517000032990_P2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
