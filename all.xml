@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Jan 2022 04:09:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Jan 2022 05:09:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -343,7 +343,7 @@
             <content:encoded><![CDATA[<span>2021-11-01</span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[백신 접종률 90% 넘은 상황에서 방역패스 실효성 없다? (연합뉴스 ─ 팩트체크)]]></title>
+            <title><![CDATA[백신 접종률 90% 넘은 상황에선 방역패스 실효성 없다? (연합뉴스 ─ 팩트체크)]]></title>
             <link>https://www.yna.co.kr/view/AKR20220104079900502?section=theme-list/factcheck</link>
             <guid>https://www.yna.co.kr/view/AKR20220104079900502?section=theme-list/factcheck</guid>
             <pubDate>Tue, 04 Jan 2022 04:09:22 GMT</pubDate>
