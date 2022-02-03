@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Feb 2022 21:05:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Feb 2022 22:06:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,6 +13,7 @@
             <guid>https://news.kbs.co.kr/news/view.do?ncd=5387069</guid>
             <pubDate>Thu, 03 Feb 2022 21:04:31 GMT</pubDate>
             <content:encoded><![CDATA[■ 발언 : "개발이익 70% 환수, 추가로 1,100억 원 더 환수"      "(대장동...]]></content:encoded>
+            <enclosure url="https://news.kbs.co.kr/data/news/2022/02/04/20220204_5mxTrW.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[팩트체크K] 윤석열 “주 52시간제 폐지 얘기한 적도 없다” (KBS뉴스 ─ 팩트체크K)]]></title>
@@ -20,6 +21,7 @@
             <guid>https://news.kbs.co.kr/news/view.do?ncd=5387070</guid>
             <pubDate>Thu, 03 Feb 2022 21:04:31 GMT</pubDate>
             <content:encoded><![CDATA[■ 발언 : "최저임금제·주 52시간제 폐지 이야기한 적 없다"      "최저임금제 폐지...]]></content:encoded>
+            <enclosure url="https://news.kbs.co.kr/data/news/2022/02/04/20220204_XIY9yJ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[팩트체크K] 자가진단키트 음성확인서도 방역패스로 쓸 수 있다? (KBS뉴스 ─ 팩트체크K)]]></title>
