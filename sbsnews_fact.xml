@@ -4,7 +4,7 @@
         <title>SBS뉴스 ─ 사실은</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 20 Mar 2022 00:31:51 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Mar 2022 02:07:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -17,7 +17,7 @@
             <enclosure url="https://img.sbs.co.kr/newimg/news/20220318/201647892_300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[나치가 우크라이나를 점령했다는 푸틴, 사실은?]]></title>
+            <title><![CDATA[[사실은] 나치가 우크라이나를 점령했다는 푸틴, 사실은?]]></title>
             <link>https://news.sbs.co.kr/news/endPage.do?news_id=N1006680380&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</link>
             <guid>https://news.sbs.co.kr/news/endPage.do?news_id=N1006680380&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</guid>
             <pubDate>Fri, 18 Mar 2022 09:08:28 GMT</pubDate>
