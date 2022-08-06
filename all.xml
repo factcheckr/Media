@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 06 Aug 2022 02:51:54 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Aug 2022 03:40:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -226,7 +226,7 @@
             <enclosure url="https://static.sbsdlab.co.kr/image/thumb_default.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[대통령실 직원 명단, 우리만 유독 비공개? (MBC뉴스 ─ 알고보니)]]></title>
+            <title><![CDATA['깜깜이' 대통령실 직원 명단, 우리만 비공개 왜? (MBC뉴스 ─ 알고보니)]]></title>
             <link>https://imnews.imbc.com/newszoomin/newsinsight/6395659_29123.html</link>
             <guid>https://imnews.imbc.com/newszoomin/newsinsight/6395659_29123.html</guid>
             <pubDate>Sat, 06 Aug 2022 02:51:22 GMT</pubDate>
