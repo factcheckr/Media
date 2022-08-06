@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 06 Aug 2022 00:40:22 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Aug 2022 02:51:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[이슈체크K] ‘○○○ 열애’…유명인 사생활 보도, 어디까지 허용? (KBS뉴스 ─ 팩트체크K)]]></title>
+            <link>https://news.kbs.co.kr/news/view.do?ncd=5526932</link>
+            <guid>https://news.kbs.co.kr/news/view.do?ncd=5526932</guid>
+            <pubDate>Sat, 06 Aug 2022 02:50:52 GMT</pubDate>
+            <content:encoded><![CDATA[지난달 25일, '피겨여왕' 김연아의 열애 소식이 언론을 통해 알려지면서 큰 화제가 됐습니...]]></content:encoded>
+            <enclosure url="https://news.kbs.co.kr/data/fckeditor/new/image/2022/08/05/kn104151659674852049.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[팩트체크K] ‘고학력·고소득’ 민주, ‘저학력·저소득’ 국힘 지지? (KBS뉴스 ─ 팩트체크K)]]></title>
             <link>https://news.kbs.co.kr/news/view.do?ncd=5524453</link>
@@ -128,14 +136,6 @@
             <enclosure url="https://news.kbs.co.kr/data/fckeditor/new/image/2022/05/12/310691652257962723.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[[팩트체크K] 3차 접종하고 확진된 사람도 ‘4차 접종’ 해야 한다? (KBS뉴스 ─ 팩트체크K)]]></title>
-            <link>https://news.kbs.co.kr/news/view.do?ncd=5456164</link>
-            <guid>https://news.kbs.co.kr/news/view.do?ncd=5456164</guid>
-            <pubDate>Wed, 04 May 2022 22:07:42 GMT</pubDate>
-            <content:encoded><![CDATA[코로나19 백신 4차 접종자가 240만 명을 넘었습니다(2022.05.04. 0시 기준 ...]]></content:encoded>
-            <enclosure url="https://news.kbs.co.kr/data/fckeditor/new/image/2022/05/04/173501651635458423.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
             <title><![CDATA[[사실은] 물가 상승률이 32.5%? 천정부지 치솟던 그 시절 (SBS뉴스 ─ 사실은)]]></title>
             <link>https://news.sbs.co.kr/news/endPage.do?news_id=N1006850089&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</link>
             <guid>https://news.sbs.co.kr/news/endPage.do?news_id=N1006850089&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</guid>
@@ -224,6 +224,13 @@
             <content:encoded><![CDATA[<img alt="이경원 기자 기자 사진" src="//img.sbs.co.kr/newimg/news/reporter_thum.jpg" data-src="//img.sbs.co.kr/newimg/news/2011-08-05_133817.png" class="lazy">
 									이경원 기자]]></content:encoded>
             <enclosure url="https://static.sbsdlab.co.kr/image/thumb_default.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[대통령실 직원 명단, 우리만 유독 비공개? (MBC뉴스 ─ 알고보니)]]></title>
+            <link>https://imnews.imbc.com/newszoomin/newsinsight/6395659_29123.html</link>
+            <guid>https://imnews.imbc.com/newszoomin/newsinsight/6395659_29123.html</guid>
+            <pubDate>Sat, 06 Aug 2022 02:51:22 GMT</pubDate>
+            <content:encoded><![CDATA[<span>2022-08-06</span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[대통령실 직원 깜깜이, 유독 우리나라만? (MBC뉴스 ─ 알고보니)]]></title>
@@ -334,13 +341,6 @@
             <pubDate>Tue, 24 May 2022 02:03:49 GMT</pubDate>
             <content:encoded><![CDATA[<span>2022-05-13</span>]]></content:encoded>
             <enclosure url="https://image.imnews.imbc.com/replay/2022/nwdesk/article/__icsFiles/afieldfile/2022/05/13/desk_20220513_200531_1_11_Large.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여가부 폐지 압도적? 여론조사 따져보니‥ (MBC뉴스 ─ 알고보니)]]></title>
-            <link>https://imnews.imbc.com/newszoomin/newsinsight/6365850_29123.html</link>
-            <guid>https://imnews.imbc.com/newszoomin/newsinsight/6365850_29123.html</guid>
-            <pubDate>Thu, 05 May 2022 02:49:54 GMT</pubDate>
-            <content:encoded><![CDATA[<span>2022-05-05</span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[대통령이 휴가 중에 방한한 인사를 만나는 것은 적절치 않다? (연합뉴스 ─ 팩트체크)]]></title>
