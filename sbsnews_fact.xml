@@ -1,20 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>SBS뉴스 ─ 사실은</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Wed, 19 Oct 2022 14:29:31 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[0]]></title>
-            <link>https://news.sbs.co.kr/news/endPage.do?news_id=N1006938706&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</link>
-            <guid>https://news.sbs.co.kr/news/endPage.do?news_id=N1006938706&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</guid>
-            <pubDate>Wed, 19 Oct 2022 14:28:59 GMT</pubDate>
-            <content:encoded><![CDATA[<img alt="이경원 기자 기자 사진" src="//img.sbs.co.kr/newimg/news/reporter_thum.jpg" data-src="//img.sbs.co.kr/newimg/news/2011-08-05_133817.png" class="lazy">
-									이경원 기자]]></content:encoded>
-            <enclosure url="https://static.sbsdlab.co.kr/image/thumb_default.png" length="0" type="image/png"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://news.sbs.co.kr/news/fact.do</id>
+    <title>SBS뉴스 ─ 사실은</title>
+    <updated>2022-10-19T15:15:04.857Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://news.sbs.co.kr/news/favicon.ico</icon>
+</feed>
