@@ -4,9 +4,18 @@
         <title>연합뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Nov 2022 23:08:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Nov 2022 00:41:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[문재인 前대통령이 풍산개 키우는 데 지금도 법적 문제 없다?]]></title>
+            <link>https://www.yna.co.kr/view/AKR20221116128600502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20221116128600502?section=theme-list/factcheck</guid>
+            <pubDate>Thu, 17 Nov 2022 00:41:02 GMT</pubDate>
+            <content:encoded><![CDATA[국민의힘 양금희 대변인 "현재도 풍산개 기르는 데 어떤 법적 문제도 없어"
+현행 관련법 시행령 동·식물 선물 규정은 대통령기록관의 '외부위탁...]]></content:encoded>
+            <enclosure url="https://img6.yna.co.kr/photo/yna/YH/2022/11/10/PYH2022111014310005300_P2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[대통령실 용산 이전 비용은 517억원? 1조806억원?]]></title>
             <link>https://www.yna.co.kr/view/AKR20221114038200502?section=theme-list/factcheck</link>
@@ -230,15 +239,6 @@
 대통령 혈액·공식일정·동선 등 '2급 비밀'…비공개 일정은 '1급'
 대통령경호처 "...]]></content:encoded>
             <enclosure url="https://img7.yna.co.kr/etc/inner/KR/2022/09/22/AKR20220922135700502_01_i_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[유엔 연설서 '북한' 언급 안한 건 윤석열 대통령이 처음?]]></title>
-            <link>https://www.yna.co.kr/view/AKR20220921155700502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20220921155700502?section=theme-list/factcheck</guid>
-            <pubDate>Wed, 16 Nov 2022 17:16:07 GMT</pubDate>
-            <content:encoded><![CDATA[정동영 전 장관·김종대 교수 주장…역대 유엔 연설문 보니 노무현 전 대통령도 非언급
-진행중이던 6자회담 고려해 발언 안해…다른 대통령들 연설...]]></content:encoded>
-            <enclosure url="https://img3.yna.co.kr/photo/yna/YH/2022/09/21/PYH2022092103270001300_P2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
