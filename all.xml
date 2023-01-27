@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 Jan 2023 00:39:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Jan 2023 02:14:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -342,6 +342,15 @@
             <enclosure url="https://image.imnews.imbc.com/replay/2022/nwdesk/article/__icsFiles/afieldfile/2022/09/01/desk_20220901_201312_1_12_Large.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[경찰이 '성남FC 후원금 의혹' 불송치한 것은 무혐의 처분이다?(종합) (연합뉴스 ─ 팩트체크)]]></title>
+            <link>https://www.yna.co.kr/view/AKR20230125124051502?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20230125124051502?section=theme-list/factcheck</guid>
+            <pubDate>Fri, 27 Jan 2023 02:14:18 GMT</pubDate>
+            <content:encoded><![CDATA[이재명 대표 "무혐의 처분된 사건"…한동훈 장관은 "한번도 무혐의 처분된 적 없어"
+경찰 불송치 권한, 검·경 수사권 조정의 산물…'1차적 ...]]></content:encoded>
+            <enclosure url="https://img6.yna.co.kr/photo/yna/YH/2023/01/10/PYH2023011008960001300_P2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[경찰이 '성남FC 후원금 의혹' 불송치한 것은 무혐의 처분이다? (연합뉴스 ─ 팩트체크)]]></title>
             <link>https://www.yna.co.kr/view/AKR20230125124000502?section=theme-list/factcheck</link>
             <guid>https://www.yna.co.kr/view/AKR20230125124000502?section=theme-list/factcheck</guid>
@@ -562,15 +571,6 @@
             <content:encoded><![CDATA[일본-코스타리카전서 안전요원이 욱일기 제지…FIFA, '욱일기 금지' 공식화한적 없어
 국내 축구계선 "우리가 항의 안했는데도 조치"…'FIF...]]></content:encoded>
             <enclosure url="https://img2.yna.co.kr/photo/yna/YH/2022/11/27/PYH2022112710930001300_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[화물연대에 업무개시명령은 강제노동 금지한 ILO 협약 위반?(종합) (연합뉴스 ─ 팩트체크)]]></title>
-            <link>https://www.yna.co.kr/view/AKR20221128118051502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20221128118051502?section=theme-list/factcheck</guid>
-            <pubDate>Tue, 29 Nov 2022 06:11:35 GMT</pubDate>
-            <content:encoded><![CDATA[ILO 105호 협약 "파업참가에 대한 제재로서 강제노동 금지"…국내선 비준 안돼
-국내 비준된 29호 협약은 "전쟁이나 화재·홍수·지진 등 ...]]></content:encoded>
-            <enclosure url="https://img5.yna.co.kr/photo/yna/YH/2022/11/25/PYH2022112515840001300_P2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[팩트체크]전세계 확산하는 어린이 급성간염 원인이 코로나19 백신? (동아사이언스 ─ 팩트체크)]]></title>
