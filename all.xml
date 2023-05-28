@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 28 May 2023 03:08:20 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 May 2023 04:11:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -143,7 +143,7 @@
             <content:encoded><![CDATA[<!-- 섬네일 영역 -->
 						<a href="/news/endPage.do?news_id=N1007205514&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT"><!-- 기사 링크-->
 							<span class="thumb">
-									<img src="//img.sbs.co.kr/newimg/news/20190926/201358454_300.jpg" onerror="this.onerror=null;this.src='//img.sbs.co.kr/newimg/news/20190926/201358454.jpg'" alt="섬네일 이미지:[사실은] 후쿠시마 방사능 측정값 사용 설명서" class="mfn_img lazy" style="display: inline;">
+									<img src="https://static.sbsdlab.co.kr/image/thumb_default.png" data-src="//img.sbs.co.kr/newimg/news/20190926/201358454_300.jpg" onerror="this.onerror=null;this.src='//img.sbs.co.kr/newimg/news/20190926/201358454.jpg'" alt="섬네일 이미지:[사실은] 후쿠시마 방사능 측정값 사용 설명서" class="mfn_img lazy">
 									
 								
 							</span>
@@ -171,7 +171,7 @@
 							
 														
 						</div>]]></content:encoded>
-            <enclosure url="https://img.sbs.co.kr/newimg/news/20190926/201358454_300.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://static.sbsdlab.co.kr/image/thumb_default.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[사실은] 오염수 보관 'K4 탱크' IAEA 평가는? (SBS뉴스 ─ 사실은)]]></title>
@@ -181,7 +181,7 @@
             <content:encoded><![CDATA[<!-- 섬네일 영역 -->
 						<a href="/news/endPage.do?news_id=N1007202827&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT"><!-- 기사 링크-->
 							<span class="thumb">
-									<img src="//img.sbs.co.kr/newimg/news/20230523/201787514_300.jpg" onerror="this.onerror=null;this.src='//img.sbs.co.kr/newimg/news/20230523/201787514.jpg'" alt="섬네일 이미지:[사실은] 오염수 보관 'K4 탱크' IAEA 평가는?" class="mfn_img lazy" style="display: inline;">
+									<img src="https://static.sbsdlab.co.kr/image/thumb_default.png" data-src="//img.sbs.co.kr/newimg/news/20230523/201787514_300.jpg" onerror="this.onerror=null;this.src='//img.sbs.co.kr/newimg/news/20230523/201787514.jpg'" alt="섬네일 이미지:[사실은] 오염수 보관 'K4 탱크' IAEA 평가는?" class="mfn_img lazy">
 									
 								<em class="ir i_play">동영상 기사</em><!-- 동영상 섬네일 일때 아이콘 추가 -->
 							</span>
@@ -209,7 +209,7 @@
 							
 														
 						</div>]]></content:encoded>
-            <enclosure url="https://img.sbs.co.kr/newimg/news/20230523/201787514_300.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://static.sbsdlab.co.kr/image/thumb_default.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[사실은] 오염수? 처리수? 다른 나라는 어떻게 부를까 (SBS뉴스 ─ 사실은)]]></title>
@@ -219,7 +219,7 @@
             <content:encoded><![CDATA[<!-- 섬네일 영역 -->
 						<a href="/news/endPage.do?news_id=N1007195758&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT"><!-- 기사 링크-->
 							<span class="thumb">
-									<img src="//img.sbs.co.kr/newimg/news/20230512/201783628_300.jpg" onerror="this.onerror=null;this.src='//img.sbs.co.kr/newimg/news/20230512/201783628.jpg'" alt="섬네일 이미지:[사실은] 오염수? 처리수? 다른 나라는 어떻게 부를까" class="mfn_img lazy" style="display: inline;">
+									<img src="https://static.sbsdlab.co.kr/image/thumb_default.png" data-src="//img.sbs.co.kr/newimg/news/20230512/201783628_300.jpg" onerror="this.onerror=null;this.src='//img.sbs.co.kr/newimg/news/20230512/201783628.jpg'" alt="섬네일 이미지:[사실은] 오염수? 처리수? 다른 나라는 어떻게 부를까" class="mfn_img lazy">
 									
 								
 							</span>
@@ -247,7 +247,7 @@
 							
 														
 						</div>]]></content:encoded>
-            <enclosure url="https://img.sbs.co.kr/newimg/news/20230512/201783628_300.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://static.sbsdlab.co.kr/image/thumb_default.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[사실은] "매달 420만 원 받는 유공자?" 5·18 소문의 진실 (SBS뉴스 ─ 사실은)]]></title>
@@ -257,7 +257,7 @@
             <content:encoded><![CDATA[<!-- 섬네일 영역 -->
 						<a href="/news/endPage.do?news_id=N1007195584&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT"><!-- 기사 링크-->
 							<span class="thumb">
-									<img src="//img.sbs.co.kr/newimg/news/20230517/201785201_300.jpg" onerror="this.onerror=null;this.src='//img.sbs.co.kr/newimg/news/20230517/201785201.jpg'" alt="섬네일 이미지:[사실은] &quot;매달 420만 원 받는 유공자?&quot; 5·18 소문의 진실" class="mfn_img lazy" style="display: inline;">
+									<img src="https://static.sbsdlab.co.kr/image/thumb_default.png" data-src="//img.sbs.co.kr/newimg/news/20230517/201785201_300.jpg" onerror="this.onerror=null;this.src='//img.sbs.co.kr/newimg/news/20230517/201785201.jpg'" alt="섬네일 이미지:[사실은] &quot;매달 420만 원 받는 유공자?&quot; 5·18 소문의 진실" class="mfn_img lazy">
 									
 								<em class="ir i_play">동영상 기사</em><!-- 동영상 섬네일 일때 아이콘 추가 -->
 							</span>
@@ -285,7 +285,7 @@
 							
 														
 						</div>]]></content:encoded>
-            <enclosure url="https://img.sbs.co.kr/newimg/news/20230517/201785201_300.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://static.sbsdlab.co.kr/image/thumb_default.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[사실은] "문 정부 때 이미 오염수 처리 장치 검증" 따져보니… (SBS뉴스 ─ 사실은)]]></title>
@@ -295,7 +295,7 @@
             <content:encoded><![CDATA[<!-- 섬네일 영역 -->
 						<a href="/news/endPage.do?news_id=N1007191478&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT"><!-- 기사 링크-->
 							<span class="thumb">
-									<img src="//img.sbs.co.kr/newimg/news/20230511/201782988_300.jpg" onerror="this.onerror=null;this.src='//img.sbs.co.kr/newimg/news/20230511/201782988.jpg'" alt="섬네일 이미지:[사실은] &quot;문 정부 때 이미 오염수 처리 장치 검증&quot; 따져보니…" class="mfn_img lazy" style="display: inline;">
+									<img src="https://static.sbsdlab.co.kr/image/thumb_default.png" data-src="//img.sbs.co.kr/newimg/news/20230511/201782988_300.jpg" onerror="this.onerror=null;this.src='//img.sbs.co.kr/newimg/news/20230511/201782988.jpg'" alt="섬네일 이미지:[사실은] &quot;문 정부 때 이미 오염수 처리 장치 검증&quot; 따져보니…" class="mfn_img lazy">
 									
 								
 							</span>
@@ -323,7 +323,7 @@
 							
 														
 						</div>]]></content:encoded>
-            <enclosure url="https://img.sbs.co.kr/newimg/news/20230511/201782988_300.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://static.sbsdlab.co.kr/image/thumb_default.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[사실은] 많아졌다는 '검사 출신' · '서오남'…지금은 얼마나? (SBS뉴스 ─ 사실은)]]></title>
@@ -333,7 +333,7 @@
             <content:encoded><![CDATA[<!-- 섬네일 영역 -->
 						<a href="/news/endPage.do?news_id=N1007186731&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT"><!-- 기사 링크-->
 							<span class="thumb">
-									<img src="//img.sbs.co.kr/newimg/news/20230510/201782637_300.jpg" onerror="this.onerror=null;this.src='//img.sbs.co.kr/newimg/news/20230510/201782637.jpg'" alt="섬네일 이미지:[사실은] 많아졌다는 '검사 출신' · '서오남'…지금은 얼마나?" class="mfn_img lazy" style="display: inline;">
+									<img src="https://static.sbsdlab.co.kr/image/thumb_default.png" data-src="//img.sbs.co.kr/newimg/news/20230510/201782637_300.jpg" onerror="this.onerror=null;this.src='//img.sbs.co.kr/newimg/news/20230510/201782637.jpg'" alt="섬네일 이미지:[사실은] 많아졌다는 '검사 출신' · '서오남'…지금은 얼마나?" class="mfn_img lazy">
 									
 								<em class="ir i_play">동영상 기사</em><!-- 동영상 섬네일 일때 아이콘 추가 -->
 							</span>
@@ -361,7 +361,7 @@
 							
 														
 						</div>]]></content:encoded>
-            <enclosure url="https://img.sbs.co.kr/newimg/news/20230510/201782637_300.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://static.sbsdlab.co.kr/image/thumb_default.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[사실은] 윤 대통령 지지율 내렸다? 올랐다? 확인해보니… (SBS뉴스 ─ 사실은)]]></title>
