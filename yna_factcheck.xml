@@ -4,9 +4,19 @@
         <title>연합뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 31 May 2023 04:13:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 May 2023 05:09:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[천문학적인 한전 적자는 탈원전 정책 탓이다?]]></title>
+            <link>https://www.yna.co.kr/view/AKR20230531089800518?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20230531089800518?section=theme-list/factcheck</guid>
+            <pubDate>Wed, 31 May 2023 05:09:05 GMT</pubDate>
+            <content:encoded><![CDATA["탈원전 정책으로 원전건설 지연·원전이용률 저하…한전 적자 키워"
+한전 실적은 국제유가에 연동…"원전과 통계학적 상관관계 찾기 어려워"
+안전...]]></content:encoded>
+            <enclosure url="https://img7.yna.co.kr/etc/inner/KR/2023/05/31/AKR20230531089800518_01_i_P2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[업무방해죄로 노조 처벌하는 나라는 한국과 일본뿐이다?]]></title>
             <link>https://www.yna.co.kr/view/AKR20230516028100518?section=theme-list/factcheck</link>
@@ -224,15 +234,6 @@
             <content:encoded><![CDATA[독일, 1889년 세계 첫 연금보험 도입하며 70세를 지급개시 기준으로 삼아
 세계적으로도 65세 이상 노인으로 봐…고령화·수명 연장에 '노인...]]></content:encoded>
             <enclosure url="https://img4.yna.co.kr/photo/cms/2023/02/10/26/PCM20230210000026990_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[탄핵소추하려면 형사상 수사·기소가 먼저 있어야 한다?]]></title>
-            <link>https://www.yna.co.kr/view/AKR20230214031600502?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20230214031600502?section=theme-list/factcheck</guid>
-            <pubDate>Tue, 30 May 2023 08:12:47 GMT</pubDate>
-            <content:encoded><![CDATA[법조계 "탄핵, 권력 가져 일반 사법절차로 책임묻기 힘든 고위공직자 견제장치"
-헌재, 과거 탄핵결정문서 "탄핵 사유, 형소법상 공소사실처럼 ...]]></content:encoded>
-            <enclosure url="https://img2.yna.co.kr/photo/yna/YH/2022/12/22/PYH2022122212220001300_P2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
