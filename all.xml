@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Sep 2023 13:11:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Sep 2023 14:08:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -634,6 +634,13 @@
             <pubDate>Mon, 08 May 2023 12:12:57 GMT</pubDate>
             <content:encoded><![CDATA[<span>2023-05-08</span>]]></content:encoded>
             <enclosure url="https://image.imnews.imbc.com/replay/2023/nwdesk/article/__icsFiles/afieldfile/2023/05/08/desk_20230508_202021_1_15_Large.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[정정 및 반론보도] <지도교수 고발하며 진료기록 제출한 의사들…대법 "무죄"> 관련 (연합뉴스 ─ 팩트체크)]]></title>
+            <link>https://www.yna.co.kr/view/AKR20230927106700004?section=news/all</link>
+            <guid>https://www.yna.co.kr/view/AKR20230927106700004?section=news/all</guid>
+            <pubDate>Wed, 27 Sep 2023 14:08:04 GMT</pubDate>
+            <content:encoded><![CDATA[본 기사는 지난 2023년 7월 21일자 최신기사면에 &amp;lt;지도교수 고발하며 진료기록 제출한 의사들…대법 "무죄"&amp;gt;라는 제목으로 의료법 위반 혐의로 기소된 A씨 등 의사 6명에...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[동물원이 '동물 감옥'인가…학대해도 처벌 규정 없다? (연합뉴스 ─ 팩트체크)]]></title>
