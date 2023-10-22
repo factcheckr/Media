@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 22 Oct 2023 18:09:41 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 Oct 2023 19:10:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -143,7 +143,7 @@
             <content:encoded><![CDATA[<!-- 섬네일 영역 -->
 						<a href="https://news.sbs.co.kr/news/endPage.do?news_id=N1007392094&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT"><!-- 기사 링크-->
 							<span class="thumb">
-									<img src="//img.sbs.co.kr/newimg/news/20231021/201847268_300.jpg" onerror="this.onerror=null;this.src='//img.sbs.co.kr/newimg/news/20231021/201847268.jpg'" alt="섬네일 이미지:[사실은] 한국형 아우토반 논쟁…속도 무제한, 안전할까" class="mfn_img lazy" style="display: inline;">
+									<img src="https://static.sbsdlab.co.kr/image/thumb_default.png" data-src="//img.sbs.co.kr/newimg/news/20231021/201847268_300.jpg" onerror="this.onerror=null;this.src='//img.sbs.co.kr/newimg/news/20231021/201847268.jpg'" alt="섬네일 이미지:[사실은] 한국형 아우토반 논쟁…속도 무제한, 안전할까" class="mfn_img lazy">
 									
 								<em class="ir i_play">동영상 기사</em><!-- 동영상 섬네일 일때 아이콘 추가 -->
 							</span>
@@ -171,7 +171,7 @@
 							
 														
 						</div>]]></content:encoded>
-            <enclosure url="https://img.sbs.co.kr/newimg/news/20231021/201847268_300.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://static.sbsdlab.co.kr/image/thumb_default.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[사실은] '압도적 군사력' 이스라엘…전쟁의 향방은? (SBS뉴스 ─ 사실은)]]></title>
@@ -181,7 +181,7 @@
             <content:encoded><![CDATA[<!-- 섬네일 영역 -->
 						<a href="https://news.sbs.co.kr/news/endPage.do?news_id=N1007380798&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT"><!-- 기사 링크-->
 							<span class="thumb">
-									<img src="//img.sbs.co.kr/newimg/news/20231012/201843660_300.jpg" onerror="this.onerror=null;this.src='//img.sbs.co.kr/newimg/news/20231012/201843660.jpg'" alt="섬네일 이미지:[사실은] '압도적 군사력' 이스라엘…전쟁의 향방은?" class="mfn_img lazy" style="display: inline;">
+									<img src="https://static.sbsdlab.co.kr/image/thumb_default.png" data-src="//img.sbs.co.kr/newimg/news/20231012/201843660_300.jpg" onerror="this.onerror=null;this.src='//img.sbs.co.kr/newimg/news/20231012/201843660.jpg'" alt="섬네일 이미지:[사실은] '압도적 군사력' 이스라엘…전쟁의 향방은?" class="mfn_img lazy">
 									
 								<em class="ir i_play">동영상 기사</em><!-- 동영상 섬네일 일때 아이콘 추가 -->
 							</span>
@@ -209,7 +209,7 @@
 							
 														
 						</div>]]></content:encoded>
-            <enclosure url="https://img.sbs.co.kr/newimg/news/20231012/201843660_300.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://static.sbsdlab.co.kr/image/thumb_default.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[사실은] "후쿠시마산 수산물 659톤 수입"…확인해보니 (SBS뉴스 ─ 사실은)]]></title>
@@ -219,7 +219,7 @@
             <content:encoded><![CDATA[<!-- 섬네일 영역 -->
 						<a href="https://news.sbs.co.kr/news/endPage.do?news_id=N1007373520&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT"><!-- 기사 링크-->
 							<span class="thumb">
-									<img src="//img.sbs.co.kr/newimg/news/20231006/201841452_300.jpg" onerror="this.onerror=null;this.src='//img.sbs.co.kr/newimg/news/20231006/201841452.jpg'" alt="섬네일 이미지:[사실은] &quot;후쿠시마산 수산물 659톤 수입&quot;…확인해보니" class="mfn_img lazy" style="display: inline;">
+									<img src="https://static.sbsdlab.co.kr/image/thumb_default.png" data-src="//img.sbs.co.kr/newimg/news/20231006/201841452_300.jpg" onerror="this.onerror=null;this.src='//img.sbs.co.kr/newimg/news/20231006/201841452.jpg'" alt="섬네일 이미지:[사실은] &quot;후쿠시마산 수산물 659톤 수입&quot;…확인해보니" class="mfn_img lazy">
 									
 								<em class="ir i_play">동영상 기사</em><!-- 동영상 섬네일 일때 아이콘 추가 -->
 							</span>
@@ -247,7 +247,7 @@
 							
 														
 						</div>]]></content:encoded>
-            <enclosure url="https://img.sbs.co.kr/newimg/news/20231006/201841452_300.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://static.sbsdlab.co.kr/image/thumb_default.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[사실은] "망고 없네" 65억 소송…한국 스타벅스 어떨까 (SBS뉴스 ─ 사실은)]]></title>
@@ -257,7 +257,7 @@
             <content:encoded><![CDATA[<!-- 섬네일 영역 -->
 						<a href="https://news.sbs.co.kr/news/endPage.do?news_id=N1007358479&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT"><!-- 기사 링크-->
 							<span class="thumb">
-									<img src="//img.sbs.co.kr/newimg/news/20230922/201837034_300.jpg" onerror="this.onerror=null;this.src='//img.sbs.co.kr/newimg/news/20230922/201837034.jpg'" alt="섬네일 이미지:[사실은] &quot;망고 없네&quot; 65억 소송…한국 스타벅스 어떨까" class="mfn_img lazy" style="display: inline;">
+									<img src="https://static.sbsdlab.co.kr/image/thumb_default.png" data-src="//img.sbs.co.kr/newimg/news/20230922/201837034_300.jpg" onerror="this.onerror=null;this.src='//img.sbs.co.kr/newimg/news/20230922/201837034.jpg'" alt="섬네일 이미지:[사실은] &quot;망고 없네&quot; 65억 소송…한국 스타벅스 어떨까" class="mfn_img lazy">
 									
 								<em class="ir i_play">동영상 기사</em><!-- 동영상 섬네일 일때 아이콘 추가 -->
 							</span>
@@ -285,7 +285,7 @@
 							
 														
 						</div>]]></content:encoded>
-            <enclosure url="https://img.sbs.co.kr/newimg/news/20230922/201837034_300.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://static.sbsdlab.co.kr/image/thumb_default.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[사실은] 초밥 먹기 전 "잠시만요"…방사능 측정기 효과는 (SBS뉴스 ─ 사실은)]]></title>
@@ -295,7 +295,7 @@
             <content:encoded><![CDATA[<!-- 섬네일 영역 -->
 						<a href="https://news.sbs.co.kr/news/endPage.do?news_id=N1007352118&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT"><!-- 기사 링크-->
 							<span class="thumb">
-									<img src="//img.sbs.co.kr/newimg/news/20230918/201834916_300.jpg" onerror="this.onerror=null;this.src='//img.sbs.co.kr/newimg/news/20230918/201834916.jpg'" alt="섬네일 이미지:[사실은] 초밥 먹기 전 &quot;잠시만요&quot;…방사능 측정기 효과는" class="mfn_img lazy" style="display: inline;">
+									<img src="https://static.sbsdlab.co.kr/image/thumb_default.png" data-src="//img.sbs.co.kr/newimg/news/20230918/201834916_300.jpg" onerror="this.onerror=null;this.src='//img.sbs.co.kr/newimg/news/20230918/201834916.jpg'" alt="섬네일 이미지:[사실은] 초밥 먹기 전 &quot;잠시만요&quot;…방사능 측정기 효과는" class="mfn_img lazy">
 									
 								<em class="ir i_play">동영상 기사</em><!-- 동영상 섬네일 일때 아이콘 추가 -->
 							</span>
@@ -323,7 +323,7 @@
 							
 														
 						</div>]]></content:encoded>
-            <enclosure url="https://img.sbs.co.kr/newimg/news/20230918/201834916_300.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://static.sbsdlab.co.kr/image/thumb_default.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[사실은] "홍범도 논란의 핵심, 역사의 소급 적용" (SBS뉴스 ─ 사실은)]]></title>
@@ -333,7 +333,7 @@
             <content:encoded><![CDATA[<!-- 섬네일 영역 -->
 						<a href="https://news.sbs.co.kr/news/endPage.do?news_id=N1007329873&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT"><!-- 기사 링크-->
 							<span class="thumb">
-									<img src="//img.sbs.co.kr/newimg/news/20230831/201827863_300.jpg" onerror="this.onerror=null;this.src='//img.sbs.co.kr/newimg/news/20230831/201827863.jpg'" alt="섬네일 이미지:[사실은] &quot;홍범도 논란의 핵심, 역사의 소급 적용&quot;" class="mfn_img lazy" style="display: inline;">
+									<img src="https://static.sbsdlab.co.kr/image/thumb_default.png" data-src="//img.sbs.co.kr/newimg/news/20230831/201827863_300.jpg" onerror="this.onerror=null;this.src='//img.sbs.co.kr/newimg/news/20230831/201827863.jpg'" alt="섬네일 이미지:[사실은] &quot;홍범도 논란의 핵심, 역사의 소급 적용&quot;" class="mfn_img lazy">
 									
 								
 							</span>
@@ -361,7 +361,7 @@
 							
 														
 						</div>]]></content:encoded>
-            <enclosure url="https://img.sbs.co.kr/newimg/news/20230831/201827863_300.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://static.sbsdlab.co.kr/image/thumb_default.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[사실은] 후쿠시마 오염수 '30년' 방류 계획, 따져 보니… (SBS뉴스 ─ 사실은)]]></title>
