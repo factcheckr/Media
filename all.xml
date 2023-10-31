@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 Oct 2023 08:15:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Oct 2023 09:11:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://news.kbs.co.kr/news/view.do?ncd=7806324</link>
             <guid>https://news.kbs.co.kr/news/view.do?ncd=7806324</guid>
             <pubDate>Tue, 31 Oct 2023 06:10:15 GMT</pubDate>
-            <content:encoded><![CDATA[국민의힘 김기현 대표가 갑작스럽게 밝힌 '김포의 서울 편입' 이슈가 계속 화제입니다.김기현...]]></content:encoded>
+            <content:encoded><![CDATA[국민의힘 김기현 대표가 갑작스럽게 밝힌 '김포의 서울 편입'이 계속 화제입니다.김기현 대표...]]></content:encoded>
             <enclosure url="https://news.kbs.co.kr/data/fckeditor/new/image/2023/10/31/306621698727052482.png" length="0" type="image/png"/>
         </item>
         <item>
