@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 May 2024 22:08:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 May 2024 23:12:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -15,7 +15,7 @@
             <content:encoded><![CDATA[<!-- 섬네일 영역 -->
 						<a href="https://news.sbs.co.kr/news/endPage.do?news_id=N1007658237&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT"><!-- 기사 링크-->
 							<span class="thumb">
-									<img src="https://static.sbsdlab.co.kr/image/thumb_default.png" data-src="//img.sbs.co.kr/newimg/news/20240523/201936211_300.jpg" onerror="this.onerror=null;this.src='//img.sbs.co.kr/newimg/news/20240523/201936211.jpg'" alt="섬네일 이미지:법대로 하면 '쾅'?…&quot;국제 기준 따랐다&quot; 사실일까" class="mfn_img lazy">
+									<img src="//img.sbs.co.kr/newimg/news/20240523/201936211_300.jpg" onerror="this.onerror=null;this.src='//img.sbs.co.kr/newimg/news/20240523/201936211.jpg'" alt="섬네일 이미지:법대로 하면 '쾅'?…&quot;국제 기준 따랐다&quot; 사실일까" class="mfn_img lazy" style="display: inline;">
 									
 								<em class="ir i_play">동영상 기사</em><!-- 동영상 섬네일 일때 아이콘 추가 -->
 							</span>
@@ -43,7 +43,7 @@
 							
 														
 						</div>]]></content:encoded>
-            <enclosure url="https://static.sbsdlab.co.kr/image/thumb_default.png" length="0" type="image/png"/>
+            <enclosure url="https://img.sbs.co.kr/newimg/news/20240523/201936211_300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['갈까 말까' 딜레마존…"안 겪어보면 몰라" 판결에 분통 [사실은] (SBS뉴스 ─ 사실은)]]></title>
@@ -53,7 +53,7 @@
             <content:encoded><![CDATA[<!-- 섬네일 영역 -->
 						<a href="https://news.sbs.co.kr/news/endPage.do?news_id=N1007656713&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT"><!-- 기사 링크-->
 							<span class="thumb">
-									<img src="https://static.sbsdlab.co.kr/image/thumb_default.png" data-src="//img.sbs.co.kr/newimg/news/20240522/201935681_300.jpg" onerror="this.onerror=null;this.src='//img.sbs.co.kr/newimg/news/20240522/201935681.jpg'" alt="섬네일 이미지:'갈까 말까' 딜레마존…&quot;안 겪어보면 몰라&quot; 판결에 분통 [사실은]" class="mfn_img lazy">
+									<img src="//img.sbs.co.kr/newimg/news/20240522/201935681_300.jpg" onerror="this.onerror=null;this.src='//img.sbs.co.kr/newimg/news/20240522/201935681.jpg'" alt="섬네일 이미지:'갈까 말까' 딜레마존…&quot;안 겪어보면 몰라&quot; 판결에 분통 [사실은]" class="mfn_img lazy" style="display: inline;">
 									
 								<em class="ir i_play">동영상 기사</em><!-- 동영상 섬네일 일때 아이콘 추가 -->
 							</span>
@@ -81,7 +81,7 @@
 							
 														
 						</div>]]></content:encoded>
-            <enclosure url="https://static.sbsdlab.co.kr/image/thumb_default.png" length="0" type="image/png"/>
+            <enclosure url="https://img.sbs.co.kr/newimg/news/20240522/201935681_300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["사유지도 견인"…주차 테러 '사이다 결말' 어떻게 나왔나 (SBS뉴스 ─ 사실은)]]></title>
@@ -91,7 +91,7 @@
             <content:encoded><![CDATA[<!-- 섬네일 영역 -->
 						<a href="https://news.sbs.co.kr/news/endPage.do?news_id=N1007651220&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT"><!-- 기사 링크-->
 							<span class="thumb">
-									<img src="https://static.sbsdlab.co.kr/image/thumb_default.png" data-src="//img.sbs.co.kr/newimg/news/20240518/201933882_300.jpg" onerror="this.onerror=null;this.src='//img.sbs.co.kr/newimg/news/20240518/201933882.jpg'" alt="섬네일 이미지:&quot;사유지도 견인&quot;…주차 테러 '사이다 결말' 어떻게 나왔나" class="mfn_img lazy">
+									<img src="//img.sbs.co.kr/newimg/news/20240518/201933882_300.jpg" onerror="this.onerror=null;this.src='//img.sbs.co.kr/newimg/news/20240518/201933882.jpg'" alt="섬네일 이미지:&quot;사유지도 견인&quot;…주차 테러 '사이다 결말' 어떻게 나왔나" class="mfn_img lazy" style="display: inline;">
 									
 								<em class="ir i_play">동영상 기사</em><!-- 동영상 섬네일 일때 아이콘 추가 -->
 							</span>
@@ -119,7 +119,7 @@
 							
 														
 						</div>]]></content:encoded>
-            <enclosure url="https://static.sbsdlab.co.kr/image/thumb_default.png" length="0" type="image/png"/>
+            <enclosure url="https://img.sbs.co.kr/newimg/news/20240518/201933882_300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이기적 주차 테러, 이례적 '사이다 결말'…어떻게 가능했나 [사실은] (SBS뉴스 ─ 사실은)]]></title>
@@ -129,7 +129,7 @@
             <content:encoded><![CDATA[<!-- 섬네일 영역 -->
 						<a href="https://news.sbs.co.kr/news/endPage.do?news_id=N1007651066&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT"><!-- 기사 링크-->
 							<span class="thumb">
-									<img src="https://static.sbsdlab.co.kr/image/thumb_default.png" data-src="//img.sbs.co.kr/newimg/news/20240517/201933809_300.jpg" onerror="this.onerror=null;this.src='//img.sbs.co.kr/newimg/news/20240517/201933809.jpg'" alt="섬네일 이미지:이기적 주차 테러, 이례적 '사이다 결말'…어떻게 가능했나 [사실은]" class="mfn_img lazy">
+									<img src="//img.sbs.co.kr/newimg/news/20240517/201933809_300.jpg" onerror="this.onerror=null;this.src='//img.sbs.co.kr/newimg/news/20240517/201933809.jpg'" alt="섬네일 이미지:이기적 주차 테러, 이례적 '사이다 결말'…어떻게 가능했나 [사실은]" class="mfn_img lazy" style="display: inline;">
 									
 								<em class="ir i_play">동영상 기사</em><!-- 동영상 섬네일 일때 아이콘 추가 -->
 							</span>
@@ -157,7 +157,7 @@
 							
 														
 						</div>]]></content:encoded>
-            <enclosure url="https://static.sbsdlab.co.kr/image/thumb_default.png" length="0" type="image/png"/>
+            <enclosure url="https://img.sbs.co.kr/newimg/news/20240517/201933809_300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["중고거래도 세금 뗀다고요?" 펄쩍…혹시 나도? [사실은] (SBS뉴스 ─ 사실은)]]></title>
@@ -167,7 +167,7 @@
             <content:encoded><![CDATA[<!-- 섬네일 영역 -->
 						<a href="https://news.sbs.co.kr/news/endPage.do?news_id=N1007648153&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT"><!-- 기사 링크-->
 							<span class="thumb">
-									<img src="https://static.sbsdlab.co.kr/image/thumb_default.png" data-src="//img.sbs.co.kr/newimg/news/20240515/201932727_300.jpg" onerror="this.onerror=null;this.src='//img.sbs.co.kr/newimg/news/20240515/201932727.jpg'" alt="섬네일 이미지:&quot;중고거래도 세금 뗀다고요?&quot; 펄쩍…혹시 나도? [사실은]" class="mfn_img lazy">
+									<img src="//img.sbs.co.kr/newimg/news/20240515/201932727_300.jpg" onerror="this.onerror=null;this.src='//img.sbs.co.kr/newimg/news/20240515/201932727.jpg'" alt="섬네일 이미지:&quot;중고거래도 세금 뗀다고요?&quot; 펄쩍…혹시 나도? [사실은]" class="mfn_img lazy" style="display: inline;">
 									
 								<em class="ir i_play">동영상 기사</em><!-- 동영상 섬네일 일때 아이콘 추가 -->
 							</span>
@@ -195,7 +195,7 @@
 							
 														
 						</div>]]></content:encoded>
-            <enclosure url="https://static.sbsdlab.co.kr/image/thumb_default.png" length="0" type="image/png"/>
+            <enclosure url="https://img.sbs.co.kr/newimg/news/20240515/201932727_300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[담배·커피타임은 근로시간?…노동부에 물어보니 [사실은] (SBS뉴스 ─ 사실은)]]></title>
@@ -205,7 +205,7 @@
             <content:encoded><![CDATA[<!-- 섬네일 영역 -->
 						<a href="https://news.sbs.co.kr/news/endPage.do?news_id=N1007640185&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT"><!-- 기사 링크-->
 							<span class="thumb">
-									<img src="https://static.sbsdlab.co.kr/image/thumb_default.png" data-src="//img.sbs.co.kr/newimg/news/20240508/201930025_300.jpg" onerror="this.onerror=null;this.src='//img.sbs.co.kr/newimg/news/20240508/201930025.jpg'" alt="섬네일 이미지:담배·커피타임은 근로시간?…노동부에 물어보니 [사실은]" class="mfn_img lazy">
+									<img src="//img.sbs.co.kr/newimg/news/20240508/201930025_300.jpg" onerror="this.onerror=null;this.src='//img.sbs.co.kr/newimg/news/20240508/201930025.jpg'" alt="섬네일 이미지:담배·커피타임은 근로시간?…노동부에 물어보니 [사실은]" class="mfn_img lazy" style="display: inline;">
 									
 								<em class="ir i_play">동영상 기사</em><!-- 동영상 섬네일 일때 아이콘 추가 -->
 							</span>
@@ -233,7 +233,7 @@
 							
 														
 						</div>]]></content:encoded>
-            <enclosure url="https://static.sbsdlab.co.kr/image/thumb_default.png" length="0" type="image/png"/>
+            <enclosure url="https://img.sbs.co.kr/newimg/news/20240508/201930025_300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["이 뽑아"는 안 되고 "발치몽"은 된다?…처벌 기준 모호 (SBS뉴스 ─ 사실은)]]></title>
