@@ -4,9 +4,47 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Nov 2024 22:10:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Nov 2024 04:13:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[취재파일] 트럼프와 비트코인, 이번엔 꽃길만 걸을까? [사실은] (SBS뉴스 ─ 사실은)]]></title>
+            <link>https://news.sbs.co.kr/news/endPage.do?news_id=N1007880067&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</link>
+            <guid>https://news.sbs.co.kr/news/endPage.do?news_id=N1007880067&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</guid>
+            <pubDate>Wed, 20 Nov 2024 04:13:14 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 섬네일 영역 -->
+						<a href="https://news.sbs.co.kr/news/endPage.do?news_id=N1007880067&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT"><!-- 기사 링크-->
+							<span class="thumb">
+									<img src="//img.sbs.co.kr/newimg/news/20241120/202009310_300.jpg" onerror="this.onerror=null;this.src='//img.sbs.co.kr/newimg/news/20241120/202009310.jpg'" alt="섬네일 이미지:[취재파일] 트럼프와 비트코인, 이번엔 꽃길만 걸을까? [사실은]" class="mfn_img lazy" style="display: inline;">
+									
+								
+							</span>
+						</a>
+						<!--// 섬네일 영역 -->
+						<!-- 텍스트 영역 -->
+						<p class="desc">
+							<!-- 기사 제목 -->						
+							<a href="https://news.sbs.co.kr/news/endPage.do?news_id=N1007880067&amp;plink=TITLE&amp;cooper=SBSNEWSINFACT"><!-- 기사 링크 -->
+								<strong>[취재파일] 트럼프와 비트코인, 이번엔 꽃길만 걸을까? [사실은]</strong>
+							</a>
+							<!-- 기사 정보 -->	
+							<span class="info">
+								<span class="date">2024.11.20<i class="ir i_time"></i>10:34</span>
+							</span>
+						</p>
+						<!--// 텍스트 영역 -->
+
+						<!-- 사실은 아이콘 -->
+						<div class="label_fact">
+							
+							
+							
+							
+							
+														
+						</div>]]></content:encoded>
+            <enclosure url="https://img.sbs.co.kr/newimg/news/20241120/202009310_300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['트럼프발 관세'에 아이폰 급등?…한국에도 영향 줄까 [사실은] (SBS뉴스 ─ 사실은)]]></title>
             <link>https://news.sbs.co.kr/news/endPage.do?news_id=N1007876584&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</link>
@@ -205,7 +243,7 @@
             <content:encoded><![CDATA[<!-- 섬네일 영역 -->
 						<a href="https://news.sbs.co.kr/news/endPage.do?news_id=N1007823159&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT"><!-- 기사 링크-->
 							<span class="thumb">
-									<img src="//img.sbs.co.kr/newimg/news/20241004/201992196_300.jpg" onerror="this.onerror=null;this.src='//img.sbs.co.kr/newimg/news/20241004/201992196.jpg'" alt="섬네일 이미지:[사실은] 국산 김치 먹기 어려워지나…'금배추' 대책은?" class="mfn_img lazy" style="display: inline;">
+									<img src="https://static.sbsdlab.co.kr/image/thumb_default.png" data-src="//img.sbs.co.kr/newimg/news/20241004/201992196_300.jpg" onerror="this.onerror=null;this.src='//img.sbs.co.kr/newimg/news/20241004/201992196.jpg'" alt="섬네일 이미지:[사실은] 국산 김치 먹기 어려워지나…'금배추' 대책은?" class="mfn_img lazy">
 									
 								<em class="ir i_play">동영상 기사</em><!-- 동영상 섬네일 일때 아이콘 추가 -->
 							</span>
@@ -233,7 +271,7 @@
 							
 														
 						</div>]]></content:encoded>
-            <enclosure url="https://img.sbs.co.kr/newimg/news/20241004/201992196_300.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://static.sbsdlab.co.kr/image/thumb_default.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[사실은] 학교 안 '폰 금지'는 인권침해?…다른 나라는 (SBS뉴스 ─ 사실은)]]></title>
@@ -334,44 +372,6 @@
 							<!-- 기사 정보 -->	
 							<span class="info">
 								<span class="date">2024.09.06<i class="ir i_time"></i>20:36</span>
-							</span>
-						</p>
-						<!--// 텍스트 영역 -->
-
-						<!-- 사실은 아이콘 -->
-						<div class="label_fact">
-							
-							
-							
-							
-							
-														
-						</div>]]></content:encoded>
-            <enclosure url="https://static.sbsdlab.co.kr/image/thumb_default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["비싼 영화 관람료, 배우 출연료 탓?"…따져 보니 [사실은] (SBS뉴스 ─ 사실은)]]></title>
-            <link>https://news.sbs.co.kr/news/endPage.do?news_id=N1007779635&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</link>
-            <guid>https://news.sbs.co.kr/news/endPage.do?news_id=N1007779635&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT</guid>
-            <pubDate>Wed, 28 Aug 2024 13:17:08 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 섬네일 영역 -->
-						<a href="https://news.sbs.co.kr/news/endPage.do?news_id=N1007779635&amp;plink=THUMB&amp;cooper=SBSNEWSINFACT"><!-- 기사 링크-->
-							<span class="thumb">
-									<img src="https://static.sbsdlab.co.kr/image/thumb_default.png" data-src="//img.sbs.co.kr/newimg/news/20240828/201978574_300.jpg" onerror="this.onerror=null;this.src='//img.sbs.co.kr/newimg/news/20240828/201978574.jpg'" alt="섬네일 이미지:&quot;비싼 영화 관람료, 배우 출연료 탓?&quot;…따져 보니 [사실은]" class="mfn_img lazy">
-									
-								<em class="ir i_play">동영상 기사</em><!-- 동영상 섬네일 일때 아이콘 추가 -->
-							</span>
-						</a>
-						<!--// 섬네일 영역 -->
-						<!-- 텍스트 영역 -->
-						<p class="desc">
-							<!-- 기사 제목 -->						
-							<a href="https://news.sbs.co.kr/news/endPage.do?news_id=N1007779635&amp;plink=TITLE&amp;cooper=SBSNEWSINFACT"><!-- 기사 링크 -->
-								<strong>"비싼 영화 관람료, 배우 출연료 탓?"…따져 보니 [사실은]</strong>
-							</a>
-							<!-- 기사 정보 -->	
-							<span class="info">
-								<span class="date">2024.08.28<i class="ir i_time"></i>20:45</span>
 							</span>
 						</p>
 						<!--// 텍스트 영역 -->
@@ -506,6 +506,16 @@
             <pubDate>Tue, 21 May 2024 12:16:47 GMT</pubDate>
             <content:encoded><![CDATA[<span>2024-05-21</span>]]></content:encoded>
             <enclosure url="https://image.imnews.imbc.com/replay/2024/nwdesk/article/__icsFiles/afieldfile/2024/05/21/desk_20240521_201829_1_13_Large.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[전동 킥보드, 전면 금지할 수 있나? (연합뉴스 ─ 팩트체크)]]></title>
+            <link>https://www.yna.co.kr/view/AKR20241119094700518?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20241119094700518?section=theme-list/factcheck</guid>
+            <pubDate>Wed, 20 Nov 2024 04:13:38 GMT</pubDate>
+            <content:encoded><![CDATA[교통사고 6년새 20배로 급증…전동 킥보드에 불만 고조
+서울시 '킥보드 없는 거리' 선정…전면 금지는 불가능
+(서울=연합뉴스) 구정모 기자 = "그냥 전동 킥보드 전면 금지 해라...]]></content:encoded>
+            <enclosure url="https://img6.yna.co.kr/photo/yna/YH/2024/11/06/PYH2024110604520001300_T2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[트럼프는 '한국 조선 실력' 예전부터 알고 있었다? (연합뉴스 ─ 팩트체크)]]></title>
@@ -743,16 +753,6 @@ RSF·언론인 평가 '언론 자유'는 부침…이명박·박근혜 정부↓
 배수펌프 설치에도 침수 목격…파행 직접원인으로 보기엔 무리
 (부안=연합뉴스) 정경재 기자 = "잼버리 배수 대책...]]></content:encoded>
             <enclosure url="https://img8.yna.co.kr/photo/yna/YH/2023/08/01/PYH2023080115030005500_T2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[외국에선 폭염에도 이름을 붙인다? (연합뉴스 ─ 팩트체크)]]></title>
-            <link>https://www.yna.co.kr/view/AKR20230810053800518?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20230810053800518?section=theme-list/factcheck</guid>
-            <pubDate>Tue, 05 Nov 2024 00:43:24 GMT</pubDate>
-            <content:encoded><![CDATA[전 세계 위협하는 재난 된 '폭염' 인명피해 크지만 위험의식은 낮아
-스페인·그리스 폭염에 이름 붙여…LA 등 미국서도 논의 "경각심 제고"
-(서울=연합뉴스) 우혜림 인턴 기자 =...]]></content:encoded>
-            <enclosure url="https://img2.yna.co.kr/photo/cms/2018/08/03/15/C0A8CA3C00000164FDB6CFDF00047E5C_T2.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[[팩트체크]전세계 확산하는 어린이 급성간염 원인이 코로나19 백신? (동아사이언스 ─ 팩트체크)]]></title>
