@@ -4,9 +4,20 @@
         <title>연합뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Jan 2025 23:10:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Jan 2025 00:42:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['오겜2'는 정말 우리나라 전통놀이인가?(종합)]]></title>
+            <link>https://www.yna.co.kr/view/AKR20250114023300518?section=theme-list/factcheck</link>
+            <guid>https://www.yna.co.kr/view/AKR20250114023300518?section=theme-list/factcheck</guid>
+            <pubDate>Tue, 14 Jan 2025 00:42:28 GMT</pubDate>
+            <content:encoded><![CDATA[공기놀이, 조선시대 문헌에 등장……지방마다 이름 달라
+비석치기 기원 분명치 않아… 오래전부터 즐겼던 놀이
+제기차기·팽이치기는 중국서 유래된듯
+(서울=연합뉴스) 구정모 기자 = ...]]></content:encoded>
+            <enclosure url="https://img9.yna.co.kr/photo/cms/2024/12/27/29/PCM20241227000029005_T2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['오겜2'는 정말 우리나라 전통놀이인가?]]></title>
             <link>https://www.yna.co.kr/view/AKR20250110125800518?section=theme-list/factcheck</link>
@@ -255,17 +266,6 @@
 일반 특검은 개별 특검법 제정 필요…대통령 거부권 행사할 수도
 (서울=연합뉴스) 구정모 기자 = 야당 주도로...]]></content:encoded>
             <enclosure url="https://img7.yna.co.kr/photo/yna/YH/2024/12/10/PYH2024121013590001300_T2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[유튜버는 세금 안 내도 괜찮다?]]></title>
-            <link>https://www.yna.co.kr/view/AKR20241126120600518?section=theme-list/factcheck</link>
-            <guid>https://www.yna.co.kr/view/AKR20241126120600518?section=theme-list/factcheck</guid>
-            <pubDate>Mon, 09 Dec 2024 23:12:32 GMT</pubDate>
-            <content:encoded><![CDATA[초보 유튜버도 수입 신고해야…누락 적발시 가산세
-'상위 1%' 유튜버 평균 8억원 넘게 벌어…세무조사 강화
-다수 유튜버는 수입 '미미'…진입장벽 낮아져 경쟁 치열
-(서울=연합뉴...]]></content:encoded>
-            <enclosure url="https://img5.yna.co.kr/photo/cms/2024/07/23/15/PCM20240723000115990_T2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
